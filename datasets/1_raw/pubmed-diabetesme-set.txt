@@ -1,0 +1,4095 @@
+PMID- 37380983
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230630
+LR  - 20230702
+IS  - 1475-2840 (Electronic)
+IS  - 1475-2840 (Linking)
+VI  - 22
+IP  - 1
+DP  - 2023 Jun 28
+TI  - Left ventricular mass predicts cardiac reverse remodelling in patients treated 
+      with empagliflozin.
+PG  - 152
+LID - 10.1186/s12933-023-01849-w [doi]
+LID - 152
+AB  - BACKGROUND: The cardiovascular (CV) benefits of sodium-glucose transport protein 
+      2 inhibitors have been attributed, in part, to cardiac reverse remodelling. The 
+      EMPA-HEART CardioLink-6 study reported that sodium-glucose cotransporter-2 
+      inhibition for 6 months with empagliflozin was associated with a significant 
+      reduction in left ventricular mass indexed to body surface area (LVMi). In this 
+      sub-analysis, we evaluated whether baseline LVMi may influence how empagliflozin 
+      affects cardiac reverse remodelling. METHODS: A total of 97 patients with type 2 
+      diabetes and coronary artery disease were randomized to empagliflozin (10 mg/d) 
+      or matching placebo for 6 months. The study cohort was divided into those whose 
+      baseline LVMi was ≤ 60 g/m(2) and those who had a baseline LVMi > 60 g/m(2). 
+      Subgroup comparisons were conducted using a linear regression model adjusted for 
+      baseline values (ANCOVA) that included an interaction term between LVMi subgroup 
+      and treatment. RESULTS: Baseline LVMi was 53.3 g/m(2) (49.2-57.2) and 69.7 g/m(2) 
+      (64.2-76.1) for those with baseline ≤ 60 g/m(2) (n = 54) and LVMi > 60 g/m(2) 
+      (n = 43) respectively. The adjusted difference of LVMi regression between those 
+      randomized to empagliflozin and placebo were - 0.46 g/m(2) (95% CI: -3.44, 2.52, 
+      p = 0.76) in the baseline LVMi ≤ 60 g/m(2) subgroup and - 7.26 g/m(2) (95% CI: 
+      -11.40, -3.12, p = 0.0011) in the baseline LVMi > 60 g/m(2) subgroup 
+      (p-for-interaction = 0.007). No significant associations were found between 
+      baseline LVMi and 6-month change in LV end systolic volume-indexed 
+      (p-for-interaction = 0.086), LV end diastolic volume-indexed 
+      (p-for-interaction = 0.34), or LV ejection fraction (p-for-interaction = 0.15). 
+      CONCLUSIONS: Patients with higher LVMi at baseline experienced greater LVM 
+      regression with empagliflozin.
+CI  - © 2023. The Author(s).
+FAU - Puar, Pankaj
+AU  - Puar P
+AD  - Division of Cardiac Surgery, St. Michael's Hospital of Unity Health Toronto, 30 
+      Bond Street, Toronto, ON, Canada.
+AD  - Keenan Research Centre for Biomedical Science in the Li Ka Shing Knowledge 
+      Institute of St. Michael's Hospital, Toronto, ON, Canada.
+AD  - Department of Pharmacology and Toxicology, University of Toronto, Toronto, ON, 
+      Canada.
+AD  - Faculty of Medicine, University of British Columbia, Vancouver, BC, Canada.
+FAU - Hibino, Makoto
+AU  - Hibino M
+AD  - Department of Cardiac Surgery, University Hospitals Cleveland Medical Center, 
+      Case Western Reserve University, Cleveland, OH, USA.
+FAU - Mazer, C David
+AU  - Mazer CD
+AD  - Keenan Research Centre for Biomedical Science in the Li Ka Shing Knowledge 
+      Institute of St. Michael's Hospital, Toronto, ON, Canada.
+AD  - Department of Pharmacology and Toxicology, University of Toronto, Toronto, ON, 
+      Canada.
+AD  - Department of Anesthesia, St. Michael's Hospital of Unity Health Toronto, 
+      Toronto, ON, Canada.
+AD  - Departments of Anesthesiology and Pain Medicine, University of Toronto, Toronto, 
+      ON, Canada.
+AD  - Department of Physiology, University of Toronto, Toronto, ON, Canada.
+FAU - Yan, Andrew T
+AU  - Yan AT
+AD  - Division of Cardiology, St. Michael's Hospital of Unity Health Toronto, Toronto, 
+      ON, Canada.
+AD  - Department of Medicine, University of Toronto, Toronto, ON, Canada.
+FAU - Pandey, Arjun K
+AU  - Pandey AK
+AD  - Michael G. DeGroote School of Medicine, McMaster University, Hamilton, ON, 
+      Canada.
+FAU - Quan, Adrian
+AU  - Quan A
+AD  - Division of Cardiac Surgery, St. Michael's Hospital of Unity Health Toronto, 30 
+      Bond Street, Toronto, ON, Canada.
+AD  - Keenan Research Centre for Biomedical Science in the Li Ka Shing Knowledge 
+      Institute of St. Michael's Hospital, Toronto, ON, Canada.
+FAU - Teoh, Hwee
+AU  - Teoh H
+AD  - Division of Cardiac Surgery, St. Michael's Hospital of Unity Health Toronto, 30 
+      Bond Street, Toronto, ON, Canada.
+AD  - Keenan Research Centre for Biomedical Science in the Li Ka Shing Knowledge 
+      Institute of St. Michael's Hospital, Toronto, ON, Canada.
+AD  - Division of Endocrinology and Metabolism, St. Michael's Hospital of Unity Health 
+      Toronto, Toronto, ON, Canada.
+FAU - Hess, David A
+AU  - Hess DA
+AD  - Department of Pharmacology and Toxicology, University of Toronto, Toronto, ON, 
+      Canada.
+AD  - Molecular Medicine Research Laboratories, Krembil Centre for Stem Cells Biology, 
+      Robarts Research Institute, University of Western Ontario, London, ON, Canada.
+AD  - Department of Physiology and Pharmacology, University of Western Ontario, London, 
+      ON, Canada.
+FAU - Verma, Raj
+AU  - Verma R
+AD  - Royal College of Surgeons in Ireland, Dublin, Ireland.
+FAU - Connelly, Kim A
+AU  - Connelly KA
+AD  - Keenan Research Centre for Biomedical Science in the Li Ka Shing Knowledge 
+      Institute of St. Michael's Hospital, Toronto, ON, Canada.
+AD  - Department of Physiology, University of Toronto, Toronto, ON, Canada.
+AD  - Division of Cardiology, St. Michael's Hospital of Unity Health Toronto, Toronto, 
+      ON, Canada.
+AD  - Department of Medicine, University of Toronto, Toronto, ON, Canada.
+FAU - Verma, Subodh
+AU  - Verma S
+AD  - Division of Cardiac Surgery, St. Michael's Hospital of Unity Health Toronto, 30 
+      Bond Street, Toronto, ON, Canada. Subodh.Verma@unityhealth.to.
+AD  - Keenan Research Centre for Biomedical Science in the Li Ka Shing Knowledge 
+      Institute of St. Michael's Hospital, Toronto, ON, Canada. 
+      Subodh.Verma@unityhealth.to.
+AD  - Department of Pharmacology and Toxicology, University of Toronto, Toronto, ON, 
+      Canada. Subodh.Verma@unityhealth.to.
+AD  - Department of Surgery, University of Toronto, Toronto, ON, Canada. 
+      Subodh.Verma@unityhealth.to.
+LA  - eng
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+DEP - 20230628
+PL  - England
+TA  - Cardiovasc Diabetol
+JT  - Cardiovascular diabetology
+JID - 101147637
+RN  - HDC1R2M35U (empagliflozin)
+RN  - 0 (Benzhydryl Compounds)
+SB  - IM
+MH  - Humans
+MH  - *Diabetes Mellitus, Type 2/diagnosis/drug therapy
+MH  - Heart
+MH  - *Coronary Artery Disease
+MH  - Benzhydryl Compounds/adverse effects
+PMC - PMC10303338
+OTO - NOTNLM
+OT  - Cardiac reverse remodelling
+OT  - Diabetes
+OT  - Heart failure
+OT  - Left ventricle
+OT  - SGLT2 inhibition
+COIS- CDM has received advisory board honoraria/consulting fees from Amgen, 
+      AstraZeneca, BioAge, Boehringer Ingelheim, and PhaseBio, and honoraria for DSMB 
+      membership from Beth Israel Deaconess Medical Center, Cerus and Takeda. HT 
+      reports personal fees from the Canadian Medical and Surgical Knowledge 
+      Translation Research Group. KAC has received research grants to his institution 
+      from Astra Zeneca and Boehringer Ingelheim, received support for travel to 
+      scientific meeting from Boehringer Ingelheim and Astra Zeneca and Merck and 
+      honoraria for speaking engagements and ad hoc participation in advisory boards 
+      from Astra Zeneca, Boehringer Ingelheim, Merck and Janssen. SV reports receiving 
+      research grants and/or speaking honoraria from Amarin, Amgen, AstraZeneca, Bayer, 
+      Boehringer Ingelheim, Eli Lilly, EOCI Pharmacomm Ltd, HLS Therapeutics, Janssen, 
+      Novartis, Novo Nordisk, Pfizer, PhaseBio, and Sanofi. He is the President of the 
+      Canadian Medical and Surgical Knowledge Translation Research Group, a federally 
+      incorporated not-for-profit physician organization.
+EDAT- 2023/06/29 01:08
+MHDA- 2023/06/30 06:43
+CRDT- 2023/06/28 23:35
+PHST- 2022/12/24 00:00 [received]
+PHST- 2023/05/05 00:00 [accepted]
+PHST- 2023/06/30 06:43 [medline]
+PHST- 2023/06/29 01:08 [pubmed]
+PHST- 2023/06/28 23:35 [entrez]
+AID - 10.1186/s12933-023-01849-w [pii]
+AID - 1849 [pii]
+AID - 10.1186/s12933-023-01849-w [doi]
+PST - epublish
+SO  - Cardiovasc Diabetol. 2023 Jun 28;22(1):152. doi: 10.1186/s12933-023-01849-w.
+
+PMID- 37377306
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230629
+LR  - 20230629
+IS  - 1414-431X (Electronic)
+IS  - 0100-879X (Linking)
+VI  - 56
+DP  - 2023
+TI  - Effects of therapeutic ultrasound on the endothelial function of patients with 
+      type 2 diabetes mellitus.
+PG  - e12576
+LID - S0100-879X2023000100638 [pii]
+LID - 10.1590/1414-431X2023e12576 [doi]
+AB  - Type 2 diabetes mellitus (T2DM) is characterized by endothelial dysfunction that 
+      causes micro- and macrovascular complications. Low intensity therapeutic 
+      ultrasound (LITUS) may improve endothelial function, but its effects have not 
+      been investigated in these patients. The aim of our study was to compare the 
+      effects of pulsed (PUT) and continuous (CUT) waveforms of LITUS on the 
+      endothelium-dependent vasodilation of T2DM patients. The present randomized 
+      crossover trial had a sample of twenty-three patients (7 men) diagnosed with 
+      T2DM, 55.6 (±9.1) years old, with a body mass index of 28.6 (±3.3) kg/m2. All 
+      patients were randomized and submitted to different waveforms (Placebo, CUT, and 
+      PUT) of LITUS and the arterial endothelial function was evaluated. The LITUS of 1 
+      MHz was applied in pulsed (PUT: 20% duty cycle, 0.08 W/cm2 SATA), continuous 
+      (CUT: 0.4 W/cm2 SPTA), and Placebo (equipment off) types of waves during 5 min on 
+      the brachial artery. Endothelial function was evaluated using the flow-mediated 
+      dilation (FMD) technique. PUT (mean difference 2.08%, 95% confidence interval 
+      0.65 to 3.51) and CUT (mean difference 2.32%, 95% confidence interval 0.89 to 
+      3.74) increased the %FMD compared to Placebo. In the effect size analysis, PUT 
+      (d=0.65) and CUT (d=0.65) waveforms presented moderate effects in the %FMD 
+      compared to Placebo. The vasodilator effect was similar in the different types of 
+      waves. Pulsed and continuous waveforms of LITUS of 1 MHz improved the arterial 
+      endothelial function in T2DM patients.
+FAU - Signori, L U
+AU  - Signori LU
+AUID- ORCID: 0000-0001-7784-9940
+AD  - Programa de Pós-Graduação em Ciências do Movimento e Reabilitação, Universidade 
+      Federal de Santa Maria, Santa Maria, RS, Brasil.
+FAU - Rubin Neto, L J
+AU  - Rubin Neto LJ
+AUID- ORCID: 0000-0003-2682-238X
+AD  - Programa de Pós-Graduação em Ciências do Movimento e Reabilitação, Universidade 
+      Federal de Santa Maria, Santa Maria, RS, Brasil.
+FAU - Jaenisch, R B
+AU  - Jaenisch RB
+AUID- ORCID: 0000-0002-6085-3246
+AD  - Programa de Pós-Graduação em Ciências do Movimento e Reabilitação, Universidade 
+      Federal de Santa Maria, Santa Maria, RS, Brasil.
+FAU - Puntel, G O
+AU  - Puntel GO
+AUID- ORCID: 0000-0002-1641-9477
+AD  - Programa de Pós-Graduação em Ciências do Movimento e Reabilitação, Universidade 
+      Federal de Santa Maria, Santa Maria, RS, Brasil.
+FAU - Nunes, G S
+AU  - Nunes GS
+AUID- ORCID: 0000-0001-9412-3236
+AD  - Programa de Pós-Graduação em Ciências do Movimento e Reabilitação, Universidade 
+      Federal de Santa Maria, Santa Maria, RS, Brasil.
+FAU - Paulitsch, F S
+AU  - Paulitsch FS
+AUID- ORCID: 0000-0003-0319-2194
+AD  - Programa de Pós-Graduação em Ciências da Saúde, Universidade Federal do Rio 
+      Grande, Rio Grande, RS, Brasil.
+FAU - Hauck, M
+AU  - Hauck M
+AUID- ORCID: 0000-0001-9202-7574
+AD  - Programa de Pós-Graduação em Ciências da Saúde, Universidade Federal do Rio 
+      Grande, Rio Grande, RS, Brasil.
+FAU - Silva, A M V da
+AU  - Silva AMVD
+AUID- ORCID: 0000-0001-8127-6911
+AD  - Programa de Pós-Graduação em Ciências do Movimento e Reabilitação, Universidade 
+      Federal de Santa Maria, Santa Maria, RS, Brasil.
+LA  - eng
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+DEP - 20230626
+PL  - Brazil
+TA  - Braz J Med Biol Res
+JT  - Brazilian journal of medical and biological research = Revista brasileira de 
+      pesquisas medicas e biologicas
+JID - 8112917
+RN  - 0 (Vasodilator Agents)
+SB  - IM
+MH  - Male
+MH  - Humans
+MH  - *Diabetes Mellitus, Type 2
+MH  - Vasodilation
+MH  - *Ultrasonic Therapy/methods
+MH  - Endothelium, Vascular
+MH  - Vasodilator Agents/pharmacology/therapeutic use
+MH  - Brachial Artery/diagnostic imaging
+EDAT- 2023/06/28 13:09
+MHDA- 2023/06/29 06:43
+CRDT- 2023/06/28 08:16
+PHST- 2023/03/07 00:00 [received]
+PHST- 2023/05/01 00:00 [accepted]
+PHST- 2023/06/29 06:43 [medline]
+PHST- 2023/06/28 13:09 [pubmed]
+PHST- 2023/06/28 08:16 [entrez]
+AID - S0100-879X2023000100638 [pii]
+AID - 10.1590/1414-431X2023e12576 [doi]
+PST - epublish
+SO  - Braz J Med Biol Res. 2023 Jun 26;56:e12576. doi: 10.1590/1414-431X2023e12576. 
+      eCollection 2023.
+
+PMID- 37375710
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230629
+LR  - 20230701
+IS  - 2072-6643 (Electronic)
+IS  - 2072-6643 (Linking)
+VI  - 15
+IP  - 12
+DP  - 2023 Jun 19
+TI  - A Pilot Study on the Efficacy of a Diabetic Diet Containing the Rare Sugar 
+      D-Allulose in Patients with Type 2 Diabetes Mellitus: A Prospective, Randomized, 
+      Single-Blind, Crossover Study.
+LID - 10.3390/nu15122802 [doi]
+LID - 2802
+AB  - High sugar consumption increases the risk of diabetes, obesity, and 
+      cardiovascular diseases. Regarding the diet of patients with diabetes, artificial 
+      sweeteners are considered a safe alternative to sugar; however, there is also a 
+      risk that artificial sweeteners exacerbate glucose metabolism. D-allulose (C-3 
+      isomer of d-fructose), which is a rare sugar, has been reported to have 
+      antidiabetic and antiobesity effects. In this study, the efficacy of a diabetic 
+      diet containing D-allulose was investigated in patients with type 2 diabetes 
+      using an intermittently scanned continuous glucose monitoring system (isCGM). 
+      This study was a validated, prospective, single-blind, randomized, crossover 
+      comparative study. Comparison of peak postprandial blood glucose (PPG) levels 
+      after consumption of a standard diabetic diet and a diabetic diet containing 8.5 
+      g of D-allulose was the primary endpoint. A D-allulose-containing diabetic diet 
+      improved PPG levels in type two diabetes patients compared with a strictly 
+      energy-controlled diabetic diet. The results also showed a protective effect on 
+      endogenous pancreatic insulin secretory capacity owing to reduced insulin 
+      requirement. In patients with type two diabetes mellitus, diabetic diets 
+      containing 8.5 g D-allulose were effective in improving PPG levels.
+FAU - Fukunaga, Kensaku
+AU  - Fukunaga K
+AUID- ORCID: 0000-0002-0012-5263
+AD  - Department of Endocrinology and Metabolism, Faculty of Medicine, Kagawa 
+      University, 1750-1, Miki-cho, Kita-gun 761-0793, Kagawa, Japan.
+FAU - Yoshimura, Takafumi
+AU  - Yoshimura T
+AD  - Department of Endocrinology and Metabolism, Faculty of Medicine, Kagawa 
+      University, 1750-1, Miki-cho, Kita-gun 761-0793, Kagawa, Japan.
+FAU - Imachi, Hitomi
+AU  - Imachi H
+AD  - Department of Endocrinology and Metabolism, Faculty of Medicine, Kagawa 
+      University, 1750-1, Miki-cho, Kita-gun 761-0793, Kagawa, Japan.
+FAU - Kobayashi, Toshihiro
+AU  - Kobayashi T
+AD  - Department of Endocrinology and Metabolism, Faculty of Medicine, Kagawa 
+      University, 1750-1, Miki-cho, Kita-gun 761-0793, Kagawa, Japan.
+FAU - Saheki, Takanobu
+AU  - Saheki T
+AD  - Department of Endocrinology and Metabolism, Faculty of Medicine, Kagawa 
+      University, 1750-1, Miki-cho, Kita-gun 761-0793, Kagawa, Japan.
+FAU - Sato, Seisuke
+AU  - Sato S
+AD  - Department of Endocrinology and Metabolism, Faculty of Medicine, Kagawa 
+      University, 1750-1, Miki-cho, Kita-gun 761-0793, Kagawa, Japan.
+FAU - Saheki, Nao
+AU  - Saheki N
+AD  - Department of Endocrinology and Metabolism, Faculty of Medicine, Kagawa 
+      University, 1750-1, Miki-cho, Kita-gun 761-0793, Kagawa, Japan.
+FAU - Jiang, Wenyi
+AU  - Jiang W
+AD  - Department of Endocrinology and Metabolism, Faculty of Medicine, Kagawa 
+      University, 1750-1, Miki-cho, Kita-gun 761-0793, Kagawa, Japan.
+FAU - Murao, Koji
+AU  - Murao K
+AUID- ORCID: 0000-0002-7335-7196
+AD  - Department of Endocrinology and Metabolism, Faculty of Medicine, Kagawa 
+      University, 1750-1, Miki-cho, Kita-gun 761-0793, Kagawa, Japan.
+LA  - eng
+GR  - Kagawa Rare Sugar White Valley Project 2019/Kagawa Prefecture/
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+DEP - 20230619
+PL  - Switzerland
+TA  - Nutrients
+JT  - Nutrients
+JID - 101521595
+RN  - 23140-52-5 (psicose)
+RN  - 0 (Sugars)
+RN  - 0 (Blood Glucose)
+RN  - 30237-26-4 (Fructose)
+RN  - 0 (Sweetening Agents)
+RN  - 0 (Insulin)
+SB  - IM
+MH  - Humans
+MH  - *Diabetes Mellitus, Type 2
+MH  - Diet, Diabetic
+MH  - Cross-Over Studies
+MH  - Pilot Projects
+MH  - Sugars
+MH  - Blood Glucose/metabolism
+MH  - Single-Blind Method
+MH  - Blood Glucose Self-Monitoring
+MH  - Prospective Studies
+MH  - Fructose/adverse effects
+MH  - Sweetening Agents
+MH  - Insulin
+PMC - PMC10302972
+OTO - NOTNLM
+OT  - D-allulose
+OT  - diabetic diets
+OT  - isCGM
+OT  - postprandial blood glucose levels
+OT  - rare sugar
+COIS- K.M. has intellectual property rights to D-allulose. The funders had no role in 
+      the design of the study; in the collection, analyses, or interpretation of data; 
+      in the writing of the manuscript; or in the decision to publish the results. 
+      Matsutani Chemical Industry Co., Ltd., Rare Sweet Co., Ltd., and Bosco Food Co., 
+      Ltd. Provided information on the research food (D-allulose) but were not directly 
+      involved in the data management, statistical analysis, or writing manuscript of 
+      the study.
+EDAT- 2023/06/28 06:42
+MHDA- 2023/06/29 06:43
+CRDT- 2023/06/28 01:34
+PHST- 2023/05/23 00:00 [received]
+PHST- 2023/06/12 00:00 [revised]
+PHST- 2023/06/18 00:00 [accepted]
+PHST- 2023/06/29 06:43 [medline]
+PHST- 2023/06/28 06:42 [pubmed]
+PHST- 2023/06/28 01:34 [entrez]
+AID - nu15122802 [pii]
+AID - nutrients-15-02802 [pii]
+AID - 10.3390/nu15122802 [doi]
+PST - epublish
+SO  - Nutrients. 2023 Jun 19;15(12):2802. doi: 10.3390/nu15122802.
+
+PMID- 37369531
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230629
+LR  - 20230629
+IS  - 2052-4897 (Electronic)
+IS  - 2052-4897 (Linking)
+VI  - 11
+IP  - 3
+DP  - 2023 Jun
+TI  - Decreased branched-chain amino acids and elevated fatty acids during antecedent 
+      hypoglycemia in type 1 diabetes.
+LID - e003327 [pii]
+LID - 10.1136/bmjdrc-2023-003327 [doi]
+AB  - INTRODUCTION: Hypoglycemia is a major limiting factor in achieving recommended 
+      glycemic targets for people with type 1 diabetes. Exposure to recurrent 
+      hypoglycemia results in blunted hormonal counter-regulatory and symptomatic 
+      responses to hypoglycemia. Limited data on metabolic adaptation to recurrent 
+      hypoglycemia are available. This study examined the acute metabolic responses to 
+      hypoglycemia and the effect of antecedent hypoglycemia on these responses in type 
+      1 diabetes. RESEARCH DESIGN AND METHODS: Twenty-one outpatients with type 1 
+      diabetes with normal or impaired awareness of hypoglycemia participated in a 
+      study assessing the response to hypoglycemia on 2 consecutive days by a 
+      hyperinsulinemic glucose clamp. Participants underwent a period of normoglycemia 
+      and a period of hypoglycemia during the hyperinsulinemic glucose clamp. Plasma 
+      samples were taken during normoglycemia and at the beginning and the end of the 
+      hypoglycemic period. Metabolomic analysis of the plasma samples was conducted 
+      using comprehensive two-dimensional gas chromatography with time-of-flight mass 
+      spectrometry. RESULTS: In total, 68 metabolites were studied. On day 1, 
+      concentrations of the branched-chain amino acids, leucine (p=3.8×10(-3)) and 
+      isoleucine (p=2.2×10(-3)), decreased during hypoglycemia. On day 2, during 
+      hypoglycemia, five amino acids (including leucine and isoleucine) significantly 
+      decreased, and two fatty acids (tetradecanoic and oleic acids) significantly 
+      increased (p<0.05). Although more metabolites responded to hypoglycemia on day 2, 
+      the responses of the single metabolites were not statistically significant 
+      between the 2 days. CONCLUSIONS: In individuals with type 1 diabetes, one episode 
+      of hypoglycemia decreases leucine and isoleucine concentrations. Antecedent 
+      hypoglycemia results in the decrement of five amino acids and increases the 
+      concentrations of two fatty acids, suggesting an alteration between the two 
+      hypoglycemic episodes, which could indicate a possible adaptation. However, more 
+      studies are needed to gain a comprehensive understanding of the consequences of 
+      these alterations. TRIAL REGISTRATION NUMBER: NCT01337362.
+CI  - © Author(s) (or their employer(s)) 2023. Re-use permitted under CC BY-NC. No 
+      commercial re-use. See rights and permissions. Published by BMJ.
+FAU - She, Rui
+AU  - She R
+AUID- ORCID: 0000-0002-3696-6419
+AD  - Department of Endocrinology and Nephrology, Nordsjællands Hospital, Hillerød, 
+      Capital Region of Denmark, Denmark.
+AD  - Department of Clinical Medicine, University of Copenhagen Faculty of Health and 
+      Medical Sciences, Kobenhavn, Capital Region of Denmark, Denmark.
+FAU - Al-Sari, Naba Hassan
+AU  - Al-Sari NH
+AD  - Clinical Research, Steno Diabetes Center Copenhagen, Herlev, Capital Region of 
+      Denmark, Denmark.
+FAU - Mattila, Ismo Matias
+AU  - Mattila IM
+AD  - Clinical Research, Steno Diabetes Center Copenhagen, Herlev, Capital Region of 
+      Denmark, Denmark.
+FAU - Sejling, Anne-Sophie
+AU  - Sejling AS
+AD  - Boston Global Development, Novo Nordisk, Søborg, Capital Region of Denmark, 
+      Denmark.
+FAU - Pedersen, Jens
+AU  - Pedersen J
+AD  - Department of Internal Medicine, Herlev Hospital, Herlev, Capital Region of 
+      Denmark, Denmark.
+FAU - Legido-Quigley, Cristina
+AU  - Legido-Quigley C
+AD  - Clinical Research, Steno Diabetes Center Copenhagen, Herlev, Capital Region of 
+      Denmark, Denmark.
+AD  - Institute of Pharmaceutical Science, King's College London, London, UK.
+FAU - Pedersen-Bjergaard, Ulrik
+AU  - Pedersen-Bjergaard U
+AD  - Department of Endocrinology and Nephrology, Nordsjællands Hospital, Hillerød, 
+      Capital Region of Denmark, Denmark ulrik.pedersen-bjergaard@regionh.dk.
+AD  - Department of Clinical Medicine, University of Copenhagen Faculty of Health and 
+      Medical Sciences, Kobenhavn, Capital Region of Denmark, Denmark.
+LA  - eng
+SI  - ClinicalTrials.gov/NCT01337362
+PT  - Clinical Trial
+PT  - Journal Article
+PL  - England
+TA  - BMJ Open Diabetes Res Care
+JT  - BMJ open diabetes research & care
+JID - 101641391
+RN  - 0 (Amino Acids)
+RN  - 0 (Amino Acids, Branched-Chain)
+RN  - 0 (Blood Glucose)
+RN  - 0 (Fatty Acids)
+RN  - 0 (Hypoglycemic Agents)
+RN  - 0 (Insulin)
+RN  - 04Y7590D77 (Isoleucine)
+RN  - GMW67QNF9C (Leucine)
+SB  - IM
+MH  - Humans
+MH  - Amino Acids
+MH  - Amino Acids, Branched-Chain
+MH  - Blood Glucose/analysis
+MH  - *Diabetes Mellitus, Type 1/complications/drug therapy
+MH  - Fatty Acids
+MH  - *Hypoglycemia/chemically induced
+MH  - *Hypoglycemic Agents/therapeutic use
+MH  - Insulin
+MH  - Isoleucine/blood
+MH  - Leucine/blood
+OTO - NOTNLM
+OT  - Diabetes complication
+OT  - Energy metabolism
+OT  - Hypoglycemia
+OT  - Type 1 diabetes mellitus
+COIS- Competing interests: After conclusion of the experimental work, A-SS has been 
+      employed by Novo Nordisk. CL-q is a member of the Scientific Advisory Board of 
+      Fondation Alzheimer and Institute Pasteur, and UP-B has served on advisory panels 
+      for Novo Nordisk and Sanofi.
+EDAT- 2023/06/28 01:06
+MHDA- 2023/06/29 06:43
+CRDT- 2023/06/27 21:02
+PHST- 2023/01/19 00:00 [received]
+PHST- 2023/06/08 00:00 [accepted]
+PHST- 2023/06/29 06:43 [medline]
+PHST- 2023/06/28 01:06 [pubmed]
+PHST- 2023/06/27 21:02 [entrez]
+AID - 11/3/e003327 [pii]
+AID - 10.1136/bmjdrc-2023-003327 [doi]
+PST - ppublish
+SO  - BMJ Open Diabetes Res Care. 2023 Jun;11(3):e003327. doi: 
+      10.1136/bmjdrc-2023-003327.
+
+PMID- 37368484
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230630
+LR  - 20230630
+IS  - 1438-8871 (Electronic)
+IS  - 1438-8871 (Linking)
+VI  - 25
+DP  - 2023 Jun 27
+TI  - Effects of a Web-Based Lifestyle Intervention on Weight Loss and Cardiometabolic 
+      Risk Factors in Adults With Overweight and Obesity: Randomized Controlled 
+      Clinical Trial.
+PG  - e43426
+LID - 10.2196/43426 [doi]
+AB  - BACKGROUND: The high proportion of people with overweight and obesity has become 
+      a worldwide problem in recent decades, mainly due to health consequences, such as 
+      cardiovascular diseases, neoplasia, and type 2 diabetes mellitus. Regarding 
+      effective countermeasures, the digitization of health services offers numerous 
+      potentials, which, however, have not yet been sufficiently evaluated. Web-based 
+      health programs are becoming increasingly interactive and can provide individuals 
+      with effective long-term weight management support. OBJECTIVE: The purpose of 
+      this randomized controlled clinical trial was to evaluate the effectiveness of an 
+      interactive web-based weight loss program on anthropometric, cardiometabolic, and 
+      behavioral variables and to compare it with a noninteractive web-based weight 
+      loss program. METHODS: The randomized controlled trial included people who were 
+      aged between 18 and 65 years (mean 48.92, SD 11.17 years) and had a BMI of 27.5 
+      to 34.9 kg/m(2) (mean 30.71, SD 2.13 kg/m(2)). Participants (n=153) were assigned 
+      to either (1) an interactive and fully automated web-based health program 
+      (intervention) or (2) a noninteractive web-based health program (control). The 
+      intervention program focused on dietary energy density and allowed for dietary 
+      documentation with appropriate feedback on energy density and nutrients. The 
+      control group only received information on weight loss and energy density, but 
+      the website did not contain interactive content. Examinations were performed at 
+      baseline (t0), at the end of the 12-week intervention (t1), and at 6 months (t2) 
+      and 12 months (t3) thereafter. The primary outcome was body weight. The secondary 
+      outcomes were cardiometabolic variables as well as dietary and physical activity 
+      behaviors. Robust linear mixed models were used to evaluate the primary and 
+      secondary outcomes. RESULTS: The intervention group showed significant 
+      improvements in anthropometric variables, such as body weight (P=.004), waist 
+      circumference (P=.002), and fat mass (P=.02), compared with the control group 
+      over the course of the study. The mean weight loss after the 12-month follow-up 
+      was 4.18 kg (4.7%) in the intervention group versus 1.29 kg (1.5%) in the control 
+      group compared with the initial weight. The results of the nutritional analysis 
+      showed that the energy density concept was significantly better implemented in 
+      the intervention group. Significant differences in cardiometabolic variables were 
+      not detected between the 2 groups. CONCLUSIONS: The interactive web-based health 
+      program was effective in reducing body weight and improving body composition in 
+      adults with overweight and obesity. However, these improvements were not 
+      associated with relevant changes in cardiometabolic variables, although it should 
+      be noted that the study population was predominantly metabolically healthy. TRIAL 
+      REGISTRATION: German Clinical Trials Register DRKS00020249; 
+      https://drks.de/search/en/trial/DRKS00020249. INTERNATIONAL REGISTERED REPORT 
+      IDENTIFIER (IRRID): RR2-10.3390/ijerph19031393.
+CI  - ©Jan Kohl, Judith Brame, Christoph Centner, Ramona Wurst, Reinhard Fuchs, 
+      Matthias Sehlbrede, Iris Tinsel, Phillip Maiwald, Urs Alexander Fichtner, 
+      Christoph Armbruster, Erik Farin-Glattacker, Albert Gollhofer, Daniel König. 
+      Originally published in the Journal of Medical Internet Research 
+      (https://www.jmir.org), 27.06.2023.
+FAU - Kohl, Jan
+AU  - Kohl J
+AUID- ORCID: 0000-0002-3303-3357
+AD  - Department of Sport and Sport Science, University of Freiburg, Freiburg, Germany.
+FAU - Brame, Judith
+AU  - Brame J
+AUID- ORCID: 0000-0002-7283-5600
+AD  - Department of Sport and Sport Science, University of Freiburg, Freiburg, Germany.
+FAU - Centner, Christoph
+AU  - Centner C
+AUID- ORCID: 0000-0001-6839-4438
+AD  - Department of Sport and Sport Science, University of Freiburg, Freiburg, Germany.
+FAU - Wurst, Ramona
+AU  - Wurst R
+AUID- ORCID: 0000-0001-6011-7268
+AD  - Department of Sport and Sport Science, University of Freiburg, Freiburg, Germany.
+FAU - Fuchs, Reinhard
+AU  - Fuchs R
+AUID- ORCID: 0000-0001-5561-6732
+AD  - Department of Sport and Sport Science, University of Freiburg, Freiburg, Germany.
+FAU - Sehlbrede, Matthias
+AU  - Sehlbrede M
+AUID- ORCID: 0000-0003-3769-4969
+AD  - Section of Health Care Research and Rehabilitation Research (SEVERA), Medical 
+      Center, Faculty of Medicine, University of Freiburg, Freiburg, Germany.
+FAU - Tinsel, Iris
+AU  - Tinsel I
+AUID- ORCID: 0000-0001-8689-9982
+AD  - Section of Health Care Research and Rehabilitation Research (SEVERA), Medical 
+      Center, Faculty of Medicine, University of Freiburg, Freiburg, Germany.
+FAU - Maiwald, Phillip
+AU  - Maiwald P
+AUID- ORCID: 0000-0003-3293-7829
+AD  - Section of Health Care Research and Rehabilitation Research (SEVERA), Medical 
+      Center, Faculty of Medicine, University of Freiburg, Freiburg, Germany.
+FAU - Fichtner, Urs Alexander
+AU  - Fichtner UA
+AUID- ORCID: 0000-0002-4190-8969
+AD  - Section of Health Care Research and Rehabilitation Research (SEVERA), Medical 
+      Center, Faculty of Medicine, University of Freiburg, Freiburg, Germany.
+FAU - Armbruster, Christoph
+AU  - Armbruster C
+AUID- ORCID: 0000-0001-7062-0780
+AD  - Section of Health Care Research and Rehabilitation Research (SEVERA), Medical 
+      Center, Faculty of Medicine, University of Freiburg, Freiburg, Germany.
+FAU - Farin-Glattacker, Erik
+AU  - Farin-Glattacker E
+AUID- ORCID: 0000-0001-6867-0316
+AD  - Section of Health Care Research and Rehabilitation Research (SEVERA), Medical 
+      Center, Faculty of Medicine, University of Freiburg, Freiburg, Germany.
+FAU - Gollhofer, Albert
+AU  - Gollhofer A
+AUID- ORCID: 0000-0001-6198-6019
+AD  - Department of Sport and Sport Science, University of Freiburg, Freiburg, Germany.
+FAU - König, Daniel
+AU  - König D
+AUID- ORCID: 0000-0002-4104-4013
+AD  - Department of Sport and Sport Science, University of Freiburg, Freiburg, Germany.
+AD  - Department of Sport Science, Institute for Nutrition, Exercise and Health, 
+      University of Vienna, Vienna, Austria.
+AD  - Department of Nutritional Sciences, Institute for Nutrition, Exercise and Health, 
+      University of Vienna, Vienna, Austria.
+LA  - eng
+SI  - DRKS/DRKS00020249
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20230627
+PL  - Canada
+TA  - J Med Internet Res
+JT  - Journal of medical Internet research
+JID - 100959882
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Humans
+MH  - Middle Aged
+MH  - Young Adult
+MH  - Cardiometabolic Risk Factors
+MH  - Internet
+MH  - *Life Style
+MH  - Obesity/therapy
+MH  - Overweight/therapy
+MH  - *Weight Loss
+MH  - Internet-Based Intervention
+OTO - NOTNLM
+OT  - cardiometabolic risk factors
+OT  - dietary energy density
+OT  - overweight
+OT  - randomized controlled trial
+OT  - web-based intervention
+OT  - weight loss, obesity
+EDAT- 2023/06/27 13:10
+MHDA- 2023/06/29 06:43
+CRDT- 2023/06/27 11:54
+PHST- 2022/10/12 00:00 [received]
+PHST- 2023/04/20 00:00 [accepted]
+PHST- 2023/03/17 00:00 [revised]
+PHST- 2023/06/29 06:43 [medline]
+PHST- 2023/06/27 13:10 [pubmed]
+PHST- 2023/06/27 11:54 [entrez]
+AID - v25i1e43426 [pii]
+AID - 10.2196/43426 [doi]
+PST - epublish
+SO  - J Med Internet Res. 2023 Jun 27;25:e43426. doi: 10.2196/43426.
+
+PMID- 37365603
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230628
+LR  - 20230701
+IS  - 1749-799X (Electronic)
+IS  - 1749-799X (Linking)
+VI  - 18
+IP  - 1
+DP  - 2023 Jun 26
+TI  - Ultrasound guided versus blinded injection in trigger finger treatment: a 
+      prospective controlled study.
+PG  - 459
+LID - 10.1186/s13018-023-03950-y [doi]
+LID - 459
+AB  - BACKGROUND: Trigger finger is a common disease with a lifetime prevalence of 2%. 
+      One of the frequently preferred non-surgical treatments is blinded injection 
+      around the A1 pulley. This study aims to compare the clinical results of 
+      ultrasound-guided and blinded corticosteroid injection in the trigger finger. 
+      METHODS: In this prospective clinical study, 66 patients who had persistent 
+      symptoms of a single trigger finger were included. Patients with similar baseline 
+      characteristics such as age, gender, triggering period, and comorbidities were 
+      randomized. 34 patients had ultrasound-guided (UG), and 32 had blinded injections 
+      (BG). QDASH, VAS, time to return to work, and complications were compared between 
+      the groups. RESULTS: The mean age was 52,66 (29-73) years. There were 18 male and 
+      48 female patients. In the UG, the triggering resolved faster, returning to work 
+      was earlier, and the medication period was shorter (p < 0.05). A total of 17 
+      patients who had diabetes mellitus received re-injections, 11 of which were in BG 
+      and 6 in UG (p < 0.05). Although statistically significantly lower scores were 
+      obtained in UG at the 1st and 4th weeks in the QDASH and VAS scores (p < 0.05), 
+      at the 12th and 24 weeks, there was no significant difference (p > 0.05). 
+      CONCLUSION: Using ultrasound guidance for corticosteroid injections is more 
+      effective for treating trigger fingers than the blinded method, leading to better 
+      results and a faster return to work in the early stages of treatment.
+CI  - © 2023. The Author(s).
+FAU - Tunçez, Mahmut
+AU  - Tunçez M
+AD  - Department of Orthopedics and Traumatology, Izmir Katip Celebi University Ataturk 
+      Training and Research Hospital, İzmir, Turkey. drmahmuttuncez@gmail.com.
+FAU - Turan, Kaya
+AU  - Turan K
+AD  - Department of Orthopedics and Traumatology, Izmir Katip Celebi University Ataturk 
+      Training and Research Hospital, İzmir, Turkey.
+AD  - Department of Orthopedics and Traumatology, Istinye University, İstanbul, Turkey.
+FAU - Aydın, Özgür Doğan
+AU  - Aydın ÖD
+AD  - Department of Orthopedics and Traumatology, Izmir Katip Celebi University Ataturk 
+      Training and Research Hospital, İzmir, Turkey.
+FAU - Çetin Tunçez, Hülya
+AU  - Çetin Tunçez H
+AD  - Department of Orthopedics and Traumatology, Izmir Katip Celebi University Ataturk 
+      Training and Research Hospital, İzmir, Turkey.
+AD  - Department of Radiology, Izmir Bozyaka Education and Research Hospital, 
+      University of Health Sciences, İzmir, Turkey.
+LA  - eng
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+DEP - 20230626
+PL  - England
+TA  - J Orthop Surg Res
+JT  - Journal of orthopaedic surgery and research
+JID - 101265112
+RN  - 0 (Adrenal Cortex Hormones)
+SB  - IM
+MH  - Humans
+MH  - Male
+MH  - Female
+MH  - *Trigger Finger Disorder/diagnostic imaging/drug therapy
+MH  - Prospective Studies
+MH  - Treatment Outcome
+MH  - Adrenal Cortex Hormones
+MH  - Ultrasonography, Interventional
+PMC - PMC10294380
+OTO - NOTNLM
+OT  - Steroid injection
+OT  - Trigger finger
+OT  - Ultrasound guided injection
+COIS- The authors declare no competing interests. On behalf of all authors, the 
+      corresponding author states that there is no conflict of interest.
+EDAT- 2023/06/27 01:06
+MHDA- 2023/06/28 06:42
+CRDT- 2023/06/26 23:40
+PHST- 2023/03/29 00:00 [received]
+PHST- 2023/06/22 00:00 [accepted]
+PHST- 2023/06/28 06:42 [medline]
+PHST- 2023/06/27 01:06 [pubmed]
+PHST- 2023/06/26 23:40 [entrez]
+AID - 10.1186/s13018-023-03950-y [pii]
+AID - 3950 [pii]
+AID - 10.1186/s13018-023-03950-y [doi]
+PST - epublish
+SO  - J Orthop Surg Res. 2023 Jun 26;18(1):459. doi: 10.1186/s13018-023-03950-y.
+
+PMID- 37353823
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230626
+LR  - 20230701
+IS  - 1479-5868 (Electronic)
+IS  - 1479-5868 (Linking)
+VI  - 20
+IP  - 1
+DP  - 2023 Jun 23
+TI  - How pictorial warnings change parents' purchases of sugar-sweetened beverage for 
+      their children: mechanisms of impact.
+PG  - 76
+LID - 10.1186/s12966-023-01469-3 [doi]
+LID - 76
+AB  - BACKGROUND: Pictorial health warnings on sugar-sweetened beverages (SSBs) are a 
+      promising policy for preventing diet-related disease in children. A recent study 
+      found that pictorial warnings reduced parents' purchases of SSBs for their 
+      children by 17%. However, the psychological mechanisms through which warnings 
+      affect parental behavior remain unknown. We aimed to identify the mechanisms that 
+      explain how pictorial warnings affect parents' SSB purchasing behavior for their 
+      children using secondary data from a randomized trial. METHODS: In 2020-2021, 
+      parents of children ages 2 to 12 years (n = 325) completed a shopping task in a 
+      convenience store laboratory in North Carolina, USA. Participants were randomly 
+      assigned to a pictorial warnings arm (SSBs displayed pictorial health warnings 
+      about type 2 diabetes and heart damage) or a control arm (SSBs displayed a 
+      barcode label). Parents then bought a beverage for their child and took a survey 
+      measuring 11 potential psychological mediators, selected based on health behavior 
+      theories and a model explaining the impact of tobacco warnings. We conducted 
+      simple mediation analyses to identify which of the 11 mechanisms mediated the 
+      impact of exposure to pictorial warnings on purchasing any SSBs for their 
+      children. RESULTS: Two of the 11 constructs were statistically significant 
+      mediators. First, the impact of pictorial warnings on the likelihood of 
+      purchasing any SSB was mediated by parents' perceptions that SSBs were healthier 
+      for their child (mediated effect= -0.17; 95% CI = - 0.33, - 0.05). Second, 
+      parents' intentions to serve SSBs to their children also mediated the effect of 
+      warnings on likelihood of purchasing any SSB (mediated effect= -0.07, 95% 
+      CI=-0.21, - 0.003). CONCLUSIONS: Pictorial warnings reduced parents' purchases of 
+      SSBs for their children by making parents think SSBs are less healthful for their 
+      children and reducing their intentions to serve SSBs to their children. 
+      Communication approaches that target healthfulness perceptions and intentions to 
+      serve SSBs may motivate parents to buy fewer SSBs for their children.
+CI  - © 2023. The Author(s).
+FAU - Hall, Marissa G
+AU  - Hall MG
+AUID- ORCID: 0000-0002-8690-9498
+AD  - Department of Health Behavior, Gillings School of Global Public Health, 
+      University of North Carolina at Chapel Hill, Chapel Hill, NC, USA. 
+      mghall@unc.edu.
+AD  - Lineberger Comprehensive Cancer Center, University of North Carolina at Chapel 
+      Hill, Chapel Hill, NC, USA. mghall@unc.edu.
+AD  - Carolina Population Center, University of North Carolina at Chapel Hill, Chapel 
+      Hill, NC, USA. mghall@unc.edu.
+FAU - Grummon, Anna H
+AU  - Grummon AH
+AD  - Department of Nutrition, Harvard TH Chan School of Public Health, Boston, MA, 
+      USA.
+AD  - Department of Population Medicine, Harvard Medical School, Harvard Pilgrim Health 
+      Care Institute, Boston, MA, USA.
+AD  - Department of Pediatrics, Stanford University School of Medicine, Palo Alto, CA, 
+      USA.
+FAU - Queen, Tara
+AU  - Queen T
+AD  - Department of Health Behavior, Gillings School of Global Public Health, 
+      University of North Carolina at Chapel Hill, Chapel Hill, NC, USA.
+FAU - Lazard, Allison J
+AU  - Lazard AJ
+AD  - Lineberger Comprehensive Cancer Center, University of North Carolina at Chapel 
+      Hill, Chapel Hill, NC, USA.
+AD  - Hussman School of Journalism and Media, University of North Carolina at Chapel 
+      Hill, Chapel Hill, NC, USA.
+FAU - Higgins, Isabella C A
+AU  - Higgins ICA
+AD  - Department of Health Behavior, Gillings School of Global Public Health, 
+      University of North Carolina at Chapel Hill, Chapel Hill, NC, USA.
+AD  - Carolina Population Center, University of North Carolina at Chapel Hill, Chapel 
+      Hill, NC, USA.
+FAU - Richter, Ana Paula C
+AU  - Richter APC
+AD  - Department of Health Behavior, Gillings School of Global Public Health, 
+      University of North Carolina at Chapel Hill, Chapel Hill, NC, USA.
+AD  - Carolina Population Center, University of North Carolina at Chapel Hill, Chapel 
+      Hill, NC, USA.
+FAU - Taillie, Lindsey Smith
+AU  - Taillie LS
+AD  - Carolina Population Center, University of North Carolina at Chapel Hill, Chapel 
+      Hill, NC, USA.
+AD  - Department of Nutrition, Gillings School of Global Public Health, University of 
+      North Carolina at Chapel Hill, Chapel Hill, NC, USA.
+LA  - eng
+GR  - P2C HD050924/NH/NIH HHS/United States
+GR  - T32 HD007168/NH/NIH HHS/United States
+GR  - UL1TR002489/NH/NIH HHS/United States
+GR  - K01HL147713/HL/NHLBI NIH HHS/United States
+GR  - K01HL158608/HL/NHLBI NIH HHS/United States
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+DEP - 20230623
+PL  - England
+TA  - Int J Behav Nutr Phys Act
+JT  - The international journal of behavioral nutrition and physical activity
+JID - 101217089
+SB  - IM
+MH  - Humans
+MH  - Child
+MH  - *Sugar-Sweetened Beverages
+MH  - *Diabetes Mellitus, Type 2
+MH  - Beverages
+MH  - Consumer Behavior
+MH  - Parents
+PMC - PMC10290296
+OTO - NOTNLM
+OT  - Childhood obesity
+OT  - Mediators
+OT  - Pictorial warnings
+OT  - Sugar-sweetened beverages
+OT  - Warning labels
+COIS- None to disclose.
+EDAT- 2023/06/24 11:41
+MHDA- 2023/06/26 06:42
+CRDT- 2023/06/23 23:36
+PHST- 2022/09/08 00:00 [received]
+PHST- 2023/05/22 00:00 [accepted]
+PHST- 2023/06/26 06:42 [medline]
+PHST- 2023/06/24 11:41 [pubmed]
+PHST- 2023/06/23 23:36 [entrez]
+AID - 10.1186/s12966-023-01469-3 [pii]
+AID - 1469 [pii]
+AID - 10.1186/s12966-023-01469-3 [doi]
+PST - epublish
+SO  - Int J Behav Nutr Phys Act. 2023 Jun 23;20(1):76. doi: 10.1186/s12966-023-01469-3.
+
+PMID- 37351105
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230626
+LR  - 20230701
+IS  - 1664-2392 (Print)
+IS  - 1664-2392 (Electronic)
+IS  - 1664-2392 (Linking)
+VI  - 14
+DP  - 2023
+TI  - Effect of the MySweetheart randomized controlled trial on birth, anthropometric 
+      and psychobehavioral outcomes in offspring of women with GDM.
+PG  - 1148426
+LID - 10.3389/fendo.2023.1148426 [doi]
+LID - 1148426
+AB  - INTRODUCTION: Gestational diabetes mellitus (GDM) may negatively affect offspring 
+      outcomes. A lifestyle intervention may therefore not only improve maternal, but 
+      also offspring outcomes. The effects of lifestyle interventions on birth, 
+      anthropometric, and psychobehavioral outcomes in offspring of women with GDM need 
+      further evidence. DESIGN: The MySweetheart trial is a monocentric single-blind 
+      randomized controlled trial in 211 women with GDM. It tested the effect of a pre- 
+      and postpartum multidimensional interdisciplinary lifestyle and psychosocial 
+      intervention focusing on both the mothers and their infants and its effects on 
+      maternal (primary outcomes) and offspring (secondary outcomes) metabolic and 
+      psychobehavioral outcomes compared with guidelines-based usual-care. This paper 
+      focuses on offspring's birth, anthropometric, and maternal report of 
+      psychobehavioral outcomes at singular timepoints. METHODS: Women with GDM aged 
+      ≥18 years, between 24-32 weeks of gestation, speaking French or English were 
+      included and randomly allocated to either the intervention or to an active 
+      guidelines-based usual-care group using a 1:1 allocation ratio. The intervention 
+      lasted from pregnancy until 1 year postpartum and focused on improving diet, 
+      physical activity, and mental health in the mother. For the offspring it focused 
+      on supporting breastfeeding, delaying the timing of introduction of solid foods, 
+      reducing the consumption of sweetened beverages, increasing physical activity of 
+      the family, and improving parental responsiveness to infant distress, hunger, 
+      satiety and sleeping cues, and difficult behavior. RESULTS: Adverse birth and 
+      neonatal outcomes rarely occurred overall. There were no differences between 
+      groups in offspring birth, neonatal, anthropometric, or psychobehavioral outcomes 
+      up to one year. After adjustments for maternal age and the offspring's sex and 
+      age, there was a borderline significant between-group difference in birth length 
+      (β:-0.64, CI:-1.27; -0.01, p: 0.05), i.e., offspring of mothers in the 
+      intervention group were born 0.64 cm shorter compared to those in the usual-care 
+      group. CONCLUSION: This is the first pre- and postpartum multidimensional 
+      interdisciplinary lifestyle and psychosocial intervention in GDM focusing on both 
+      the mother and the offspring. It did not lead to a significant improvement in 
+      most birth, anthropometric, and psychobehavioral outcomes in offspring of women 
+      with GDM. ClinicalTrials.gov Identifier: NCT02890693.
+CI  - Copyright © 2023 Gilbert, Quansah, Arhab, Schenk, Gross, Lanzi, Stuijfzand, 
+      Lacroix, Horsch, Puder and MySweetheart Research group.
+FAU - Gilbert, Leah
+AU  - Gilbert L
+AD  - Nepean Clinical School, Faculty of Medicine and Health, The University of Sydney, 
+      Sydney, NSW, Australia.
+AD  - Obstetric Service, Department Woman-Mother-Child, Interdisciplinary GDM Group 
+      Lausanne, Lausanne University Hospital, Lausanne, Switzerland.
+FAU - Quansah, Dan Yedu
+AU  - Quansah DY
+AD  - Nepean Clinical School, Faculty of Medicine and Health, The University of Sydney, 
+      Sydney, NSW, Australia.
+FAU - Arhab, Amar
+AU  - Arhab A
+AD  - Nepean Clinical School, Faculty of Medicine and Health, The University of Sydney, 
+      Sydney, NSW, Australia.
+FAU - Schenk, Sybille
+AU  - Schenk S
+AD  - Nepean Clinical School, Faculty of Medicine and Health, The University of Sydney, 
+      Sydney, NSW, Australia.
+FAU - Gross, Justine
+AU  - Gross J
+AD  - Nepean Clinical School, Faculty of Medicine and Health, The University of Sydney, 
+      Sydney, NSW, Australia.
+FAU - Lanzi, Stefano
+AU  - Lanzi S
+AD  - Service d'angiologie, Département Cœur-Vaisseaux, Centre Hospitalier 
+      Universitaire Vaudois (CHUV), Lausanne, Switzerland.
+FAU - Stuijfzand, Bobby
+AU  - Stuijfzand B
+AD  - Nepean Clinical School, Faculty of Medicine and Health, The University of Sydney, 
+      Sydney, NSW, Australia.
+FAU - Lacroix, Alain
+AU  - Lacroix A
+AD  - Nepean Clinical School, Faculty of Medicine and Health, The University of Sydney, 
+      Sydney, NSW, Australia.
+FAU - Horsch, Antje
+AU  - Horsch A
+AD  - Institute of Higher Education and Research in Healthcare (IUFRS), University of 
+      Lausanne, Lausanne, Switzerland.
+AD  - Neonatology Service, Department Woman-Mother-Child, Lausanne University Hospital, 
+      Lausanne, Switzerland.
+FAU - Puder, Jardena J
+AU  - Puder JJ
+AD  - Nepean Clinical School, Faculty of Medicine and Health, The University of Sydney, 
+      Sydney, NSW, Australia.
+CN  - MySweetheart Research group
+LA  - eng
+SI  - ClinicalTrials.gov/NCT02890693
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+DEP - 20230607
+PL  - Switzerland
+TA  - Front Endocrinol (Lausanne)
+JT  - Frontiers in endocrinology
+JID - 101555782
+SB  - IM
+MH  - Pregnancy
+MH  - Infant, Newborn
+MH  - Infant
+MH  - Humans
+MH  - Female
+MH  - Adolescent
+MH  - Adult
+MH  - *Diabetes, Gestational
+MH  - Single-Blind Method
+MH  - Parturition
+MH  - Postpartum Period
+MH  - Body Mass Index
+PMC - PMC10284133
+OTO - NOTNLM
+OT  - BMI - body mass index
+OT  - fat mass
+OT  - hypoglycemia
+OT  - prematurity
+OT  - skinfold
+OT  - sleep
+OT  - temperament
+OT  - weight
+COIS- The authors declare that the research was conducted in the absence of any 
+      commercial or financial relationships that could be construed as a potential 
+      conflict of interest.
+EDAT- 2023/06/23 13:07
+MHDA- 2023/06/26 06:41
+CRDT- 2023/06/23 10:29
+PHST- 2023/01/20 00:00 [received]
+PHST- 2023/05/22 00:00 [accepted]
+PHST- 2023/06/26 06:41 [medline]
+PHST- 2023/06/23 13:07 [pubmed]
+PHST- 2023/06/23 10:29 [entrez]
+AID - 10.3389/fendo.2023.1148426 [doi]
+PST - epublish
+SO  - Front Endocrinol (Lausanne). 2023 Jun 7;14:1148426. doi: 
+      10.3389/fendo.2023.1148426. eCollection 2023.
+
+PMID- 37349722
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230626
+LR  - 20230701
+IS  - 1475-2840 (Electronic)
+IS  - 1475-2840 (Linking)
+VI  - 22
+IP  - 1
+DP  - 2023 Jun 22
+TI  - Tofogliflozin long-term effects on atherosclerosis progression and major clinical 
+      parameters in patients with type 2 diabetes mellitus lacking a history of 
+      cardiovascular disease: a 2-year extension study of the UTOPIA trial.
+PG  - 143
+LID - 10.1186/s12933-023-01879-4 [doi]
+LID - 143
+AB  - BACKGROUND: This study aimed to assess the long-term effects of tofogliflozin, a 
+      sodium-glucose cotransporter 2 (SGLT2) inhibitor, on atherosclerosis progression 
+      and major clinical parameters in patients with type 2 diabetes lacking an 
+      apparent history of cardiovascular disease. METHODS: This was a prospective 
+      observational 2-year extension study of the "Using TOfogliflozin for Possible 
+      better Intervention against Atherosclerosis for type 2 diabetes patients 
+      (UTOPIA)" trial, a 2-year randomized intervention study. The primary endpoints 
+      represented changes in the carotid intima-media thickness (IMT). Secondary 
+      endpoints included brachial-ankle pulse wave velocity (baPWV) and biomarkers for 
+      glucose metabolism, lipid metabolism, renal function, and cardiovascular risks. 
+      RESULTS: The mean IMT of the common carotid artery (IMT-CCA) significantly 
+      decreased in both the tofogliflozin (- 0.067 mm, standard error 0.009, p < 0.001) 
+      and conventional treatment groups (- 0.080 mm, SE 0.009, p < 0.001) throughout 
+      the follow-up period; however, no significant intergroup differences in the 
+      changes (0.013 mm, 95% confidence interval (CI) - 0.012 to 0.037, p = 0.32) were 
+      observed in a mixed-effects model for repeated measures. baPWV significantly 
+      increased in the conventional treatment group (82.7 ± 210.3 cm/s, p = 0.008) but 
+      not in the tofogliflozin group (- 17.5 ± 221.3 cm/s, p = 0.54), resulting in a 
+      significant intergroup difference in changes (- 100.2 cm/s, 95% CI - 182.8 to 
+      - 17.5, p = 0.018). Compared to the conventional treatment group, tofogliflozin 
+      significantly improved the hemoglobin A1c and high-density lipoprotein 
+      cholesterol levels, body mass index, abdominal circumference, and systolic blood 
+      pressure. The frequencies of total and serious adverse events did not vary 
+      significantly between the groups. CONCLUSIONS: Tofogliflozin was not associated 
+      with improved inhibition of carotid wall thickening but exerted long-term 
+      positive effects on various cardiovascular risk factors and baPWV while showing a 
+      good safety profile.
+CI  - © 2023. The Author(s).
+FAU - Katakami, Naoto
+AU  - Katakami N
+AD  - Department of Metabolic Medicine, Osaka University Graduate School of Medicine, 
+      2-2, Yamadaoka, Suita, Osaka, 565-0871, Japan. katakami@endmet.med.osaka-u.ac.jp.
+AD  - Department of Metabolism and Atherosclerosis, Osaka University Graduate School of 
+      Medicine, 2-2, Yamadaoka, Suita, Osaka, 565-0871, Japan. 
+      katakami@endmet.med.osaka-u.ac.jp.
+FAU - Mita, Tomoya
+AU  - Mita T
+AD  - Department of Metabolism & Endocrinology, Juntendo University Graduate School of 
+      Medicine, Hongo 2-1-1, Bunkyo-ku, Tokyo, 113-8421, Japan.
+FAU - Yoshii, Hidenori
+AU  - Yoshii H
+AD  - Department of Medicine, Diabetology & Endocrinology, Juntendo Tokyo Koto 
+      Geriatric Medical Center, Koto-ku, Tokyo, 136-0075, Japan.
+FAU - Shiraiwa, Toshihiko
+AU  - Shiraiwa T
+AD  - Shiraiwa Medical Clinic, 4-10-24 Hozenji, Kashiwara, Osaka, 582-0005, Japan.
+FAU - Yasuda, Tetsuyuki
+AU  - Yasuda T
+AD  - Department of Endocrinology and Metabolism, Osaka Police Hospital, 10-31, 
+      Kitayama-Cho, Tennoji-ku, Osaka, 543-0035, Japan.
+FAU - Okada, Yosuke
+AU  - Okada Y
+AD  - First Department of Internal Medicine, School of Medicine, University of 
+      Occupational and Environmental Health, 1-1, Iseigaoka, Yahatanishi-ku, 
+      Kitakyushu, 807-8555, Japan.
+FAU - Kurozumi, Akira
+AU  - Kurozumi A
+AD  - First Department of Internal Medicine, School of Medicine, University of 
+      Occupational and Environmental Health, 1-1, Iseigaoka, Yahatanishi-ku, 
+      Kitakyushu, 807-8555, Japan.
+FAU - Hatazaki, Masahiro
+AU  - Hatazaki M
+AD  - Department of Diabetes and Endocrinology, Osaka General Medical Center, 3-1-56, 
+      Bandai-Higashi, Sumiyoshi-ku, Osaka, 558-8558, Japan.
+FAU - Kaneto, Hideaki
+AU  - Kaneto H
+AD  - Department of Diabetes, Endocrinology and Metabolism, Kawasaki Medical School, 
+      577 Matsushima, Kurashiki, Okayama, 701-0192, Japan.
+FAU - Osonoi, Takeshi
+AU  - Osonoi T
+AD  - Nakakinen Clinic, 745-5, Nakadai, Naka, Ibaraki, 311-0113, Japan.
+FAU - Yamamoto, Tsunehiko
+AU  - Yamamoto T
+AD  - Diabetes and Endocrinology, Kansai Rosai Hospital, 3-1-69, Inabaso, Amagasaki, 
+      Hyogo, Japan.
+FAU - Kuribayashi, Nobuichi
+AU  - Kuribayashi N
+AD  - Misaki Naika Clinic, 6-44-9, Futawa-Higashi, Funabashi, Chiba, Japan.
+FAU - Maeda, Kazuhisa
+AU  - Maeda K
+AD  - Kitasenri Maeda Clinic, 4-119, Furuedai, Suita, Osaka, 565-0874, Japan.
+FAU - Yokoyama, Hiroki
+AU  - Yokoyama H
+AD  - Jiyugaoka Medical Clinic, West 6, South 6-4-3, Obihiro, Hokkaido, 080-0016, 
+      Japan.
+FAU - Kosugi, Keisuke
+AU  - Kosugi K
+AD  - Kosugi Medical Clinic, 3-9, Tamatsukurimoto-Cho, Tennoji-ku, Osaka, 543-0014, 
+      Japan.
+FAU - Ohtoshi, Kentaro
+AU  - Ohtoshi K
+AD  - Otoshi Medical Clinic, 8-47, KakudachoOsaka Kita-ku, Osaka, 530-0017, Japan.
+FAU - Hayashi, Isao
+AU  - Hayashi I
+AD  - Hayashi Clinic, 3-9-23, Koshienguchi, Nishinomiya, Hyogo, 663-8113, Japan.
+FAU - Sumitani, Satoru
+AU  - Sumitani S
+AD  - Center for Diabetes and Endocrinology, Nippon Life Hospital, 2-1-54 Enokojima, 
+      Nishi-ku, Osaka, 550-0006, Japan.
+AD  - Department of Diabetology and Endocrinology, Pref Osaka Saiseikai Izuo Hospital, 
+      3-4-5 Kitamura, Taisho, Osaka, 551-0032, Japan.
+FAU - Tsugawa, Mamiko
+AU  - Tsugawa M
+AD  - Department of Endocrinology and Metabolism, Ikeda Municipal Hospital, 3-1-18, 
+      Jonan, Ikeda, Osaka, 563-8510, Japan.
+AD  - Department of Diabetes and Endocrinology, Meiwa Hospital, 4-31 Agenaruo, 
+      Nishinomiya, Hyogo, 663-8186, Japan.
+FAU - Ryomoto, Kayoko
+AU  - Ryomoto K
+AD  - Center for Diabetes Mellitus, Osaka Rosai Hospital, 1179-3 Nagasone-Cho, Kita-ku, 
+      Sakai, Osaka, 591-8025, Japan.
+FAU - Kato, Ken
+AU  - Kato K
+AD  - Diabetes Center, National Hospital Organization Osaka National Hospital, 2-1-14, 
+      Hoenzaka, Chuo-ku, Osaka, 540-0006, Japan.
+FAU - Nakamura, Tadashi
+AU  - Nakamura T
+AD  - Department of Internal Medicine, Kawasaki Hospital, 3-3-1, Higashiyamacho, Kobe 
+      Hyogo-ku, Hyogo, 652-0042, Japan.
+FAU - Kawashima, Satoshi
+AU  - Kawashima S
+AD  - Kanda Naika Clinic, 5-21-3, Hannancho, Osaka Abeno-ku, Osaka, 545-0021, Japan.
+FAU - Sato, Yasunori
+AU  - Sato Y
+AD  - Department of Preventive Medicine and Public Health, Keio University School of 
+      Medicine, 45 Shinanomachi Shinjuku-ku, Tokyo, 160-8582, Japan.
+FAU - Watada, Hirotaka
+AU  - Watada H
+AD  - Department of Metabolism & Endocrinology, Juntendo University Graduate School of 
+      Medicine, Hongo 2-1-1, Bunkyo-ku, Tokyo, 113-8421, Japan.
+FAU - Shimomura, Iichiro
+AU  - Shimomura I
+AD  - Department of Metabolic Medicine, Osaka University Graduate School of Medicine, 
+      2-2, Yamadaoka, Suita, Osaka, 565-0871, Japan.
+CN  - UTOPIA study investigators
+LA  - eng
+PT  - Journal Article
+PT  - Observational Study
+PT  - Randomized Controlled Trial
+DEP - 20230622
+PL  - England
+TA  - Cardiovasc Diabetol
+JT  - Cardiovascular diabetology
+JID - 101147637
+RN  - P8DD8KX4O4 
+      (6-((4-ethylphenyl)methyl)-3',4',5',6'-tetrahydro-6'-(hydroxymethyl)spiro(isobenzofuran-1(3H),2'-(2H)pyran)-3',4',5'-triol)
+SB  - IM
+MH  - Humans
+MH  - *Cardiovascular Diseases/diagnosis/drug therapy/prevention & control
+MH  - Ankle Brachial Index
+MH  - Carotid Intima-Media Thickness
+MH  - *Diabetes Mellitus, Type 2/complications/diagnosis/drug therapy
+MH  - Pulse Wave Analysis
+MH  - Utopias
+MH  - *Atherosclerosis
+PMC - PMC10286339
+OTO - NOTNLM
+OT  - Atherosclerosis
+OT  - Brachial-ankle pulse wave velocity
+OT  - Cardiovascular risk factors
+OT  - Carotid intima-media thickness
+OT  - Sodium-glucose cotransporter 2 inhibitor
+OT  - Tofogliflozin
+COIS- Naoto Katakami was a staff member of the endowed chair established by funds from 
+      Kowa Co. Ltd. and has received lecture fees from Astellas Pharma Inc., 
+      AstraZeneca K.K., Daiichi Sankyo Inc., Eli Lilly Japan K. K, Kowa Company Ltd., 
+      Kyowa Hakko Kirin Co. Ltd., Mitsubishi Tanabe Pharma Co., Nippon Boehringer 
+      Ingelheim Co., Novartis Pharmaceuticals, Novo Nordisk Pharma, Ono Pharmaceutical 
+      Co., Taisho Toyama Pharmaceutical Co., Takeda Pharmaceutical Co., Teijin Pharma, 
+      Sanofi-Aventis, and Sumitomo Pharma Co. Tomoya Mita has received lecture fees 
+      from Kissei Pharmaceutical Co., Ltd., Kowa Pharmaceutical Co., Ono Pharmaceutical 
+      Co., Ltd., and Teijin Pharma Company, scholarship donations from MSD K.K., 
+      Astellas Pharma Inc., AstraZeneca K.K., Ono Pharmaceutical Co., Ltd., Kyowa Hakko 
+      Kirin Co. Ltd., Sanofi-Aventis K.K., Daiichi Sankyo Company, Limited, Sumitomo 
+      Dainippon Pharma Co., Ltd., Takeda Pharmaceutical Company Limited, Mitsubishi 
+      Tanabe Pharma Corporation, Terumo Corporation, Nippon Boehringer Ingelheim Co., 
+      Ltd., Novo Nordisk Pharma Ltd., Pfizer Japan Inc., Benefit One Health Care Inc., 
+      Mochida Pharmaceutical Co., Ltd., and Nitto Boseki Co., Ltd. as well as endowed 
+      chair funding from MSD K.K. and Takeda Pharmaceutical Company Limited. Tetsuyuki 
+      Yasuda has received lecture fees from Eli Lilly Japan K.K., Sumitomo Pharma, Novo 
+      Nordisk Pharma Ltd., and Teijin Pharma. Yosuke Okada has received lecture fees 
+      from MSD K.K., Mitsubishi Tanabe Pharma Corporation, Novo Nordisk Pharma Ltd., 
+      Eli Lilly Japan K.K., Novartis Pharmaceuticals Corp., Bayer Holding Ltd., Kowa 
+      Pharmaceutical Co. Ltd., Sanofi-Aventis K.K., and Sumitomo Pharma. Hideaki Kaneto 
+      has received lecture fees from Nippon Boehringer Ingelheim Co., Ltd., 
+      Sanofi-Aventis K.K., Novo Nordisk Pharma Ltd., Eli Lilly Japan K.K., MSD K.K., 
+      Ono Pharmaceutical Co., Ltd., Takeda Pharmaceutical Company Limited, Daiichi 
+      Sankyo Company, Limited, Mitsubishi Tanabe Pharma Corporation, AstraZeneca K.K., 
+      Astellas Pharma Inc., Novartis Pharmaceuticals Co., and Sumitomo Pharma Co.; 
+      scholarship donations from Novo Nordisk Pharma Ltd., Nippon Boehringer Ingelheim 
+      Co., Ltd., Sumitomo Pharma Co., Ltd., Ono Pharmaceutical Co., Ltd., 
+      Sanofi-Aventis K.K., Eli Lilly Japan K.K., Astellas Pharma Inc., Daiichi Sankyo 
+      Company, Limited, Mitsubishi Tanabe Pharma Corporation, MSD K.K., Takeda 
+      Pharmaceutical Company Limited, AstraZeneca K.K., Mochida Pharmaceutical Co., 
+      Ltd., Taisho Pharmaceutical Co., Kissei Pharmaceutical Co., Ltd., Kyowa Hakko 
+      Kirin Co. Ltd., and Abbott Co. Ltd; and research funding from Taisho 
+      Pharmaceutical Co., Sumitomo Pharma Co., and Nippon Boehringer Ingelheim Co., 
+      Ltd. Nobuichi Kuribayashi has received lecture fees from Novo Nordisk Pharma Ltd. 
+      Satoshi Kawashima has received lecture fees from Sanofi-Aventis K.K., Sumitomo 
+      Pharma Co., Kowa Pharmaceutical Co. Ltd., Mitsubishi Tanabe Pharma Corporation, 
+      Daiichi Sankyo Co., and Terumo Corporation. Yasunori Sato has received lecture 
+      fees from Mochida Pharmaceutical Co., Ltd, Eisai Co., Ltd., and Eli Lilly and 
+      Company. Hirotaka Watada has received honoraria for lectures for Bayer Pharma 
+      Japan, Teijin Pharma Ltd., MSD, Sanofi-Aventis K.K., Novo Nordisk, Nippon 
+      Boehringer Ingelheim, Eli Lilly, Sumitomo Pharma, Mitsubishi Tanabe Pharma, 
+      Daiichi Sankyo Company, Ltd, Abbott, Kowa Co., Ltd., Taisho Pharmaceutical, 
+      Astellas Pharma, Kissei Pharmaceutical Co., Ltd., AstraZeneca K.K., Ono 
+      Pharmaceutical Co. Ltd. Sanwa Kagaku, Takeda Pharmaceuticals, and research 
+      activities for Takeda Pharmaceuticals, Nippon Boehringer Ingelheim, Kissei 
+      Pharmaceutical, Novo Nordisk, Mitsubishi Tanabe Pharma, Lifescan Japan, Kyowa 
+      Kirin, Sumitomo Pharma, Eli Lilly, Teijin Pharma, Taisho Pharmaceutical, Abbott, 
+      Ono Pharmaceutical Co. Ltd., Soiken Inc., Sanwa Kagaku, and Kowa. Iichiro 
+      Shimomura has received lecture fees from Amgen Astellas Biopharma K.K., Astellas 
+      Pharma Inc., AstraZeneca K.K., Covidien Japan Inc., Daiichi Sankyo Co., Eli Lilly 
+      Japan K.K, MSD K.K., KOBAYASHI Pharmaceutical Co., Ltd., Kowa Company, Ltd., 
+      Kyowa Kirin Co., Ltd., Takeda Pharma K.K., Mitsubishi Tanabe Pharma Co., Mochida 
+      Pharmaceutical Co., Nippon Boehringer Ingelheim Co., Nippon Chemiphar Co., Ltd., 
+      Novartis Pharma K.K., Novo Nordisk Pharma, Ono Pharmaceutical Co., Rohto 
+      Pharmaceutical Co., Ltd., Sanofi K.K., Sanwa Kagaku Kenkyusho Co., Sumitomo 
+      Pharma Co., Taisho Pharmaceutical Co. Ltd., Teijin Pharma,; and research funds 
+      from Astellas Pharma Inc., Cancerscan Inc., Daiichi Sankyo Co., Dainippon 
+      Sumitomo Pharma Co., Eli Lilly Japan K.K, Japan Agency for Medical Research and 
+      Development (AMED), Kaken Pharmaceutical Co., KOBAYASHI Pharmaceutical Co., Ltd., 
+      Kowa Company, Ltd., Kubarahonke Co., Ltd., Kyowa Kirin Co., Ltd., Mitsubishi 
+      Tanabe Pharma Co., MSD K.K, Novartis Pharma K.K., Novo Nordisk Pharma, Ono 
+      Pharmaceutical Co., Rohto Pharmaceutical Co., Ltd. Sanofi K.K., Shionogi & Co., 
+      Takeda Pharma K.K., Teijin Pharma; and scholarship donations from Daiichi Sankyo 
+      Co., Kowa Company, Ltd., Mitsubishi Tanabe Pharma Co., Mochida Pharmaceutical 
+      Co., Novo Nordisk Pharma, Sumitomo Pharma Co., Takeda Pharma K.K., and Teijin 
+      Pharma. Hidenori Yoshii, Toshihiko Shiraiwa, Akira Kurozumi, Masahiro Hatazaki, 
+      Takeshi Osonoi, Tsunehiko Yamamoto, Kazuhisa Maeda, Hiroki Yokoyama, Keisuke 
+      Kosugi, Ketaro Ohtoshi, Isao Hayashi, Satoru Sumitani, Mamiko Tsugawa, Kayoko 
+      Ryomoto, Ken Kato, and Tadashi Nakamura declare that they have no conflict of 
+      interest.
+FIR - Komiyama, K
+IR  - Komiyama K
+FIR - Shimizu, T
+IR  - Shimizu T
+FIR - Kamei, S
+IR  - Kamei S
+FIR - Kinoshita, T
+IR  - Kinoshita T
+FIR - Shimoda, M
+IR  - Shimoda M
+FIR - Saito, M
+IR  - Saito M
+FIR - Fujiki, N
+IR  - Fujiki N
+FIR - Fujita, Y
+IR  - Fujita Y
+FIR - Shimizu, S
+IR  - Shimizu S
+FIR - Umayahara, Y
+IR  - Umayahara Y
+FIR - Irie, Y
+IR  - Irie Y
+FIR - Kataoka, R
+IR  - Kataoka R
+FIR - Kiyohara, Y
+IR  - Kiyohara Y
+FIR - Ohashi, M
+IR  - Ohashi M
+FIR - Ryomoto, K
+IR  - Ryomoto K
+FIR - Takahi, Y
+IR  - Takahi Y
+FIR - Fujishima, Y
+IR  - Fujishima Y
+FIR - Fujita, Y
+IR  - Fujita Y
+FIR - Fukuhara, A
+IR  - Fukuhara A
+FIR - Fukui, K
+IR  - Fukui K
+FIR - Hosokawa, Y
+IR  - Hosokawa Y
+FIR - Imagawa, A
+IR  - Imagawa A
+FIR - Iwahashi, H
+IR  - Iwahashi H
+FIR - Mukai, K
+IR  - Mukai K
+FIR - Katsura, T
+IR  - Katsura T
+FIR - Kawamori, D
+IR  - Kawamori D
+FIR - Kimura, T
+IR  - Kimura T
+FIR - Kobayashi, S
+IR  - Kobayashi S
+FIR - Kozawa, J
+IR  - Kozawa J
+FIR - Kubo, F
+IR  - Kubo F
+FIR - Maeda, N
+IR  - Maeda N
+FIR - Matsuoka, T
+IR  - Matsuoka T
+FIR - Miyashita, K
+IR  - Miyashita K
+FIR - Nakata, S
+IR  - Nakata S
+FIR - Ninomiya, H
+IR  - Ninomiya H
+FIR - Nishizawa, H
+IR  - Nishizawa H
+FIR - Okuno, Y
+IR  - Okuno Y
+FIR - Otsuki, M
+IR  - Otsuki M
+FIR - Sakamoto, F
+IR  - Sakamoto F
+FIR - Sasaki, S
+IR  - Sasaki S
+FIR - Sato, I
+IR  - Sato I
+FIR - Shimo, N
+IR  - Shimo N
+FIR - Shimomura, I
+IR  - Shimomura I
+FIR - Takahara, M
+IR  - Takahara M
+FIR - Takano, T
+IR  - Takano T
+FIR - Tokunaga, A
+IR  - Tokunaga A
+FIR - Uno, S
+IR  - Uno S
+FIR - Yamaoka, M
+IR  - Yamaoka M
+FIR - Yoneda, S
+IR  - Yoneda S
+FIR - Hajime, M
+IR  - Hajime M
+FIR - Koikawa, K
+IR  - Koikawa K
+FIR - Kuno, F
+IR  - Kuno F
+FIR - Matsushita, K
+IR  - Matsushita K
+FIR - Narisawa, M
+IR  - Narisawa M
+FIR - Tanaka, K
+IR  - Tanaka K
+FIR - Sugai, K
+IR  - Sugai K
+FIR - Torimoto, K
+IR  - Torimoto K
+EDAT- 2023/06/23 01:10
+MHDA- 2023/06/26 06:41
+CRDT- 2023/06/22 23:37
+PHST- 2023/03/27 00:00 [received]
+PHST- 2023/06/05 00:00 [accepted]
+PHST- 2023/06/26 06:41 [medline]
+PHST- 2023/06/23 01:10 [pubmed]
+PHST- 2023/06/22 23:37 [entrez]
+AID - 10.1186/s12933-023-01879-4 [pii]
+AID - 1879 [pii]
+AID - 10.1186/s12933-023-01879-4 [doi]
+PST - epublish
+SO  - Cardiovasc Diabetol. 2023 Jun 22;22(1):143. doi: 10.1186/s12933-023-01879-4.
+
+PMID- 37349409
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230626
+LR  - 20230701
+IS  - 2045-2322 (Electronic)
+IS  - 2045-2322 (Linking)
+VI  - 13
+IP  - 1
+DP  - 2023 Jun 22
+TI  - A randomized controlled trial for evaluating an occupational therapy self 
+      management intervention in adults with type 2 diabetes.
+PG  - 10128
+LID - 10.1038/s41598-023-37231-9 [doi]
+LID - 10128
+AB  - This study evaluated the efficacy of the Occupational Therapy Diabetes 
+      Self-Management intervention (OTDSM) to enhance glycemic stability and 
+      self-management skills in people with diabetes type-2. Based on this single-blind 
+      randomized trial, 30 subjects with diabetes type-2 were assigned to two groups of 
+      intervention and control. The intervention group received a 10-week program, 
+      consisting of four group visits and six individualized sessions. The control 
+      group received an individual session and three weekly phone calls. The primary 
+      study outcome, blood hemoglobin A1C, was measured before and three months after 
+      the study. The secondary outcome was assessed in terms of the participants' 
+      self-management behaviors, self-efficacy, diabetes distress, depressive symptoms, 
+      and performance and satisfaction with daily activities. These outcomes were 
+      evaluated three times: before, one month into, and three months after the study. 
+      The study findings demonstrated significant differences between the two groups in 
+      the hemoglobin A1C levels, self-management behaviors, self-efficacy, and 
+      performance and satisfaction with daily routines after the intervention 
+      (P < 0.05). No significant differences existed between the groups for the extent 
+      of diabetes distress and depressive symptoms. Inclusion of occupational therapy 
+      protocol into the plan of care for people with diabetes can improve health 
+      outcomes by promoting their routine participation in self-management activities.
+CI  - © 2023. The Author(s).
+FAU - Binesh, Maryam
+AU  - Binesh M
+AUID- ORCID: 0000-0003-3527-2674
+AD  - Department of Occupational Therapy, Neuromuscular Rehabilitation Research Center, 
+      Semnan University of Medical Sciences, Semnan, Iran.
+FAU - Shafaroodi, Narges
+AU  - Shafaroodi N
+AUID- ORCID: 0000-0003-0346-564X
+AD  - Department of Occupational Therapy, Rehabilitation Research Center, School of 
+      Rehabilitation Sciences, Iran University of Medical Sciences, Tehran, Iran.
+FAU - Mirmohammadkhani, Majid
+AU  - Mirmohammadkhani M
+AUID- ORCID: 0000-0001-6251-7484
+AD  - Social Determinants of Health Research Center, Semnan University of Medical 
+      Sciences, Semnan, Iran.
+FAU - Aghili, Rokhsareh
+AU  - Aghili R
+AUID- ORCID: 0000-0002-5272-0136
+AD  - Endocrinology; Endocrine Research Center, Institute of Endocrinology and 
+      Metabolism, Iran University of Medical Sciences, Tehran, Iran.
+FAU - Motaharinezhad, Fatemeh
+AU  - Motaharinezhad F
+AUID- ORCID: 0000-0002-2201-3879
+AD  - Department of Occupational Therapy, Neuromuscular Rehabilitation Research Center, 
+      Semnan University of Medical Sciences, Semnan, Iran.
+FAU - Khanipour, Mahnoosh
+AU  - Khanipour M
+AUID- ORCID: 0000-0001-6575-0070
+AD  - Department of Occupational Therapy, School of Paramedical Sciences, Zanjan 
+      University of Medical Sciences, Zanjan, Iran.
+FAU - Mehraban, Afsoon Hassani
+AU  - Mehraban AH
+AUID- ORCID: 0000-0002-1011-4760
+AD  - Rehabilitation Research Center, Occupational Therapy Department, School of 
+      Rehabilitation Sciences, Iran University of Medical Sciences, Tehran, Iran. 
+      mehraban.a@iums.ac.ir.
+LA  - eng
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+DEP - 20230622
+PL  - England
+TA  - Sci Rep
+JT  - Scientific reports
+JID - 101563288
+RN  - 0 (Glycated Hemoglobin)
+SB  - IM
+MH  - Humans
+MH  - Adult
+MH  - *Diabetes Mellitus, Type 2/therapy
+MH  - *Self-Management
+MH  - Glycated Hemoglobin
+MH  - *Occupational Therapy
+MH  - Single-Blind Method
+MH  - Self Care
+PMC - PMC10287758
+COIS- The authors declare no competing interests.
+EDAT- 2023/06/23 01:10
+MHDA- 2023/06/26 06:42
+CRDT- 2023/06/22 23:21
+PHST- 2022/04/17 00:00 [received]
+PHST- 2023/06/18 00:00 [accepted]
+PHST- 2023/06/26 06:42 [medline]
+PHST- 2023/06/23 01:10 [pubmed]
+PHST- 2023/06/22 23:21 [entrez]
+AID - 10.1038/s41598-023-37231-9 [pii]
+AID - 37231 [pii]
+AID - 10.1038/s41598-023-37231-9 [doi]
+PST - epublish
+SO  - Sci Rep. 2023 Jun 22;13(1):10128. doi: 10.1038/s41598-023-37231-9.
+
+PMID- 37344035
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230623
+LR  - 20230625
+IS  - 1873-2607 (Electronic)
+IS  - 0749-3797 (Linking)
+VI  - 65
+IP  - 1
+DP  - 2023 Jul
+TI  - Online RCT of Icon Added-Sugar Warning Labels for Restaurant Menus.
+PG  - 101-111
+LID - S0749-3797(23)00071-5 [pii]
+LID - 10.1016/j.amepre.2023.02.007 [doi]
+AB  - INTRODUCTION: To reduce added-sugar consumption, jurisdictions are considering 
+      requiring restaurant menu labels to identify high-added-sugar items. This study 
+      examined the impacts of added-sugar warning labels on hypothetical choices, 
+      knowledge of items' added-sugar content, and perceptions of high-added-sugar 
+      items. STUDY DESIGN: The design was an online RCT. SETTING/PARTICIPANTS: National 
+      sample of adults (N=15,496) was recruited to approximate the U.S. distribution of 
+      sex, age, race, ethnicity, and education. INTERVENTION: Participants viewed 
+      fast-food and full-service restaurant menus displaying no warning labels 
+      (control) or icon-only added-sugar warning labels next to high-added-sugar items 
+      (containing >50% of the daily recommended limit). MAIN OUTCOME MEASURES: The main 
+      outcome measures were hypothetical ordering of ≥1 high-added-sugar item, grams of 
+      added sugar ordered, and knowledge of items' added-sugar content assessed in 2021 
+      and analyzed in 2021-2022. RESULTS: Warning labels reduced the relative 
+      probability of ordering ≥1 high-added-sugar item by 2.2% (probability 
+      ratio=0.978, 95% CI=0.964, 0.992; p=0.002); improved knowledge of added-sugar 
+      content (p<0.001); and led to a nonstatistically significant reduction of 1.5 
+      grams of added sugar ordered, averaged across menus (p=0.07). The label modestly 
+      reduced the appeal of high-added-sugar items, increased perceptions that 
+      consuming such items often will increase Type 2 diabetes risk, increased 
+      perceived control over eating decisions, and increased injunctive norms about 
+      limiting consumption of high-added-sugar items (ps<0.001). However, in the 
+      warning condition, only 47% noticed nutrition labels, and 21% recalled seeing 
+      added-sugar labels. When restricting the warning condition to those who noticed 
+      the label, the result for grams of added sugar ordered was significant, with the 
+      warning condition ordering 4.9 fewer grams than the controls (95% CI= -7.3, -2.5; 
+      p<0.001). CONCLUSIONS: Added-sugar warning labels reduced the probability of 
+      ordering a high-added-sugar menu item and increased participants' knowledge of 
+      whether items contained >50% of the daily value for added sugar. The modest 
+      magnitudes of effects may be due to low label noticeability. Menu warning labels 
+      should be designed for noticeability. REGISTRATION: This study was registered at 
+      AsPredicted.org #65655.
+CI  - Copyright © 2023 American Journal of Preventive Medicine. Published by Elsevier 
+      Inc. All rights reserved.
+FAU - Falbe, Jennifer
+AU  - Falbe J
+AD  - Human Development and Family Studies Program, Department of Human Ecology, 
+      University of California, Davis, Davis, California. Electronic address: 
+      jfalbe@ucdavis.edu.
+FAU - Musicus, Aviva A
+AU  - Musicus AA
+AD  - Department of Social and Behavioral Sciences, Harvard T.H. Chan School of Public 
+      Health, Boston, Massachusetts.
+FAU - Sigala, Desiree M
+AU  - Sigala DM
+AD  - Department of Molecular Biosciences, School of Veterinary Medicine, University of 
+      California, Davis, Davis, California.
+FAU - Roberto, Christina A
+AU  - Roberto CA
+AD  - Department of Medical Ethics and Health Policy, Perelman School of Medicine at 
+      the University of Pennsylvania, Philadelphia, Pennsylvania.
+FAU - Solar, Sarah E
+AU  - Solar SE
+AD  - Human Development and Family Studies Program, Department of Human Ecology, 
+      University of California, Davis, Davis, California.
+FAU - Lemmon, Brittany
+AU  - Lemmon B
+AD  - Department of Statistics, University of California, Davis, Davis, California.
+FAU - Sorscher, Sarah
+AU  - Sorscher S
+AD  - Center for Science in the Public Interest, Washington, District of Columbia.
+FAU - Nara, DeAnna
+AU  - Nara D
+AD  - Center for Science in the Public Interest, Washington, District of Columbia.
+FAU - Hall, Marissa G
+AU  - Hall MG
+AD  - Department of Health Behavior, Gillings School of Global Public Health, 
+      University of North Carolina at Chapel Hill, Chapel Hill, North Carolina; 
+      Lineberger Comprehensive Cancer Center, University of North Carolina at Chapel 
+      Hill, Chapel Hill, North Carolina; Carolina Population Center, University of 
+      North Carolina at Chapel Hill, Chapel Hill, North Carolina.
+LA  - eng
+GR  - K01 DK113068/DK/NIDDK NIH HHS/United States
+GR  - R01 HL137716/HL/NHLBI NIH HHS/United States
+GR  - K01 HL147713/HL/NHLBI NIH HHS/United States
+GR  - T32 HL098048/HL/NHLBI NIH HHS/United States
+GR  - T32 CA057711/CA/NCI NIH HHS/United States
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+DEP - 20230417
+PL  - Netherlands
+TA  - Am J Prev Med
+JT  - American journal of preventive medicine
+JID - 8704773
+RN  - 0 (Sugars)
+SB  - IM
+MH  - Adult
+MH  - Humans
+MH  - *Sugars
+MH  - Restaurants
+MH  - *Diabetes Mellitus, Type 2
+MH  - Food Labeling
+MH  - Ethnicity
+EDAT- 2023/06/22 01:07
+MHDA- 2023/06/23 06:42
+CRDT- 2023/06/21 20:57
+PHST- 2022/05/25 00:00 [received]
+PHST- 2023/02/02 00:00 [revised]
+PHST- 2023/02/02 00:00 [accepted]
+PHST- 2023/06/23 06:42 [medline]
+PHST- 2023/06/22 01:07 [pubmed]
+PHST- 2023/06/21 20:57 [entrez]
+AID - S0749-3797(23)00071-5 [pii]
+AID - 10.1016/j.amepre.2023.02.007 [doi]
+PST - ppublish
+SO  - Am J Prev Med. 2023 Jul;65(1):101-111. doi: 10.1016/j.amepre.2023.02.007. Epub 
+      2023 Apr 17.
+
+PMID- 37338977
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230622
+LR  - 20230630
+IS  - 2291-5222 (Electronic)
+IS  - 2291-5222 (Linking)
+VI  - 11
+DP  - 2023 Jun 20
+TI  - The Effectiveness of a Traditional Chinese Medicine-Based Mobile Health App for 
+      Individuals With Prediabetes: Randomized Controlled Trial.
+PG  - e41099
+LID - 10.2196/41099 [doi]
+AB  - BACKGROUND: Traditional Chinese medicine (TCM) theories assert that body 
+      constitution and meridian energy lay the foundation for disease prevention. 
+      TCM-based health concepts have not yet been incorporated into mobile health 
+      (mHealth) apps for individuals with prediabetes. OBJECTIVE: The aim of this study 
+      was to examine the effectiveness of a TCM mHealth app for individuals with 
+      prediabetes. METHODS: This randomized controlled trial recruited 121 individuals 
+      with prediabetes at a teaching hospital in New Taipei City between February 2020 
+      and May 2021. The participants were randomly assigned to the TCM mHealth app 
+      group (n=42), ordinary mHealth app group (n=41), or control group (n=38). All 
+      participants received the usual care that included 15-20 minutes of health 
+      education about the disease, along with healthy diet and exercise encouragement. 
+      The ordinary mHealth app included physical activity (PA), diet, and disease 
+      education, along with individual records. The TCM mHealth app additionally 
+      included qi and body constitution information, along with constitution-based PA 
+      and diet advice. The control group received the usual care alone and did not have 
+      access to any app. Data were collected at baseline, at the end of the 12-week 
+      intervention, and 1 month after the intervention. Body constitution, including 
+      yang-deficiency, yin-deficiency, and phlegm-stasis, was measured according to the 
+      Body Constitution Questionnaire, with higher scores indicating a greater 
+      deficiency. Body energy was examined using the Meridian Energy Analysis Device. 
+      The Short-Form 36 questionnaire was used to evaluate health-related quality of 
+      life (HRQOL), which yielded physical component scores and mental component 
+      scores, with higher scores indicating better physical and mental aspects of 
+      HRQOL, respectively. RESULTS: Compared to the control group, the TCM mHealth app 
+      group showed greater improvement in hemoglobin A(1c) (HbA(1c)), yang-deficiency 
+      and phlegm-stasis body constitution, and BMI; however, no significant differences 
+      were found in these outcomes between the TCM mHealth app and ordinary mHealth app 
+      groups. The TCM mHealth app group showed better improvement in body energy and 
+      mental component scores than the ordinary mHealth app group. There were no 
+      significant differences in fasting plasma glucose, yin-deficiency body 
+      constitution, Dietary Approaches to Stop Hypertension dietary behavior, and total 
+      PA among the three groups after the intervention. CONCLUSIONS: Use of either the 
+      ordinary or TCM mHealth app improved HRQOL among individuals with prediabetes. 
+      Compared to the outcomes of controls not using any app, use of the TCM mHealth 
+      app was effective at improving HbA(1c), BMI, yang-deficiency and phlegm-stasis 
+      body constitution, and HRQOL. Moreover, using the TCM mHealth app seemed to 
+      improve the body energy and HRQOL more than when using the ordinary mHealth app. 
+      Further studies with a larger sample size and longer follow-up period may be 
+      necessary to determine whether the differences favoring the TCM app are 
+      clinically meaningful. TRIAL REGISTRATION: ClinicalTrials.gov NCT04096989; 
+      https://clinicaltrials.gov/ct2/show/NCT04096989.
+CI  - ©Hsueh-Wen Chung, Chen-Jei Tai, Polun Chang, Wen-Lin Su, Li-Yin Chien. Originally 
+      published in JMIR mHealth and uHealth (https://mhealth.jmir.org), 20.06.2023.
+FAU - Chung, Hsueh-Wen
+AU  - Chung HW
+AUID- ORCID: 0000-0003-4420-5756
+AD  - Department of Nursing, College of Nursing, National Yang Ming Chiao Tung 
+      University, Taipei City, Taiwan.
+FAU - Tai, Chen-Jei
+AU  - Tai CJ
+AUID- ORCID: 0000-0001-7304-6489
+AD  - Tai's Traditional Chinese Medicine Clinic, Taipei City, Taiwan.
+AD  - Department of Obstetrics and Gynecology, School of Medicine, College of Medicine, 
+      Taipei Medical University, Taipei City, Taiwan.
+FAU - Chang, Polun
+AU  - Chang P
+AUID- ORCID: 0000-0002-5817-0462
+AD  - Institute of Biomedical Informatics, National Yang Ming Chiao Tung University, 
+      Taipei City, Taiwan.
+FAU - Su, Wen-Lin
+AU  - Su WL
+AUID- ORCID: 0000-0002-9065-2058
+AD  - Division of Pulmonary and Critical Care Medicine, Department of Internal 
+      Medicine, Taipei Tzu Chi Hospital, Buddhist Tzu Chi Medical Foundation, New 
+      Taipei City, Taiwan.
+AD  - School of Medicine, Tzu Chi University, Hualien, Taiwan.
+FAU - Chien, Li-Yin
+AU  - Chien LY
+AUID- ORCID: 0000-0002-4210-2975
+AD  - Institute of Community Health Care, College of Nursing, National Yang Ming Chiao 
+      Tung University, Taipei City, Taiwan.
+LA  - eng
+SI  - ClinicalTrials.gov/NCT04096989
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20230620
+PL  - Canada
+TA  - JMIR Mhealth Uhealth
+JT  - JMIR mHealth and uHealth
+JID - 101624439
+SB  - IM
+MH  - Humans
+MH  - Medicine, Chinese Traditional
+MH  - *Prediabetic State/therapy
+MH  - *Mobile Applications
+MH  - Quality of Life
+MH  - Yin Deficiency
+MH  - *Telemedicine
+OTO - NOTNLM
+OT  - body constitution
+OT  - health-related quality of life
+OT  - mHealth app
+OT  - meridian energy
+OT  - prediabetes
+OT  - traditional Chinese medicine
+EDAT- 2023/06/20 13:10
+MHDA- 2023/06/22 06:42
+CRDT- 2023/06/20 11:54
+PHST- 2022/07/27 00:00 [received]
+PHST- 2023/05/25 00:00 [accepted]
+PHST- 2023/01/05 00:00 [revised]
+PHST- 2023/06/22 06:42 [medline]
+PHST- 2023/06/20 13:10 [pubmed]
+PHST- 2023/06/20 11:54 [entrez]
+AID - v11i1e41099 [pii]
+AID - 10.2196/41099 [doi]
+PST - epublish
+SO  - JMIR Mhealth Uhealth. 2023 Jun 20;11:e41099. doi: 10.2196/41099.
+
+PMID- 37335030
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230621
+LR  - 20230701
+IS  - 2150-1327 (Electronic)
+IS  - 2150-1319 (Print)
+IS  - 2150-1319 (Linking)
+VI  - 14
+DP  - 2023 Jan-Dec
+TI  - Implementation of Self-Care Deficits Assessment and a Nurse-Led Supportive 
+      Education Program in Community Hospitals for Behavior Change and HbA1c Reduction: 
+      A Cluster Randomized Controlled Trial.
+PG  - 21501319231181106
+LID - 10.1177/21501319231181106 [doi]
+LID - 21501319231181106
+AB  - BACKGROUND: The prevalence of uncontrolled type 2 diabetes has been increasing, 
+      and the nurse is a primary healthcare provider to patients when health 
+      professionals are scarce in the community setting. A feasible intervention 
+      delivered by nurses is necessary to fulfill patients' needs to help them achieve 
+      glycemic control. AIM: To investigate whether Thai adults with uncontrolled 
+      diabetes in community hospitals lack self-care competency and whether a nurse-led 
+      supportive education program can enhance their self-care skills, change behavior, 
+      and control HbA1C levels. METHODS: We employed a multi-community hospital cluster 
+      randomized controlled trial design. Participants were randomly selected in the 
+      experimental group (2 hospitals) and control group (2 hospitals), with 30 
+      patients from each hospital. One hundred twenty adults with HbA1c 7-10% treated 
+      by oral glycemic medication were recruited. Using Orem's Theory as a framework, 
+      nurses implemented self-care deficit assessments and supportive-educative nursing 
+      programs into their work. Participants in the control group received usual care, 
+      and those in the experimental group underwent a nurse assessment and supportive 
+      education measures. Data were collected at baseline, with 4-week and 12-week 
+      follow-ups. Data analysis were a repeated measures ANOVA with post hoc analysis, 
+      and Independent t-test. RESULTS: One hundred three patients completed the trial 
+      (51 in the experimental group and 52 in the control group). At 12 weeks, there 
+      were statistically significant improvements in HbA1c (P < .001), fasting plasma 
+      glucose (P = .03), knowledge (P < .001), diabetes self-care agency (P < .001), 
+      diet consumption (P < .001), physical activity (P < .001), and medical adherence 
+      (P = .03) in the experimental group significantly greater than those in the 
+      control group. Also, the between-group effect sizes were 0.49 or greater. 
+      CONCLUSION: The self-care deficit assessment and supportive education program 
+      were essential to the nursing intervention that effectively improved knowledge, 
+      changed behavior, and HbA1c levels among adults with uncontrolled blood glucose.
+FAU - Changsieng, Piyanat
+AU  - Changsieng P
+AD  - Department of Public Health Nursing, Faculty of Public Health, Mahidol 
+      University, Thailand.
+FAU - Pichayapinyo, Panan
+AU  - Pichayapinyo P
+AUID- ORCID: 0000-0002-5320-5291
+AD  - Department of Public Health Nursing, Faculty of Public Health, Mahidol 
+      University, Thailand.
+FAU - Lagampan, Sunee
+AU  - Lagampan S
+AD  - Department of Public Health Nursing, Faculty of Public Health, Mahidol 
+      University, Thailand.
+FAU - Lapvongwatana, Punyarat
+AU  - Lapvongwatana P
+AD  - Department of Public Health Nursing, Faculty of Public Health, Mahidol 
+      University, Thailand.
+LA  - eng
+SI  - TCTR/TCTR20220217003
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - J Prim Care Community Health
+JT  - Journal of primary care & community health
+JID - 101518419
+RN  - 0 (Glycated Hemoglobin)
+SB  - IM
+MH  - Adult
+MH  - Humans
+MH  - *Diabetes Mellitus, Type 2/drug therapy
+MH  - Glycated Hemoglobin
+MH  - Hospitals, Community
+MH  - Self Care
+MH  - Nurse's Role
+PMC - PMC10286208
+OTO - NOTNLM
+OT  - HbA1c
+OT  - Orem’s self-care theory
+OT  - community
+OT  - diabetes
+OT  - nurse
+COIS- The author(s) declared no potential conflicts of interest with respect to the 
+      research, authorship, and/or publication of this article.
+EDAT- 2023/06/19 13:09
+MHDA- 2023/06/21 06:42
+CRDT- 2023/06/19 08:22
+PHST- 2023/06/21 06:42 [medline]
+PHST- 2023/06/19 13:09 [pubmed]
+PHST- 2023/06/19 08:22 [entrez]
+AID - 10.1177_21501319231181106 [pii]
+AID - 10.1177/21501319231181106 [doi]
+PST - ppublish
+SO  - J Prim Care Community Health. 2023 Jan-Dec;14:21501319231181106. doi: 
+      10.1177/21501319231181106.
+
+PMID- 37334302
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230620
+LR  - 20230620
+IS  - 1664-2392 (Print)
+IS  - 1664-2392 (Electronic)
+IS  - 1664-2392 (Linking)
+VI  - 14
+DP  - 2023
+TI  - Does fasting plasma glucose values 5.1-5.6 mmol/l in the first trimester of 
+      gestation a matter?
+PG  - 1155007
+LID - 10.3389/fendo.2023.1155007 [doi]
+LID - 1155007
+AB  - OBJECTIVES: The aim of the study was to investigate the effect of treatment on 
+      pregnancy outcomes among women who had fasting plasma glucose (FPG) 5.1-5.6 
+      mmol/l in the first trimester of pregnancy. METHODS: We performed a 
+      secondary-analysis of a randomized community non-inferiority trial of gestational 
+      diabetes mellitus (GDM) screening. All pregnant women with FPG values range 
+      5.1-5.6 mmol/l in the first trimester of gestation were included in the present 
+      study (n=3297) and classified to either the (i) intervention group who received 
+      treatment for GDM along with usual prenatal care (n=1,198), (ii) control group 
+      who received usual-prenatal-care (n=2,099). Macrosomia/large for gestational age 
+      (LGA) and primary cesarean-section (C-S) were considered as primary-outcomes. A 
+      modified-Poisson-regression for binary outcome data with a log link function and 
+      robust error variance was used to RR (95%CI) for the associations between GDM 
+      status and incidence of pregnancy outcomes. RESULTS: The mean maternal age and 
+      BMI of pregnant women in both study groups were similar. There were no 
+      statistically significant differences in the adjusted risks of adverse pregnancy 
+      outcomes, including macrosomia, primary C-S, preterm birth, hyperbilirubinemia, 
+      preeclampsia, NICU-admission, birth trauma, and LBW both groups. CONCLUSIONS: It 
+      is found that treating women with first-trimester FPG values of 5.1-5.6 mmol/l 
+      could not improve adverse pregnancy outcomes including macrosomia, Primary C-S, 
+      Preterm birth, hypoglycemia, hypocalcemia, preeclampsia, NICU admission, Birth 
+      trauma and LBW. Therefore, extrapolating the FPG cut-off point of the second 
+      trimester to the first -which has been proposed by the IADPSG, might therefore 
+      not be appropriate. CLINICAL TRIAL REGISTRATION: https://www.irct.ir/trial/518, 
+      identifier IRCT138707081281N1.
+CI  - Copyright © 2023 Ramezani Tehrani, Farzadfar, Hosseinpanah, Rahmati, Firouzi, 
+      Abedini, Hadaegh, Valizadeh, Torkestani, Khalili, Solaymani-Dodaran, 
+      Bidhendi-Yarandi, Bakhshandeh, Ostovar, Dovom, Amiri, Azizi and 
+      Behboudi-Gandevani.
+FAU - Ramezani Tehrani, Fahimeh
+AU  - Ramezani Tehrani F
+AD  - Reproductive Endocrinology Research Center, Research Institute for Endocrine 
+      Sciences, Shahid Beheshti University of Medical Sciences, Tehran, Iran.
+FAU - Farzadfar, Farshad
+AU  - Farzadfar F
+AD  - Non-Communicable Diseases Research Center, Endocrinology and Metabolism 
+      Population Sciences Institute, Tehran University of Medical Sciences, Tehran, 
+      Iran.
+FAU - Hosseinpanah, Farhad
+AU  - Hosseinpanah F
+AD  - Obesity Research Center, Research Institute for Endocrine Sciences, Shahid 
+      Beheshti University of Medical Sciences, Tehran, Iran.
+FAU - Rahmati, Maryam
+AU  - Rahmati M
+AD  - Reproductive Endocrinology Research Center, Research Institute for Endocrine 
+      Sciences, Shahid Beheshti University of Medical Sciences, Tehran, Iran.
+FAU - Firouzi, Faegheh
+AU  - Firouzi F
+AD  - Reproductive Endocrinology Research Center, Research Institute for Endocrine 
+      Sciences, Shahid Beheshti University of Medical Sciences, Tehran, Iran.
+FAU - Abedini, Mehrandokht
+AU  - Abedini M
+AD  - Infertility and Cell Therapy Office, Transplant & Disease Treatment Center, 
+      Ministry of Health and Medical Education, Tehran, Iran.
+FAU - Hadaegh, Farzad
+AU  - Hadaegh F
+AD  - Prevention of Metabolic Disorders Research Center, Research Institute for 
+      Endocrine Sciences, Shahid Beheshti University of Medical Sciences, Tehran, Iran.
+FAU - Valizadeh, Majid
+AU  - Valizadeh M
+AD  - Obesity Research Center, Research Institute for Endocrine Sciences, Shahid 
+      Beheshti University of Medical Sciences, Tehran, Iran.
+FAU - Torkestani, Farahnaz
+AU  - Torkestani F
+AD  - Faculty of Medicine, Shahed University, Tehran, Iran.
+FAU - Khalili, Davood
+AU  - Khalili D
+AD  - Prevention of Metabolic Disorders Research Center, Research Institute for 
+      Endocrine Sciences, Shahid Beheshti University of Medical Sciences, Tehran, Iran.
+FAU - Solaymani-Dodaran, Masoud
+AU  - Solaymani-Dodaran M
+AD  - Minimally Invasive Surgery Research Center, Iran University of Medical Sciences, 
+      Tehran, Iran.
+FAU - Bidhendi-Yarandi, Razieh
+AU  - Bidhendi-Yarandi R
+AD  - Department of Biostatistics, University of Social Welfare and Rehabilitation 
+      Sciences, Tehran, Iran.
+FAU - Bakhshandeh, Marzieh
+AU  - Bakhshandeh M
+AD  - Family Health Department, Ministry of Health and Medical Education, Tehran, Iran.
+FAU - Ostovar, Afshin
+AU  - Ostovar A
+AD  - Osteoporosis Research Center, Endocrinology and Metabolism Clinical Sciences 
+      Institute, Tehran University of Medical Sciences, Tehran, Iran.
+FAU - Dovom, Marzieh Rostami
+AU  - Dovom MR
+AD  - Reproductive Endocrinology Research Center, Research Institute for Endocrine 
+      Sciences, Shahid Beheshti University of Medical Sciences, Tehran, Iran.
+FAU - Amiri, Mina
+AU  - Amiri M
+AD  - Reproductive Endocrinology Research Center, Research Institute for Endocrine 
+      Sciences, Shahid Beheshti University of Medical Sciences, Tehran, Iran.
+FAU - Azizi, Fereidoun
+AU  - Azizi F
+AD  - Endocrine Research Center, Research Institute for Endocrine Sciences, Shahid 
+      Beheshti University of Medical Sciences, Tehran, Iran.
+FAU - Behboudi-Gandevani, Samira
+AU  - Behboudi-Gandevani S
+AD  - Faculty of Nursing and Health Sciences, Nord University, Bodø, Norway.
+LA  - eng
+PT  - Equivalence Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20230602
+PL  - Switzerland
+TA  - Front Endocrinol (Lausanne)
+JT  - Frontiers in endocrinology
+JID - 101555782
+RN  - 0 (Blood Glucose)
+SB  - IM
+MH  - Female
+MH  - Humans
+MH  - Infant, Newborn
+MH  - Pregnancy
+MH  - Blood Glucose
+MH  - *Diabetes, Gestational/diagnosis/epidemiology
+MH  - Fasting
+MH  - Fetal Macrosomia/epidemiology
+MH  - *Pre-Eclampsia
+MH  - Pregnancy Outcome/epidemiology
+MH  - Pregnancy Trimester, First
+MH  - *Premature Birth/epidemiology
+PMC - PMC10273274
+OTO - NOTNLM
+OT  - early screening
+OT  - first trimester of gestation
+OT  - gestational diabetes
+OT  - glucose values 5.1-5.6 mmol/l
+OT  - randomized non-inferiority field trial
+COIS- The authors declare that the research was conducted in the absence of any 
+      commercial or financial relationships that could be construed as a potential 
+      conflict of interest.
+EDAT- 2023/06/19 06:41
+MHDA- 2023/06/20 06:42
+CRDT- 2023/06/19 03:05
+PHST- 2023/01/31 00:00 [received]
+PHST- 2023/04/13 00:00 [accepted]
+PHST- 2023/06/20 06:42 [medline]
+PHST- 2023/06/19 06:41 [pubmed]
+PHST- 2023/06/19 03:05 [entrez]
+AID - 10.3389/fendo.2023.1155007 [doi]
+PST - epublish
+SO  - Front Endocrinol (Lausanne). 2023 Jun 2;14:1155007. doi: 
+      10.3389/fendo.2023.1155007. eCollection 2023.
+
+PMID- 37334295
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230623
+LR  - 20230623
+IS  - 1664-2392 (Print)
+IS  - 1664-2392 (Electronic)
+IS  - 1664-2392 (Linking)
+VI  - 14
+DP  - 2023
+TI  - Non-severe hypoglycemia in type 1 diabetes: a randomized crossover trial 
+      comparing two quantities of oral carbohydrates at different insulin-induced 
+      hypoglycemia ranges.
+PG  - 1186680
+LID - 10.3389/fendo.2023.1186680 [doi]
+LID - 1186680
+AB  - AIMS: Non-severe hypoglycemia (NS-H) is challenging for people living with type 1 
+      diabetes (PWT1D) and often results from relative iatrogenic hyper-insulinemia. 
+      Current guidelines recommend a one-size-fits-all approach of 15-20 g of simple 
+      carbohydrates (CHO) every 15 min regardless of the triggering conditions of the 
+      NS-H event. We aimed to test different amounts of CHO to treat insulin-induced 
+      NS-H at various glucose ranges. METHODS: This is a randomized, four-way, 
+      crossover study involving PWT1D, testing NS-H treatment outcomes with 16 g vs. 
+      32 g CHO at two plasma glucose (PG) ranges: A: 3.0-3.5 mmol/L and B: <3.0 mmol/L. 
+      Across all study arms, participants consumed an additional 16 g of CHO if PG was 
+      still <3.0 mmol/L at 15 min and <4.0 mmol/L at 45 min post-initial treatment. 
+      Subcutaneous insulin was used in a fasting state to induce NS-H. Participants had 
+      frequent venous sampling of PG, insulin, and glucagon levels. RESULTS: 
+      Participants (n = 32; 56% female participants) had a mean (SD) age of 46.1 (17.1) 
+      years, had HbA1c at 54.0 (6.8 mmol/mol) [7.1% (0.9%)], and had a diabetes 
+      duration of 27.5 (17.0) years; 56% were insulin pump users. We compared NS-H 
+      correction parameters between 16 g and 32 g of CHO for range A, 3.0-3.5 mmol/L (n 
+      = 32), and range B, <3.0 mmol/L (n = 29). Change in PG at 15 min for A: 0.1 (0.8) 
+      mmol/L vs. 0.6 (0.9) mmol/L, p = 0.02; and for B: 0.8 (0.9) mmol/L vs. 0.8 (1.0) 
+      mmol/L, p = 1.0. Percentage of participants with corrected episodes at 15 min: 
+      (A) 19% vs. 47%, p = 0.09; (B) 21% vs. 24%, p = 1.0. A second treatment was 
+      necessary in (A) 50% vs. 15% of participants, p = 0.001; (B) 45% vs. 34% of 
+      participants, p = 0.37. No statistically significant differences in insulin and 
+      glucagon parameters were observed. CONCLUSIONS: NS-H, in the context of 
+      hyper-insulinemia, is difficult to treat in PWT1D. Initial consumption of 32 g of 
+      CHO revealed some advantages at the 3.0-3.5 mmol/L range. This was not reproduced 
+      at lower PG ranges since participants needed additional CHO regardless of the 
+      amount of initial consumption. CLINICAL TRIAL REGISTRATION: ClinicalTrials.gov, 
+      identifier NCT03489967.
+CI  - Copyright © 2023 Taleb, Gingras, Cheng, Parent, Messier, Bovan, Shohoudi, Brazeau 
+      and Rabasa-Lhoret.
+FAU - Taleb, Nadine
+AU  - Taleb N
+AD  - Montreal Clinical Research Institute, Montreal, Canada.
+AD  - Biomedical Sciences Department, Faculty of Medicine, Université de Montréal, 
+      Montreal, Canada.
+AD  - Endocrinology Division, Centre hospitalier de l'Université de Montréal, Montreal, 
+      Canada.
+FAU - Gingras, Véronique
+AU  - Gingras V
+AD  - Montreal Clinical Research Institute, Montreal, Canada.
+AD  - Research Centre, CHU Sainte-Justine, Montreal, Canada.
+AD  - Department of Nutrition, Faculty of Medicine, Université de Montréal, Montreal, 
+      Canada.
+FAU - Cheng, Ran
+AU  - Cheng R
+AD  - Montreal Clinical Research Institute, Montreal, Canada.
+AD  - Endocrinology Division, Centre hospitalier de l'Université de Montréal, Montreal, 
+      Canada.
+FAU - Parent, Valérie
+AU  - Parent V
+AD  - Montreal Clinical Research Institute, Montreal, Canada.
+FAU - Messier, Virginie
+AU  - Messier V
+AD  - Montreal Clinical Research Institute, Montreal, Canada.
+FAU - Bovan, Danijela
+AU  - Bovan D
+AD  - Montreal Clinical Research Institute, Montreal, Canada.
+FAU - Shohoudi, Azadeh
+AU  - Shohoudi A
+AD  - Montreal Clinical Research Institute, Montreal, Canada.
+FAU - Brazeau, Anne-Sophie
+AU  - Brazeau AS
+AD  - School of Human Nutrition, McGill University, Montreal, Canada.
+AD  - Montreal Diabetes Research Center, Montreal, Canada.
+FAU - Rabasa-Lhoret, Rémi
+AU  - Rabasa-Lhoret R
+AD  - Montreal Clinical Research Institute, Montreal, Canada.
+AD  - Endocrinology Division, Centre hospitalier de l'Université de Montréal, Montreal, 
+      Canada.
+AD  - Department of Nutrition, Faculty of Medicine, Université de Montréal, Montreal, 
+      Canada.
+AD  - Montreal Diabetes Research Center, Montreal, Canada.
+LA  - eng
+SI  - ClinicalTrials.gov/NCT03489967
+GR  - 148464/CIHR/Canada
+GR  - JT1-157204/CIHR/Canada
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20230602
+PL  - Switzerland
+TA  - Front Endocrinol (Lausanne)
+JT  - Frontiers in endocrinology
+JID - 101555782
+RN  - 0 (Blood Glucose)
+RN  - 9007-92-5 (Glucagon)
+RN  - 0 (Hypoglycemic Agents)
+RN  - 0 (Insulin)
+SB  - IM
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Blood Glucose
+MH  - Cross-Over Studies
+MH  - *Diabetes Mellitus, Type 1/therapy
+MH  - Glucagon/therapeutic use
+MH  - *Hypoglycemia/chemically induced/drug therapy
+MH  - Hypoglycemic Agents/adverse effects
+MH  - Insulin/therapeutic use
+MH  - Adult
+PMC - PMC10272543
+OTO - NOTNLM
+OT  - hypoglycemia treatment guidelines
+OT  - non-severe hypoglycemia
+OT  - oral carbohydrate
+OT  - subcutaneous insulin injection
+OT  - type 1 diabetes
+COIS- RR-L has received research grants from Astra-Zeneca, Eli Lilly, Merck, 
+      Novo-Nordisk, and Sanofi-Aventis. He has been a consultant or member of advisory 
+      panels of Abbott, Amgen, Astra-Zeneca, Boehringer, Carlina Technology, Eli Lilly, 
+      Janssen, Medtronic, Merck, Neomed, Novo-Nordisk, Roche, Sanofi-Aventis, and 
+      Takeda. He has received honoraria for conferences by Abbott, Astra-Zeneca, Eli 
+      Lilly, Janssen, Medtronic, Merck, Novo-Nordisk, and Sanofi-Aventis. He has 
+      received in kind contributions related to closed-loop technology from Animas, 
+      Medtronic, and Roche. He also benefits from unrestricted grants for clinical and 
+      educational activities from Eli Lilly, Lifescan, Medtronic, Merck, Novo Nordisk, 
+      and Sanofi. He holds intellectual property in the field of type 2 diabetes risk 
+      biomarkers, catheter life, and the closed-loop system. RR-L and VM received 
+      purchase fees from Eli Lilly in relation with closed-loop technology. NT has 
+      received consultant fees from Dexcom, Eli Lilly, and Viatris. The remaining 
+      authors declare that the research was conducted in the absence of any commercial 
+      or financial relationships that could be construed as a potential conflict of 
+      interest.
+EDAT- 2023/06/19 06:42
+MHDA- 2023/06/20 06:42
+CRDT- 2023/06/19 03:05
+PHST- 2023/03/15 00:00 [received]
+PHST- 2023/05/09 00:00 [accepted]
+PHST- 2023/06/20 06:42 [medline]
+PHST- 2023/06/19 06:42 [pubmed]
+PHST- 2023/06/19 03:05 [entrez]
+AID - 10.3389/fendo.2023.1186680 [doi]
+PST - epublish
+SO  - Front Endocrinol (Lausanne). 2023 Jun 2;14:1186680. doi: 
+      10.3389/fendo.2023.1186680. eCollection 2023.
+
+PMID- 37334290
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230620
+LR  - 20230701
+IS  - 1664-2392 (Print)
+IS  - 1664-2392 (Electronic)
+IS  - 1664-2392 (Linking)
+VI  - 14
+DP  - 2023
+TI  - Ghrelin does not impact the blunted counterregulatory response to recurrent 
+      hypoglycemia in mice.
+PG  - 1181856
+LID - 10.3389/fendo.2023.1181856 [doi]
+LID - 1181856
+AB  - INTRODUCTION: Recurrent episodes of insulin-induced hypoglycemia in patients with 
+      diabetes mellitus can result in hypoglycemia-associated autonomic failure (HAAF), 
+      which is characterized by a compromised response to hypoglycemia by 
+      counterregulatory hormones (counterregulatory response; CRR) and hypoglycemia 
+      unawareness. HAAF is a leading cause of morbidity in diabetes and often hinders 
+      optimal regulation of blood glucose levels. Yet, the molecular pathways 
+      underlying HAAF remain incompletely described. We previously reported that in 
+      mice, ghrelin is permissive for the usual CRR to insulin-induced hypoglycemia. 
+      Here, we tested the hypothesis that attenuated release of ghrelin both results 
+      from HAAF and contributes to HAAF. METHODS: C57BL/6N mice, ghrelin-knockout (KO) 
+      + control mice, and GhIRKO (ghrelin cell-selective insulin receptor knockout) + 
+      control mice were randomized to one of three treatment groups: a "Euglycemia" 
+      group was injected with saline and remained euglycemic; a 1X hypoglycemia ("1X 
+      Hypo") group underwent a single episode of insulin-induced hypoglycemia; a 
+      recurrent hypoglycemia ("Recurrent Hypo") group underwent repeated episodes of 
+      insulin-induced hypoglycemia over five successive days. RESULTS: Recurrent 
+      hypoglycemia exaggerated the reduction in blood glucose (by ~30%) and attenuated 
+      the elevations in plasma levels of the CRR hormones glucagon (by 64.5%) and 
+      epinephrine (by 52.9%) in C57BL/6N mice compared to a single hypoglycemic 
+      episode. Yet, plasma ghrelin was equivalently reduced in "1X Hypo" and "Recurrent 
+      Hypo" C57BL/6N mice. Ghrelin-KO mice exhibited neither exaggerated hypoglycemia 
+      in response to recurrent hypoglycemia, nor any additional attenuation in CRR 
+      hormone levels compared to wild-type littermates. Also, in response to recurrent 
+      hypoglycemia, GhIRKO mice exhibited nearly identical blood glucose and plasma CRR 
+      hormone levels as littermates with intact insulin receptor expression (floxed-IR 
+      mice), despite higher plasma ghrelin in GhIRKO mice. CONCLUSIONS: These data 
+      suggest that the usual reduction of plasma ghrelin due to insulin-induced 
+      hypoglycemia is unaltered by recurrent hypoglycemia and that ghrelin does not 
+      impact blood glucose or the blunted CRR hormone responses during recurrent 
+      hypoglycemia.
+CI  - Copyright © 2023 Shankar, Varshney, Gupta, Mani, Osborne-Lawrence, Metzger, 
+      Richard and Zigman.
+FAU - Shankar, Kripa
+AU  - Shankar K
+AD  - Center for Hypothalamic Research, Department of Internal Medicine, University of 
+      Texas Southwestern Medical Center, Dallas, TX, United States.
+FAU - Varshney, Salil
+AU  - Varshney S
+AD  - Center for Hypothalamic Research, Department of Internal Medicine, University of 
+      Texas Southwestern Medical Center, Dallas, TX, United States.
+FAU - Gupta, Deepali
+AU  - Gupta D
+AD  - Center for Hypothalamic Research, Department of Internal Medicine, University of 
+      Texas Southwestern Medical Center, Dallas, TX, United States.
+FAU - Mani, Bharath K
+AU  - Mani BK
+AD  - Center for Hypothalamic Research, Department of Internal Medicine, University of 
+      Texas Southwestern Medical Center, Dallas, TX, United States.
+FAU - Osborne-Lawrence, Sherri
+AU  - Osborne-Lawrence S
+AD  - Center for Hypothalamic Research, Department of Internal Medicine, University of 
+      Texas Southwestern Medical Center, Dallas, TX, United States.
+FAU - Metzger, Nathan P
+AU  - Metzger NP
+AD  - Center for Hypothalamic Research, Department of Internal Medicine, University of 
+      Texas Southwestern Medical Center, Dallas, TX, United States.
+FAU - Richard, Corine P
+AU  - Richard CP
+AD  - Center for Hypothalamic Research, Department of Internal Medicine, University of 
+      Texas Southwestern Medical Center, Dallas, TX, United States.
+FAU - Zigman, Jeffrey M
+AU  - Zigman JM
+AD  - Center for Hypothalamic Research, Department of Internal Medicine, University of 
+      Texas Southwestern Medical Center, Dallas, TX, United States.
+AD  - Division of Endocrinology, Department of Internal Medicine, University of Texas 
+      Southwestern Medical Center, Dallas, TX, United States.
+AD  - Department of Psychiatry, University of Texas Southwestern Medical Center, 
+      Dallas, TX, United States.
+LA  - eng
+GR  - R01 DK103884/DK/NIDDK NIH HHS/United States
+GR  - R01 DK119341/DK/NIDDK NIH HHS/United States
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20230602
+PL  - Switzerland
+TA  - Front Endocrinol (Lausanne)
+JT  - Frontiers in endocrinology
+JID - 101555782
+RN  - 0 (Blood Glucose)
+RN  - EC 2.7.10.1 (Receptor, Insulin)
+RN  - 0 (Ghrelin)
+RN  - 0 (Insulin)
+SB  - IM
+MH  - Mice
+MH  - Animals
+MH  - Blood Glucose/metabolism
+MH  - Receptor, Insulin
+MH  - Ghrelin
+MH  - Mice, Inbred C57BL
+MH  - *Hypoglycemia/chemically induced/genetics
+MH  - *Diabetes Mellitus
+MH  - Insulin
+PMC - PMC10272800
+OTO - NOTNLM
+OT  - Blood glucose
+OT  - counterregulation
+OT  - ghrelin
+OT  - hypoglycemia unawareness
+OT  - hypoglycemia-associated autonomic failure
+OT  - mouse models
+COIS- JZ consults for Helsinn Healthcare S.A. and Dexcel Pharma Technologies Ltd. and 
+      receives research funding from Novo Nordisk for a different project. The 
+      remaining authors declare that the research was conducted in the absence of any 
+      commercial or financial relationships that could be construed as a potential 
+      conflict of interest.
+EDAT- 2023/06/19 06:42
+MHDA- 2023/06/20 06:42
+CRDT- 2023/06/19 03:05
+PHST- 2023/03/08 00:00 [received]
+PHST- 2023/05/23 00:00 [accepted]
+PHST- 2023/06/20 06:42 [medline]
+PHST- 2023/06/19 06:42 [pubmed]
+PHST- 2023/06/19 03:05 [entrez]
+AID - 10.3389/fendo.2023.1181856 [doi]
+PST - epublish
+SO  - Front Endocrinol (Lausanne). 2023 Jun 2;14:1181856. doi: 
+      10.3389/fendo.2023.1181856. eCollection 2023.
+
+PMID- 37330547
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230619
+LR  - 20230620
+IS  - 1479-5876 (Electronic)
+IS  - 1479-5876 (Linking)
+VI  - 21
+IP  - 1
+DP  - 2023 Jun 17
+TI  - Establishment and evaluation of a novel practical tool for the diagnosis of 
+      pre-sarcopenia in young people with diabetes mellitus.
+PG  - 393
+LID - 10.1186/s12967-023-04261-w [doi]
+LID - 393
+AB  - OBJECTIVE: Sarcopenia has been recognized as a third category of complications in 
+      people with diabetes. However, few studies focus on the reduction of skeletal 
+      muscle mass in young people with diabetes. The aim of this study was to 
+      investigate risk factors of pre-sarcopenia in young patients with diabetes and 
+      establish a practical tool to diagnose pre-sarcopenia in those people. METHODS: 
+      Patients (n = 1246) enrolled from the National Health and Nutrition Examination 
+      Survey (NHANES) cycle year of 2011 to 2018 were randomly divided into the 
+      training set and validation set. The all-subsets regression analysis was used to 
+      select the risk factors of pre-sarcopenia. A nomogram model for the prediction of 
+      pre-sarcopenia in the diabetic population was established based on the risk 
+      factors. The model was evaluated by the area under the receiver operating 
+      characteristic curve for discrimination, calibration curves for calibration, and 
+      decision curve analysis curves for clinical utility. RESULTS: In this study, 
+      gender, height, and waist circumference were elected as predictive factors for 
+      pre-sarcopenia. The nomogram model presented excellent discrimination in training 
+      and validation sets with areas under the curve of 0.907 and 0.912, respectively. 
+      The calibration curve illustrated excellent calibration, and the decision curve 
+      analysis showed a wide range of good clinical utility. CONCLUSIONS: This study 
+      develops a novel nomogram that integrates gender, height, and waist circumference 
+      and can be used to easily predict pre-sarcopenia in diabetics. The novel screen 
+      tool is accurate, specific, and low-cost, highlighting its potential value in 
+      clinical application.
+CI  - © 2023. The Author(s).
+FAU - Li, Ruina
+AU  - Li R
+AD  - Department of Clinical Pharmacy, Union Shenzhen Hospital, Huazhong University of 
+      Science and Technology, Shenzhen, Guangdong, China.
+FAU - Lin, Sixian
+AU  - Lin S
+AD  - Neurosurgery Department, Kunming Medical University, Kunming, Yunnan, China.
+FAU - Tu, Jiayuan
+AU  - Tu J
+AD  - School of Nursing and Public Health, Yangzhou University, Yangzhou, Jiangsu, 
+      China.
+FAU - Chen, Yongzhuang
+AU  - Chen Y
+AD  - Yancheng No.1 People's Hospital, Yancheng, China.
+FAU - Cheng, Bin
+AU  - Cheng B
+AD  - Department of Burns and Plastic Surgery, Union Shenzhen Hospital, Huazhong 
+      University of Science and Technology, Shenzhen, Guangdong, China.
+FAU - Mo, Xiaoqiao
+AU  - Mo X
+AD  - Department of Operating Room, Xinhua Hospital, Shanghai Jiao Tong University 
+      School of Medicine, Shanghai, China.
+FAU - Xie, Tian
+AU  - Xie T
+AUID- ORCID: 0000-0003-2916-6250
+AD  - Department of General Surgery, Shanghai Ninth People's Hospital, Shanghai Jiao 
+      Tong University School of Medicine, Shanghai, China. tean0523@163.com.
+LA  - eng
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+DEP - 20230617
+PL  - England
+TA  - J Transl Med
+JT  - Journal of translational medicine
+JID - 101190741
+SB  - IM
+MH  - Humans
+MH  - Adolescent
+MH  - Nutrition Surveys
+MH  - *Sarcopenia/complications/diagnosis/epidemiology
+MH  - *Diabetes Mellitus/epidemiology
+MH  - Risk Factors
+MH  - Calibration
+MH  - Retrospective Studies
+PMC - PMC10276365
+OTO - NOTNLM
+OT  - Diabetes mellitus
+OT  - NHANES
+OT  - Nomogram
+OT  - Pre-sarcopenia
+OT  - Skeletal muscle mass
+COIS- The authors declare no competing interests that pertain to this work.
+EDAT- 2023/06/18 01:07
+MHDA- 2023/06/19 13:08
+CRDT- 2023/06/17 23:20
+PHST- 2023/04/16 00:00 [received]
+PHST- 2023/06/09 00:00 [accepted]
+PHST- 2023/06/19 13:08 [medline]
+PHST- 2023/06/18 01:07 [pubmed]
+PHST- 2023/06/17 23:20 [entrez]
+AID - 10.1186/s12967-023-04261-w [pii]
+AID - 4261 [pii]
+AID - 10.1186/s12967-023-04261-w [doi]
+PST - epublish
+SO  - J Transl Med. 2023 Jun 17;21(1):393. doi: 10.1186/s12967-023-04261-w.
+
+PMID- 37330461
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230619
+LR  - 20230620
+IS  - 1471-2458 (Electronic)
+IS  - 1471-2458 (Linking)
+VI  - 23
+IP  - 1
+DP  - 2023 Jun 17
+TI  - School-based peer-led diabetes intervention among female adolescents: a cluster 
+      randomized trial.
+PG  - 1170
+LID - 10.1186/s12889-023-15430-3 [doi]
+LID - 1170
+AB  - BACKGROUND: The prevalence of type 2 diabetes is increasing among adolescents and 
+      clear strategies are needed to prevent it. The aim of this study was to determine 
+      the effect of peer education on knowledge, health beliefs and preventive 
+      behaviors of type 2 diabetes in female adolescents. METHODS: In this cluster 
+      randomized trial study, 168 students (84 people in each group) were enrolled. The 
+      data collection instrument was a questionnaire of knowledge (30 questions), 
+      health beliefs (16 questions) and behavior (20 questions) whose validity and 
+      reliability were confirmed. Then eight capable students were chosen as peer 
+      educators after being trained. The intervention group received 8 sessions of 
+      90-min education through training, lectures, question and answer, and group 
+      discussion and with teaching aids such as pamphlets, educational clips and text 
+      messages. The post-test was administered two months after the treatment. Data 
+      collected using software SPSS16 and Chi-Square and ANCOVA test were used. 
+      RESULTS: The result showed that the mean and standard deviation of general 
+      knowledge, disease symptoms, behavioral risk factors, mid-term outcomes and 
+      long-term outcomes, perceived self-efficacy, behavioral beliefs, perceived 
+      susceptibility, perceived severity, prevention of stress, healthy food/healthy 
+      diet, unhealthy food/unhealthy diet, high-risk behavior, and self-care in the 
+      intervention group has increased significantly 2 months after intervention 
+      compared of control group (P < 0.001). CONCLUSIONS: Peer education increased 
+      knowledge and improved adolescents' health beliefs and behaviors. Therefore, 
+      training in adolescence in order to prevention of diabetes can be considered as 
+      an effective step, and the use of peer-led education in this field is 
+      recommended. TRIAL REGISTRATION: Trial registration number IRCT20200811048361N1 
+      from School of Public Health & Neuroscience Research Center-Shahid Beheshti 
+      University of Medical Sciences. Date applied: 30/12/2020. Date assigned: 
+      01/12/2020.
+CI  - © 2023. The Author(s).
+FAU - Ameneh, Pooresmaeil Dorosteh
+AU  - Ameneh PD
+AD  - Ph. D Student of Health Education & Health Promotion, School of Public Health and 
+      Safety, Shahid Beheshti University of Medical Sciences, Tehran, Iran.
+FAU - Mohtasham, Ghaffari
+AU  - Mohtasham G
+AD  - Professor of Health Education & Health Promotion, School of Public Health and 
+      Safety, Shahid Beheshti University of Medical Sciences, Tehran, Iran.
+FAU - Sakineh, Rakhshanderou
+AU  - Sakineh R
+AD  - Assistant Professor of Health Education & Health Promotion, School of Public 
+      Health and Safety, Shahid Beheshti University of Medical Sciences, Tabnak Ave., 
+      Daneshjou Blvd., P.O, Velenjak, Tehran, Iran. rakhshanderousakineh@gmail.com.
+FAU - Yadollah, Mehrabi
+AU  - Yadollah M
+AD  - Professor of Biostatistics, Department of Epidemiology, School of Public Health 
+      and Safety, Shahid Beheshti University of Medical Sciences, Tehran, Iran.
+FAU - Ali, Ramezankhani
+AU  - Ali R
+AD  - Professor of Health Education & Health Promotion School of Public Health and 
+      Safety, Shahid Beheshti University of Medical Sciences, Tehran, Iran.
+LA  - eng
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+DEP - 20230617
+PL  - England
+TA  - BMC Public Health
+JT  - BMC public health
+JID - 100968562
+SB  - IM
+MH  - Humans
+MH  - Adolescent
+MH  - Female
+MH  - *Health Education
+MH  - *Diabetes Mellitus, Type 2/prevention & control
+MH  - Reproducibility of Results
+MH  - Risk Factors
+MH  - Schools
+PMC - PMC10276363
+OTO - NOTNLM
+OT  - Adolescents
+OT  - Attitude
+OT  - Behavior
+OT  - Diabetes mellitus
+OT  - Knowledge
+OT  - Peer education
+COIS- All authors of this article declare they have no conflicts of interest.
+EDAT- 2023/06/18 01:08
+MHDA- 2023/06/19 16:16
+CRDT- 2023/06/17 23:12
+PHST- 2022/09/02 00:00 [received]
+PHST- 2023/03/13 00:00 [accepted]
+PHST- 2023/06/19 16:16 [medline]
+PHST- 2023/06/18 01:08 [pubmed]
+PHST- 2023/06/17 23:12 [entrez]
+AID - 10.1186/s12889-023-15430-3 [pii]
+AID - 15430 [pii]
+AID - 10.1186/s12889-023-15430-3 [doi]
+PST - epublish
+SO  - BMC Public Health. 2023 Jun 17;23(1):1170. doi: 10.1186/s12889-023-15430-3.
+
+PMID- 37328272
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230619
+LR  - 20230620
+IS  - 2052-4897 (Electronic)
+IS  - 2052-4897 (Linking)
+VI  - 11
+IP  - 3
+DP  - 2023 Jun
+TI  - Efficacy and safety of luseogliflozin in Caucasian patients with type 2 diabetes: 
+      results from a phase III, randomized, placebo-controlled, clinical trial.
+LID - 10.1136/bmjdrc-2022-003290 [doi]
+LID - e003290
+AB  - INTRODUCTION: Most data demonstrating the efficacy and safety of luseogliflozin 
+      (luseo) in people with type 2 diabetes mellitus (T2DM) originate from the 
+      Japanese population. This study evaluated luseo versus placebo (PCB) as add-on to 
+      metformin in a Caucasian population with inadequately controlled T2DM. RESEARCH 
+      DESIGN AND METHODS: This was a multicenter, randomized, double-blind, 
+      PCB-controlled, parallel-group study. Patients aged 18-75 years with inadequately 
+      controlled T2DM (glycated hemoglobin (HbA1c) ≥7% to ≤10% (≥53 to ≤86 mmol/mol)) 
+      despite a diet and exercise program and on a stable metformin regimen were 
+      eligible. Patients were randomized to one of three luseo groups (2.5, 5.0 and 
+      10.0 mg) or PCB for 12 weeks (W12). The primary endpoint was change in HbA1c 
+      expressed as least-square means from baseline (W0) to W12. RESULTS: A total of 
+      328 patients were randomized: PCB (n=83) and luseo 2.5 mg (n=80), 5.0 mg (n=86), 
+      and 10.0 mg (n=79). Mean age (±SD) was 58.5±8.8 years; 64.6% were women; body 
+      mass index was 31.5±3.4 kg/m(2); and HbA1c was 8.54±0.70. At W12, mean reductions 
+      in HbA1c from W0 were -0.98%, -1.09%, -1.18%, and -0.73% in the luseo 2.5, 5.0 
+      and 10.0 mg, and PCB groups, respectively, all of which were statistically 
+      significant. Compared with PCB, HbA1c levels were significantly decreased by 
+      0.25% (p=0.045), 0.36% (p=0.006), and 0.45% (p=0.001) in the luseo 2.5, 5.0, and 
+      10.0 mg groups, respectively. In all luseo dose groups, reductions in body weight 
+      were statistically significant compared with PCB. Data from the safety analysis 
+      were consistent with the known luseo safety profile. CONCLUSIONS: All doses of 
+      luseo as add-on to metformin in Caucasian patients with uncontrolled T2DM 
+      demonstrated significant efficacy in decreasing HbA1c after W12 of treatment. 
+      TRIAL REGISTRATION NUMBER: ISRCTN39549850.
+CI  - © Author(s) (or their employer(s)) 2023. Re-use permitted under CC BY-NC. No 
+      commercial re-use. See rights and permissions. Published by BMJ.
+FAU - Shestakova, Marina
+AU  - Shestakova M
+AUID- ORCID: 0000-0002-5057-127X
+AD  - Endocrinology Research Center, Moscow, Russia.
+FAU - Kvasnikov, Boris
+AU  - Kvasnikov B
+AUID- ORCID: 0000-0002-0806-7061
+AD  - Medical Affairs, Servier JSC, Moscow, Russia.
+FAU - Erina, Ekaterina
+AU  - Erina E
+AUID- ORCID: 0000-0002-4503-0815
+AD  - Medical Affairs, Servier JSC, Moscow, Russia.
+FAU - Isachenko, Elena
+AU  - Isachenko E
+AUID- ORCID: 0000-0002-7031-8618
+AD  - Medical Affairs, Servier JSC, Moscow, Russia elena.isachenko@servier.com.
+FAU - Andreev, Alexander
+AU  - Andreev A
+AUID- ORCID: 0000-0002-6503-2359
+AD  - Cardiology and functional&ultrasound diagnostics department, First Moscow State 
+      Medical University, Moscow, Russia.
+CN  - study investigators
+LA  - eng
+PT  - Clinical Trial, Phase III
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PL  - England
+TA  - BMJ Open Diabetes Res Care
+JT  - BMJ open diabetes research & care
+JID - 101641391
+RN  - 0 (Hypoglycemic Agents)
+RN  - 0 (Glycated Hemoglobin)
+RN  - C596HWF74Z 
+      (1,5-anhydro-1-(5-(4-ethoxybenzyl)-2-methoxy-4-methylphenyl)-1-thioglucitol)
+RN  - 35517-12-5 (W 12)
+RN  - 9100L32L2N (Metformin)
+SB  - IM
+MH  - Humans
+MH  - Female
+MH  - Middle Aged
+MH  - Aged
+MH  - Male
+MH  - *Diabetes Mellitus, Type 2/drug therapy
+MH  - Hypoglycemic Agents/adverse effects
+MH  - Glycated Hemoglobin
+MH  - Treatment Outcome
+MH  - *Metformin/adverse effects
+PMC - PMC10277051
+OTO - NOTNLM
+OT  - Diabetes Mellitus, Type 2
+OT  - Drug Therapy
+OT  - HbA1c
+OT  - Safety
+COIS- Competing interests: Luseogliflozin (luseo) was discovered and developed by 
+      Taisho Pharmaceutical Co. JSC Servier has signed a licensing and supply agreement 
+      with Taisho Pharmaceutical Co. Under this agreement, Taisho grants Servier the 
+      exclusive rights for manufacturing, development, distribution, commercialization 
+      and promotion of the finished pharmaceutical products containing luseo in Russia 
+      and the Eurasian Economic Union. MS is chief scientific secretary and member of 
+      the Presidium of the Board of the Russian Association of Endocrinologists. She 
+      has acted as a speaker for Servier and received support for congress 
+      participation. BK, EE, and EI are full-day contract employees of JSC Servier, 
+      Russia. AA is an ex-employee of JSC Servier, Russia.
+FIR - Alpenidze, Diana
+IR  - Alpenidze D
+FIR - Ametov, Alexander
+IR  - Ametov A
+FIR - Demicheva, Olga
+IR  - Demicheva O
+FIR - Dvoryashina, Irina
+IR  - Dvoryashina I
+FIR - Ermakova, Polina
+IR  - Ermakova P
+FIR - Ershova, Olga
+IR  - Ershova O
+FIR - Grineva, Elena
+IR  - Grineva E
+FIR - Khalimov, Yuriy
+IR  - Khalimov Y
+FIR - Kvitkova, Ludmila
+IR  - Kvitkova L
+FIR - Kuzin, Anatoliy
+IR  - Kuzin A
+FIR - Lantseva, Olga
+IR  - Lantseva O
+FIR - Leonova, Nina
+IR  - Leonova N
+FIR - Lysenko, Tatiana
+IR  - Lysenko T
+FIR - Markova, Tatiana
+IR  - Markova T
+FIR - Mkrtumyan, Ashot
+IR  - Mkrtumyan A
+FIR - Nosova, Nina
+IR  - Nosova N
+FIR - Osokina, Natalia
+IR  - Osokina N
+FIR - Pimenov, Leonid
+IR  - Pimenov L
+FIR - Rogova, Larisa
+IR  - Rogova L
+FIR - Ruyatkina, Ludmila
+IR  - Ruyatkina L
+FIR - Rymar, Oksana
+IR  - Rymar O
+FIR - Shabelnikova, Olesya
+IR  - Shabelnikova O
+FIR - Smirnova, Elena
+IR  - Smirnova E
+FIR - Smirnova, Olga
+IR  - Smirnova O
+FIR - Sobolev, Alexander
+IR  - Sobolev A
+FIR - Strongin, Leonid
+IR  - Strongin L
+FIR - Suplotova, Ludmila
+IR  - Suplotova L
+FIR - Verbovoy, Andrey
+IR  - Verbovoy A
+FIR - Volkova, Anna
+IR  - Volkova A
+FIR - Zalevskaya, Alsu
+IR  - Zalevskaya A
+FIR - Zanozina, Olga
+IR  - Zanozina O
+FIR - Zhdanova, Elena
+IR  - Zhdanova E
+FIR - Zhukova, Larisa
+IR  - Zhukova L
+EDAT- 2023/06/17 05:11
+MHDA- 2023/06/19 16:16
+CRDT- 2023/06/16 21:23
+PHST- 2023/01/27 00:00 [received]
+PHST- 2023/05/23 00:00 [accepted]
+PHST- 2023/06/19 16:16 [medline]
+PHST- 2023/06/17 05:11 [pubmed]
+PHST- 2023/06/16 21:23 [entrez]
+AID - 11/3/e003290 [pii]
+AID - bmjdrc-2022-003290 [pii]
+AID - 10.1136/bmjdrc-2022-003290 [doi]
+PST - ppublish
+SO  - BMJ Open Diabetes Res Care. 2023 Jun;11(3):e003290. doi: 
+      10.1136/bmjdrc-2022-003290.
+
+PMID- 37327024
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230619
+LR  - 20230620
+IS  - 1438-8871 (Electronic)
+IS  - 1438-8871 (Linking)
+VI  - 25
+DP  - 2023 Jun 16
+TI  - Effect of Mobile Phone Text Messaging Self-Management Support for Patients With 
+      Diabetes or Coronary Heart Disease in a Chronic Disease Management Program 
+      (SupportMe) on Blood Pressure: Pragmatic Randomized Controlled Trial.
+PG  - e38275
+LID - 10.2196/38275 [doi]
+AB  - BACKGROUND: Maintaining engagement and support for patients with chronic diseases 
+      is challenging. SMS text messaging programs have complemented patient care in a 
+      variety of situations. However, such programs have not been widely translated 
+      into routine care. OBJECTIVE: We aimed to examine the implementation and utility 
+      of a customized SMS text message-based support program for patients with type 2 
+      diabetes (T2D), coronary heart disease, or both within a chronic disease 
+      integrated care program. METHODS: We conducted a 6-month pragmatic 
+      parallel-group, single-blind randomized controlled trial that recruited people 
+      with T2D or coronary heart disease. Intervention participants received 4 
+      semipersonalized SMS text messages per week providing self-management support to 
+      supplement standard care. Preprogrammed algorithms customized content based on 
+      participant characteristics, and the messages were sent at random times of the 
+      day and in random order by a fully automated SMS text messaging engine. Control 
+      participants received standard care and only administrative SMS text messages. 
+      The primary outcome was systolic blood pressure. Evaluations were conducted face 
+      to face whenever possible by researchers blinded to randomization. Participants 
+      with T2D were evaluated for glycated hemoglobin level. Participant-reported 
+      experience measures were evaluated using questionnaires and focus groups and 
+      summarized using proportions and thematic analysis. RESULTS: A total of 902 
+      participants were randomized (n=448, 49.7% to the intervention group and n=454, 
+      50.3% to the control group). Primary outcome data were available for 89.5% 
+      (807/902) of the participants. At 6 months, there was no difference in systolic 
+      blood pressure between the intervention and control arms (adjusted mean 
+      difference=0.9 mm Hg, 95% CI -1.1 to 2.1; P=.38). Of 642 participants with T2D, 
+      there was no difference in glycated hemoglobin (adjusted mean difference=0.1%, 
+      95% CI -0.1% to 0.3%; P=.35). Self-reported medication adherence was better in 
+      the intervention group (relative risk=0.82, 95% CI 0.68-1.00; P=.045). 
+      Participants reported that the SMS text messages were useful (298/344, 86.6%) and 
+      easily understood (336/344, 97.7%) and motivated change (217/344, 63.1%). The 
+      lack of bidirectional messaging was identified as a barrier. CONCLUSIONS: The 
+      intervention did not improve blood pressure in this cohort, possibly because of 
+      high clinician commitment to improved routine patient care as part of the chronic 
+      disease management program as well as favorable baseline metrics. There was high 
+      program engagement, acceptability, and perceived value. Feasibility as part of an 
+      integrated care program was demonstrated. SMS text messaging programs may 
+      supplement chronic disease management and support self-care. TRIAL REGISTRATION: 
+      Australian New Zealand Clinical Trials Registry ACTRN12616001689460; 
+      https://anzctr.org.au/Trial/Registration/TrialReview.aspx?id=371769&isReview=true. 
+      INTERNATIONAL REGISTERED REPORT IDENTIFIER (IRRID): 
+      RR2-10.1136/bmjopen-2018-025923.
+CI  - ©Ngai Wah Cheung, Julie Redfern, Aravinda Thiagalingam, Tien-Ming Hng, Simone 
+      Marschner, Rabbia Haider, Sonia Faruquie, Amy Von Huben, Shelley She, Daniel 
+      McIntyre, Jin-Gun Cho, Clara K Chow, The SupportMe Investigators. Originally 
+      published in the Journal of Medical Internet Research (https://www.jmir.org), 
+      16.06.2023.
+FAU - Cheung, Ngai Wah
+AU  - Cheung NW
+AUID- ORCID: 0000-0001-6323-8006
+AD  - Department of Diabetes & Endocrinology, Westmead Hospital, Westmead, Australia.
+AD  - Westmead Applied Research Centre, Faculty of Medicine & Health, University of 
+      Sydney, Westmead, Australia.
+FAU - Redfern, Julie
+AU  - Redfern J
+AUID- ORCID: 0000-0001-8707-5563
+AD  - School of Health Sciences, Faculty of Medicine & Health, University of Sydney, 
+      Sydney, Australia.
+FAU - Thiagalingam, Aravinda
+AU  - Thiagalingam A
+AUID- ORCID: 0000-0002-7763-7806
+AD  - Department of Cardiology, Westmead Hospital, Westmead, Australia.
+FAU - Hng, Tien-Ming
+AU  - Hng TM
+AUID- ORCID: 0000-0001-6813-8813
+AD  - Blacktown Hospital, Blacktown, Australia.
+FAU - Marschner, Simone
+AU  - Marschner S
+AUID- ORCID: 0000-0002-5484-9144
+AD  - Westmead Applied Research Centre, Faculty of Medicine & Health, University of 
+      Sydney, Westmead, Australia.
+FAU - Haider, Rabbia
+AU  - Haider R
+AUID- ORCID: 0000-0002-2912-9989
+AD  - Department of Diabetes & Endocrinology, Westmead Hospital, Westmead, Australia.
+FAU - Faruquie, Sonia
+AU  - Faruquie S
+AUID- ORCID: 0009-0004-3853-7070
+AD  - Department of Diabetes & Endocrinology, Westmead Hospital, Westmead, Australia.
+FAU - Von Huben, Amy
+AU  - Von Huben A
+AUID- ORCID: 0000-0001-6168-9719
+AD  - Westmead Applied Research Centre, Faculty of Medicine & Health, University of 
+      Sydney, Westmead, Australia.
+FAU - She, Shelley
+AU  - She S
+AUID- ORCID: 0000-0002-4411-5673
+AD  - Westmead Applied Research Centre, Faculty of Medicine & Health, University of 
+      Sydney, Westmead, Australia.
+FAU - McIntyre, Daniel
+AU  - McIntyre D
+AUID- ORCID: 0000-0003-4854-4050
+AD  - Westmead Applied Research Centre, Faculty of Medicine & Health, University of 
+      Sydney, Westmead, Australia.
+FAU - Cho, Jin-Gun
+AU  - Cho JG
+AUID- ORCID: 0000-0002-0735-4691
+AD  - Department of Respiratory Medicine, Westmead Hospital, Westmead, Australia.
+FAU - Chow, Clara K
+AU  - Chow CK
+AUID- ORCID: 0000-0003-4693-0038
+AD  - Westmead Applied Research Centre, Faculty of Medicine & Health, University of 
+      Sydney, Westmead, Australia.
+AD  - Department of Cardiology, Westmead Hospital, Westmead, Australia.
+CN  - SupportMe Investigators
+AD  - See Acknowledgments, .
+LA  - eng
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+DEP - 20230616
+PL  - Canada
+TA  - J Med Internet Res
+JT  - Journal of medical Internet research
+JID - 100959882
+RN  - 0 (Glycated Hemoglobin)
+SB  - IM
+MH  - Humans
+MH  - *Text Messaging
+MH  - Blood Pressure
+MH  - *Diabetes Mellitus, Type 2/therapy
+MH  - Glycated Hemoglobin
+MH  - *Self-Management
+MH  - Single-Blind Method
+MH  - Australia
+MH  - *Cell Phone
+MH  - *Coronary Disease
+MH  - Disease Management
+OTO - NOTNLM
+OT  - SMS text messaging
+OT  - chronic disease
+OT  - coronary disease
+OT  - delivery of health care
+OT  - diabetes mellitus
+OT  - integrated
+OT  - self-management
+OT  - type 2
+FIR - Barrie, Nicola
+IR  - Barrie N
+FIR - Burgess, David
+IR  - Burgess D
+FIR - Carr, Bridie
+IR  - Carr B
+FIR - Chen, Lily
+IR  - Chen L
+FIR - Crampton, Michael
+IR  - Crampton M
+FIR - Ferry, Cate
+IR  - Ferry C
+FIR - Hay, Peter
+IR  - Hay P
+FIR - Hayes, Alison
+IR  - Hayes A
+FIR - Shariful Islam, Sheikh Mohammed
+IR  - Shariful Islam SM
+FIR - Raadsma, Simon
+IR  - Raadsma S
+FIR - Rissel, Chris
+IR  - Rissel C
+FIR - Rosic, Gillian
+IR  - Rosic G
+FIR - Cheung, N Wah
+IR  - Cheung NW
+FIR - Cho, Jin-Gun
+IR  - Cho JG
+FIR - K Chow, Clara
+IR  - K Chow C
+FIR - Faruquie, Sonia
+IR  - Faruquie S
+FIR - Haider, Rabbia
+IR  - Haider R
+FIR - Hng, Tien-Ming
+IR  - Hng TM
+FIR - McIntyre, Daniel
+IR  - McIntyre D
+FIR - Redfern, Julie
+IR  - Redfern J
+FIR - She, Shelley
+IR  - She S
+FIR - Thiagalingam, Aravinda
+IR  - Thiagalingam A
+FIR - Huben, Amy Von
+IR  - Huben AV
+EDAT- 2023/06/16 13:10
+MHDA- 2023/06/19 13:08
+CRDT- 2023/06/16 11:52
+PHST- 2022/03/26 00:00 [received]
+PHST- 2023/02/21 00:00 [accepted]
+PHST- 2022/09/07 00:00 [revised]
+PHST- 2023/06/19 13:08 [medline]
+PHST- 2023/06/16 13:10 [pubmed]
+PHST- 2023/06/16 11:52 [entrez]
+AID - v25i1e38275 [pii]
+AID - 10.2196/38275 [doi]
+PST - epublish
+SO  - J Med Internet Res. 2023 Jun 16;25:e38275. doi: 10.2196/38275.
+
+PMID- 37318227
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230619
+LR  - 20230701
+IS  - 1752-8984 (Electronic)
+IS  - 1479-1641 (Print)
+IS  - 1479-1641 (Linking)
+VI  - 20
+IP  - 3
+DP  - 2023 May-Jun
+TI  - Health care registers can be instrumental for endpoint capture in clinical 
+      diabetes trials: example of microvascular complications in Swedish patients with 
+      type 2 diabetes.
+PG  - 14791641231179878
+LID - 10.1177/14791641231179878 [doi]
+LID - 14791641231179878
+AB  - AIMS: SMARTEST is a register-based randomized clinical trial (RRCT) that compares 
+      dapagliflozin to metformin in early-stage type 2 diabetes. The primary outcome 
+      includes progression of microvascular complications based on data from the 
+      Swedish National Diabetes Register (NDR). In this sub-study, the aim was to 
+      validate microvascular complication variables in the NDR against electronic 
+      health records (EHRs). METHODS: Data were extracted from EHRs of 276 SMARTEST 
+      participants with a median observation period of 3 years in the Uppsala, Örebro 
+      and Sörmland counties and compared with NDR data. Agreement was determined for 
+      all corresponding data entries as well as for progression of microvascular 
+      complications after randomization. RESULTS: The agreement for all corresponding 
+      data entries was 98.9% (Intraclass Correlation Coefficient 0.999) for creatinine 
+      and eGFR, 95.1% for albuminuria, 91.6% for foot-at-risk and 98.2% for retinopathy 
+      status (Kappa 0.67-0.91). The agreement for progression of microvascular 
+      complications was 98.0% for CKD stage, 98.9% for albuminuria grade, 96.3% for 
+      foot-at-risk grade and 99.6% for retinopathy grade progression (Gwet's AC(1) 
+      0.96-1.00). CONCLUSION: Microvascular complication variables in the NDR show good 
+      agreement with EHR data. The use of a well-established national health care 
+      registry, exemplified by the NDR, for endpoint collection in RRCTs such as 
+      SMARTEST is supported by this study.
+FAU - Lundqvist, Martin H
+AU  - Lundqvist MH
+AUID- ORCID: 0000-0001-9348-4603
+AD  - Department of Medical Sciences, Uppsala University, Uppsala, Sweden. RINGGOLD: 
+      8097
+FAU - Patsoukaki, Vagia
+AU  - Patsoukaki V
+AD  - Department of Medical Sciences, Uppsala University, Uppsala, Sweden. RINGGOLD: 
+      8097
+FAU - Jansson, Stefan
+AU  - Jansson S
+AD  - Faculty of Medicine and Health, University Health Care Research Center, Örebro 
+      University, Örebro, Sweden. RINGGOLD: 6233
+AD  - Department of Public Health and Caring Sciences, Uppsala University, Uppsala, 
+      Sweden. RINGGOLD: 8097
+FAU - Norman, Henrietta
+AU  - Norman H
+AD  - Center for Clinical Research Sörmland, Uppsala University, Eskilstuna, Sweden. 
+      RINGGOLD: 8097
+FAU - Granstam, Elisabet
+AU  - Granstam E
+AD  - Center for Clinical Research, Uppsala University/Region Västmanland, Västerås, 
+      Sweden. RINGGOLD: 8097
+FAU - Svensson, Maria K
+AU  - Svensson MK
+AD  - Department of Medical Sciences, Uppsala University, Uppsala, Sweden. RINGGOLD: 
+      8097
+FAU - Sundström, Johan
+AU  - Sundström J
+AD  - Department of Medical Sciences, Uppsala University, Uppsala, Sweden. RINGGOLD: 
+      8097
+AD  - The George Institute for Global Health, University of New South Wales, Sydney, 
+      Australia.
+FAU - Eliasson, Björn
+AU  - Eliasson B
+AD  - Department of Medicine, Sahlgrenska University Hospital, Gothenburg, Sweden.
+AD  - National Diabetes Register, Centre of Registries in Region Western Sweden, 
+      Gothenburg, Sweden.
+FAU - Eriksson, Jan W
+AU  - Eriksson JW
+AD  - Department of Medical Sciences, Uppsala University, Uppsala, Sweden. RINGGOLD: 
+      8097
+LA  - eng
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PL  - England
+TA  - Diab Vasc Dis Res
+JT  - Diabetes & vascular disease research
+JID - 101234011
+SB  - IM
+MH  - Humans
+MH  - *Diabetes Mellitus, Type 2/complications/diagnosis/drug therapy
+MH  - Sweden/epidemiology
+MH  - Albuminuria
+MH  - Delivery of Health Care
+MH  - *Retinal Diseases/complications
+PMC - PMC10286550
+OTO - NOTNLM
+OT  - Type 2 diabetes
+OT  - diabetes register
+OT  - endpoint
+OT  - microvascular complications
+OT  - register-based randomized clinical trial
+OT  - validation
+COIS- The author(s) declared the following potential conflicts of interest with respect 
+      to the research, authorship, and/or publication of this article: All authors have 
+      been involved in the conceptualization and/or conduct of the SMARTEST trial. BE 
+      and SJ are affiliated with the Swedish National Diabetes Register. JS reports 
+      ownership in companies providing services to Itrim, Amgen, Janssen, Novo Nordisk, 
+      Eli Lilly, Boehringer Ingelheim, Bayer, Pfizer and AstraZeneca, outside the 
+      submitted work. BE reports personal fees (expert panels, lectures) from Amgen, 
+      AstraZeneca, Boehringer Ingelheim, Eli Lilly, Merck Sharp and Dohme, Mundipharma, 
+      Navamedic, Novo Nordisk, RLS Global, and grants and personal fees from Sanofi, 
+      all outside the submitted work. MES has received honoraria (expert panels, 
+      lectures) from Amgen, AstraZeneca, Boehringer Ingelheim and GSK, all outside the 
+      submitted work. EG has received honoraria (advisory boards, lectures) from Bayer, 
+      Novartis, Abbvie/Allergan and Novo Nordisk, all outside the submitted work. JWE 
+      has received honoraria and research support from AstraZeneca and honoraria from 
+      Novo Nordisk, Merck Sharp and Dohme and Ilya Pharma. HN owns shares in 
+      AstraZeneca, outside the submitted work.
+EDAT- 2023/06/15 13:07
+MHDA- 2023/06/19 13:08
+CRDT- 2023/06/15 09:04
+PHST- 2023/06/19 13:08 [medline]
+PHST- 2023/06/15 13:07 [pubmed]
+PHST- 2023/06/15 09:04 [entrez]
+AID - 10.1177_14791641231179878 [pii]
+AID - 10.1177/14791641231179878 [doi]
+PST - ppublish
+SO  - Diab Vasc Dis Res. 2023 May-Jun;20(3):14791641231179878. doi: 
+      10.1177/14791641231179878.
+
+PMID- 37315248
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230616
+LR  - 20230616
+IS  - 1997-7298 (Print)
+IS  - 1997-7298 (Linking)
+VI  - 123
+IP  - 5
+DP  - 2023
+TI  - [Efficacy and safety of Cytoflavin in the treatment of diabetic polyneuropathy: 
+      results of a multicenter, double-blind, placebo-controlled, randomized CYLINDER 
+      study].
+PG  - 100-107
+LID - 10.17116/jnevro2023123051100 [doi]
+AB  - OBJECTIVE: The purpose of the present double-blind, placebo-controlled, 
+      randomized clinical trial was to evaluate the efficacy and safety of Cytoflavin 
+      in patients with diabetic polyneuropathy (DPN). MATERIAL AND METHODS: 
+      Investigational therapy was administered in two steps: intravenous infusions of 
+      experimental drug/placebo for 10 days followed by oral administration for 75 
+      days. In 10 clinical centers, 216 patients aged 45-74 years with a diagnosis of 
+      type 2 diabetes mellitus, symptomatic distal sensorimotor DPN, confirmed no 
+      earlier than 1 year before screening, on stable therapy (no change of drugs and 
+      doses) by oral hypoglycemic drugs, intermediate-acting, long-acting or 
+      extra-long-acting insulin, and/or GLP-1 receptor agonists. RESULTS: By the end of 
+      treatment, the change of the Total Symptom Score (TSS) in the experimental group 
+      was -2.65 points, in the placebo group -1.73 points (p<0.001). Improvement of 
+      symptoms in the experimental group was achieved regardless of the degree of 
+      compensation for type 2 diabetes (both in those with Hb1Ac <8.0% and in those 
+      with Hb1Ac ≥8.0%), but demonstrated better results in patients with less severe 
+      baseline symptoms (TSS <7.5). Improvement in the components of the TSS scale 
+      «paresthesia» and «numbness» occurred as early as on day 11 of therapy; by the 
+      end of treatment, a significant decrease in the «burning» component was also 
+      demonstrated. The experimental drug had a positive safety profile. CONCLUSION: 
+      Cytoflavin, intravenous solution and enteric-coated tablets (SPTF Polysan Ltd.) 
+      is indicated for the symptomatic treatment of DPN.
+FAU - Strokov, I A
+AU  - Strokov IA
+AUID- ORCID: 0000-0001-6950-7166
+AD  - Sechenov First Moscow State Medical University (Sechenov University), Moscow, 
+      Russia.
+FAU - Trakhtenberg, Yu A
+AU  - Trakhtenberg YA
+AUID- ORCID: 0009-0005-7252-7930
+AD  - IPHARMA LLC Russia, Moscow, Russia.
+FAU - Kovalenko, A L
+AU  - Kovalenko AL
+AUID- ORCID: 0000-0003-3695-2671
+AD  - Golikov Scientific and Consulting Center of Toxicology, St. Petersburg, Russia.
+LA  - rus
+PT  - English Abstract
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+TT  - Effektivnost' i bezopasnost' primeneniya Tsitoflavina v terapii diabeticheskoi 
+      polineiropatii: rezul'taty mnogotsentrovogo dvoinogo slepogo 
+      platsebo-kontroliruemogo randomizirovannogo issledovaniya TsILINDR.
+PL  - Russia (Federation)
+TA  - Zh Nevrol Psikhiatr Im S S Korsakova
+JT  - Zhurnal nevrologii i psikhiatrii imeni S.S. Korsakova
+JID - 9712194
+RN  - 0 (cytoflavin)
+RN  - 86-04-4 (Inosine Diphosphate)
+RN  - 25X51I8RD4 (Niacinamide)
+SB  - IM
+MH  - Humans
+MH  - *Diabetes Mellitus, Type 2/complications/drug therapy
+MH  - *Diabetic Neuropathies/drug therapy
+MH  - *Inosine Diphosphate/adverse effects
+MH  - Niacinamide/adverse effects
+OTO - NOTNLM
+OT  - antioxidant therapy
+OT  - diabetes complications
+OT  - diabetic polyneuropathy
+OT  - neuropathic symptoms
+OT  - type 2 diabetes mellitus
+EDAT- 2023/06/14 19:11
+MHDA- 2023/06/16 06:42
+CRDT- 2023/06/14 15:59
+PHST- 2023/06/16 06:42 [medline]
+PHST- 2023/06/14 19:11 [pubmed]
+PHST- 2023/06/14 15:59 [entrez]
+AID - 10.17116/jnevro2023123051100 [doi]
+PST - ppublish
+SO  - Zh Nevrol Psikhiatr Im S S Korsakova. 2023;123(5):100-107. doi: 
+      10.17116/jnevro2023123051100.
+
+PMID- 37315229
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230616
+LR  - 20230616
+IS  - 1470-3556 (Print)
+IS  - 1470-3556 (Linking)
+VI  - 37
+IP  - 2
+DP  - 2023 Spring
+TI  - Yoga Practice Facilitates Prefrontal Oxygenation and Working Memory in Type 2 
+      Diabetes Mellitus Patients: A Pilot Study.
+PG  - 24-31
+AB  - BACKGROUND: Type 2 diabetes mellitus (T2DM) is associated with cognitive decline. 
+      Lifestyle behaviors such as yoga practices play a significant role in preventing 
+      cognitive decline. PURPOSE: The goal of this study was to assess the effect of 
+      yoga intervention on working memory and prefrontal cortex (PFC) oxygenation in 
+      T2DM patients. METHODS: Twenty T2DM participants, aged between 40 and 60 years, 
+      volunteered for a 6-week study. Participants were randomized into a yoga practice 
+      (n = 10) and a waitlist control group (n = 10). The n-back task was administered 
+      to evaluate working memory before and after the intervention. While performing 
+      the working memory task, PFC oxygenation was monitored using functional 
+      near-infrared spectroscopy. RESULTS: The yoga group showed a significant 
+      improvement in working memory performance. The accuracy improved in 1-back (mean 
+      difference of 4.73%, 95% CI[0.69,8.77], P = .026) and 2-back (8.0%, 95% 
+      CI[1.89,14.1], P = .016) task conditions. The reaction time improved in 0-back 
+      (mean difference of -79.07 milliseconds, 95% CI[-128.3,-29.8]), 1-back (mean 
+      difference of -119.17 milliseconds, 95% CI[-217.5,-20.8] ) and 2-back (-76.06 
+      milliseconds, 95% CI[-148.8,-3.3]) task conditions. In the yoga group, at 
+      post-intervention, higher oxygenation was observed during 0-back and 1-back task 
+      conditions (Beta coefficient mean difference of 211.3, 95% CI[2.8, 420.0], P = 
+      .048 and 80.5, 95% CI [3.7,157.2], P = .042 respectively) in the left PFC region 
+      compared to the pre-intervention values. The control group showed no significant 
+      change in working memory performance and PFC oxygenation. CONCLUSIONS: The study 
+      suggests that yoga practice may improve working memory performance and facilitate 
+      higher PFC oxygenation in T2DM patients. Further studies with a larger sample and 
+      a longer intervention period are required to strengthen the findings.
+FAU - Chidananda, Kaligal
+AU  - Chidananda K
+FAU - Singh, Deepeshwar
+AU  - Singh D
+FAU - Amit, Kanthi
+AU  - Amit K
+FAU - Mahadevappa, Vidyashree
+AU  - Mahadevappa V
+FAU - Krishna, Dwivedi
+AU  - Krishna D
+LA  - eng
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PL  - United States
+TA  - Adv Mind Body Med
+JT  - Advances in mind-body medicine
+JID - 9813115
+SB  - IM
+MH  - Humans
+MH  - Infant
+MH  - *Yoga
+MH  - Pilot Projects
+MH  - *Diabetes Mellitus, Type 2/therapy
+MH  - Memory, Short-Term
+MH  - Cognition
+EDAT- 2023/06/14 19:10
+MHDA- 2023/06/16 06:42
+CRDT- 2023/06/14 15:43
+PHST- 2023/06/16 06:42 [medline]
+PHST- 2023/06/14 19:10 [pubmed]
+PHST- 2023/06/14 15:43 [entrez]
+PST - ppublish
+SO  - Adv Mind Body Med. 2023 Spring;37(2):24-31.
+
+PMID- 37311602
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230615
+LR  - 20230620
+IS  - 2052-4897 (Electronic)
+IS  - 2052-4897 (Linking)
+VI  - 11
+IP  - 3
+DP  - 2023 Jun
+TI  - Cardiorenal protective effects of canagliflozin in CREDENCE according to glucose 
+      lowering.
+LID - 10.1136/bmjdrc-2022-003270 [doi]
+LID - e003270
+AB  - INTRODUCTION: Relationships between glycemic-lowering effects of sodium glucose 
+      co-transporter 2 inhibitors and impact on kidney and cardiovascular outcomes are 
+      uncertain. RESEARCH DESIGN AND METHODS: We analyzed 4395 individuals with 
+      prebaseline and postbaseline hemoglobin A1c (HbA1c) randomized to canagliflozin 
+      (n=2193) or placebo (n=2202) in The Canagliflozin and Renal Events in Diabetes 
+      with Established Nephropathy Clinical Evaluation trial. Effects on HbA1c were 
+      assessed using mixed models. Mediation of treatment effects by achieved glycemic 
+      control was analyzed using proportional hazards regression with and without 
+      adjustment for achieved HbA1c. End points included combined kidney or 
+      cardiovascular death, end-stage kidney disease or doubling of serum creatinine 
+      (primary trial outcome), and individual end point components. RESULTS: HbA1c 
+      lowering was modified by baseline estimated glomerular filtration rate (eGFR). 
+      For baseline eGFR 60-90, 45-59, and 30-44 mL/min/1.73 m(2), overall HbA1c 
+      (canagliflozin vs placebo) decreased by -0.24%, -0.14%, and -0.08% respectively 
+      and likelihood of >0.5% decrease in HbA1c decreased with ORs of 1.47 (95% CI 1.27 
+      to 1.67), 1.12 (0.94 to 1.33) and 0.99 (0.83 to 1.18), respectively. Adjustment 
+      for postbaseline HbA1c marginally attenuated canagliflozin effects on primary and 
+      kidney composite outcomes: unadjusted HR 0.67 (95% CI 0.57 to 0.80) and 0.66 (95% 
+      CI 0.53 to 0.81); adjusted for week 13 HbA1c, HR 0.71 (95% CI 0.060 to 0.84) and 
+      0.68 (95% CI 0.55 to 0.83). Results adjusted for time-varying HbA1c or HbA1c as a 
+      cubic spline were similar and consistent with preserved clinical benefits across 
+      a range of excellent and poor glycemic control. CONCLUSIONS: The glycemic effects 
+      of canagliflozin are attenuated at lower eGFR but effects on kidney and cardiac 
+      end points are preserved. Non-glycemic effects may be primarily responsible for 
+      the kidney and cardioprotective benefits of canagliflozin.22.
+CI  - © Author(s) (or their employer(s)) 2023. Re-use permitted under CC BY-NC. No 
+      commercial re-use. See rights and permissions. Published by BMJ.
+FAU - Charytan, David M
+AU  - Charytan DM
+AD  - United States, NYU, New York, New York, USA.
+FAU - Mahaffey, Kenneth W
+AU  - Mahaffey KW
+AD  - Department of Medicine, Stanford University School of Medicine, Stanford, 
+      California, USA.
+FAU - Jardine, Meg J
+AU  - Jardine MJ
+AD  - The University of Sydney, Sydney, New South Wales, Australia.
+FAU - Cannon, Christopher P
+AU  - Cannon CP
+AD  - Baim Institute for Clinical Research, Boston, Massachusetts, USA.
+FAU - Neal, Bruce
+AU  - Neal B
+AD  - The University of Sydney, Sydney, New South Wales, Australia.
+FAU - Lambers Heerspink, Hiddo J
+AU  - Lambers Heerspink HJ
+AD  - Children's Hospital of Philadelphia, Philadelphia, Pennsylvania, USA.
+FAU - Agarwal, Rajiv
+AU  - Agarwal R
+AD  - VA Medical Center, Bedford, Massachusetts, USA.
+FAU - Bakris, George L
+AU  - Bakris GL
+AD  - UChicago Medicine, Chicago, Illinois, USA.
+FAU - de Zeeuw, Dick
+AU  - de Zeeuw D
+AD  - Clinical Pharmacology, University Medical Center Groningen, Groningen, The 
+      Netherlands.
+FAU - Levin, Adeera
+AU  - Levin A
+AD  - Nephrology, St. Paul's Hospital, Newtown, New South Wales, Australia.
+FAU - Pollock, Carol
+AU  - Pollock C
+AD  - Medicine, The University of Sydney, Sydney, New South Wales, Australia.
+FAU - Zhang, Hong
+AU  - Zhang H
+AD  - Renal Division of Peking University First Hospital, Beijing, China.
+FAU - Zinman, Bernard
+AU  - Zinman B
+AD  - University of Toronto, Toronto, Ontario, Canada.
+FAU - Rosenthal, Norman
+AU  - Rosenthal N
+AD  - Janssen Research & Development LLC, Raritan, New Jersey, USA.
+FAU - Perkovic, Vlado
+AU  - Perkovic V
+AD  - George Institute for Global Health, Sydney, New South Wales, Australia.
+AD  - Royal North Shore Hospital, St Leonards, New South Wales, Australia.
+FAU - Di Tanna, Gian Luca
+AU  - Di Tanna GL
+AD  - George Institute for Global Health, Sydney, New South Wales, Australia.
+FAU - Yu, Jie
+AU  - Yu J
+AD  - George Institute for Global Health, Sydney, New South Wales, Australia.
+FAU - Rogers, Kris
+AU  - Rogers K
+AD  - George Institute for Global Health, Sydney, New South Wales, Australia.
+FAU - Arnott, Clare
+AU  - Arnott C
+AD  - The George Institute for Global Health, Newtown, New South Wales, Australia.
+FAU - Wheeler, David C
+AU  - Wheeler DC
+AUID- ORCID: 0000-0003-0745-3478
+AD  - Department of Renal Medicine, UCL, London, UK d.wheeler@ucl.ac.uk.
+LA  - eng
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - BMJ Open Diabetes Res Care
+JT  - BMJ open diabetes research & care
+JID - 101641391
+RN  - 0SAC974Z85 (Canagliflozin)
+RN  - IY9XDZ35W2 (Glucose)
+RN  - 0 (Glycated Hemoglobin)
+RN  - 0 (Sodium-Glucose Transporter 2 Inhibitors)
+SB  - IM
+MH  - Humans
+MH  - Canagliflozin/pharmacology
+MH  - Glucose
+MH  - Glycated Hemoglobin
+MH  - Kidney
+MH  - *Kidney Failure, Chronic
+MH  - *Sodium-Glucose Transporter 2 Inhibitors/pharmacology
+PMC - PMC10277062
+OTO - NOTNLM
+OT  - diabetes mellitus, type 2
+OT  - kidney failure, chronic
+COIS- Competing interests: DMC has personal fees or fees paid by Janssen 
+      Pharmaceuticals to the Baim Institute for work on the CREDENCE trial steering 
+      committee. He has received consulting fees from Amgen, CSL Behring, Eli Lilly, 
+      Fresenius, Gilead, Medtronic/Covidien, Merck, Novo Nordisk, Zoll, AstraZeneca, 
+      GlaxoSmithKline, PLC Medical, and Allena Pharmaceuticals, and has received 
+      research support from Medtronic and Amgen. KWM’s financial disclosures can be 
+      viewed at http://med.stanford.edu/profiles/kenneth-mahaffey. MJJ is supported by 
+      a Medical Research Future Fund Next Generation Clinical Researchers Program 
+      Career Development Fellowship; is responsible for research projects that have 
+      received unrestricted funding from Amgen, Baxter, CSL, Eli Lilly, Gambro, and 
+      MSD; has served on advisory boards sponsored by Akebia, AstraZeneca, Baxter, 
+      Bayer, Boehringer Ingelheim (BI), MSD, and Vifor; serves on steering committee 
+      for trials sponsored by CSL and Janssen; serves on a steering committee for an 
+      investigator-initiated trial with funding support from Dimerix, spoken at 
+      scientific meetings sponsored by Janssen, Amgen, Roche, and Vifor; with any 
+      consultancy, honoraria, or travel support paid to her institution. CPC reports in 
+      calendar years 2020–2022: Research Grants from: Amgen, Better Therapeutics, BI, 
+      Bristol-Myers Squibb (BMS), Daiichi Sankyo, Janssen, Merck, Novo Nordisk, Pfizer. 
+      Consulting fees from Aegerion/Amryt, Alnylam, Amarin, Amgen, Applied 
+      Therapeutics, Ascendia, BI, BMS, Eli Lilly, Janssen, Lexicon, Merck, Pfizer, 
+      Rhoshan, Sanofi. He serves on the Data and Safety Monitoring Boards for the 
+      Veteran’s Administration, Applied Therapeutics, and Novo Nordisk. BN has received 
+      research grants and consulting fees from Janssen, all paid to his institution. 
+      HJLH has received honoraria for participation in steering committees or advisory 
+      boards from AstraZeneca, BI, Bayer, CSL Behring, Chinook, Gilead, Goldfinch, 
+      Janssen, Merck, Mitsubishi Tanabe, Mundipharma; Novartis, Novo Nordisk, and 
+      Travere Pharmaceuticals. His institution received research grants from 
+      AstraZeneca, AbbVie, Janssen, BI, and Novo Nordisk. RA was a member of the 
+      CREDENCE study steering committee and chair of its adjudication committee; is a 
+      member of the steering committees of FIDELIO/FIGARO (Bayer); INNOVATE/PROTECT 
+      (Akebia); AMBER (Relypsa/Vifor), and chairs a data safety monitoring board 
+      (Chinook). He also serves as a consultant for AstraZeneca, Bayer, BI, DiaMedica, 
+      Janssen, Merck, Reata, Relypsa, and Sanofi. GLB works for The University of 
+      Chicago Medicine. He is a consultant for Merck, Bayer, Vascular Dynamics, KBP 
+      Biosciences, Ionis, Alnylam, and AstraZeneca. He has research support and is on 
+      the steering committee of trials for Bayer and Vascular Dynamics. He is the 
+      editor of the American Journal of Nephrology. DdZ: advisory boards and/or speaker 
+      fees for Bayer, BI, Fresenius, Mitsubishi-Tanabe, Travere Pharmaceuticals; 
+      steering committees and/or speaker for AbbVie and Janssen; data safety and 
+      monitoring committees for Bayer. Honoraria paid to institution and 
+      consultant/speaker. AL serves as a scientific advisor to BI, AstraZeneca, and the 
+      National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK); is on 
+      the data safety and monitoring board for NIDDK, Kidney Precision Medicine, 
+      University of Washington Kidney Research Institute Scientific Advisory Committee; 
+      and is funded by the Canadian Institute of Health Research and Kidney Foundation 
+      of Canada. She has received fees for time as CREDENCE National Coordinator from 
+      Janssen, directed to her academic team. CP has received honoraria for serving on 
+      advisory boards and as a speaker for Merck Sharp & Dohme, AstraZeneca, and BI/Eli 
+      Lilly. HZ has received fees for CREDENCE steering committee roles and travel 
+      support from Janssen. BZ has received honoraria for serving on advisory boards 
+      for BI, Novo Nordisk, Sanofi, and Eli Lilly. NR had has nothing to disclose. KR 
+      is the recipient of research funding from the NHMRC and MRFF and has received 
+      honoraria from Elsevier and PLOS for commissioned reviews. JY has nothing to 
+      disclose. CA is supported by a NSW Health EMCR Grant and a NHMRC/MRFF Priority 
+      Investigator Grant. She is an employee of the George Institute. She has received 
+      honoraria from AstraZeneca and Amgen. DCW has an ongoing consultancy contract 
+      with AstraZeneca and over the last 2 years has received payments for consultancy, 
+      speaking, or educational activities from Amgen, Astellas, Bayer, BI, 
+      GlaxoSmithKline, Gilead, Janssen, Merck Sharp & Dohme, Tricida, Vifor, and Zydus.
+EDAT- 2023/06/14 01:10
+MHDA- 2023/06/15 06:42
+CRDT- 2023/06/13 20:53
+PHST- 2022/12/15 00:00 [received]
+PHST- 2023/04/21 00:00 [accepted]
+PHST- 2023/06/15 06:42 [medline]
+PHST- 2023/06/14 01:10 [pubmed]
+PHST- 2023/06/13 20:53 [entrez]
+AID - 11/3/e003270 [pii]
+AID - bmjdrc-2022-003270 [pii]
+AID - 10.1136/bmjdrc-2022-003270 [doi]
+PST - ppublish
+SO  - BMJ Open Diabetes Res Care. 2023 Jun;11(3):e003270. doi: 
+      10.1136/bmjdrc-2022-003270.
+
+PMID- 37310747
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230615
+LR  - 20230615
+IS  - 0272-9490 (Print)
+IS  - 0272-9490 (Linking)
+VI  - 77
+IP  - 3
+DP  - 2023 May 1
+TI  - Effect of Occupational Therapy in Promoting Medication Adherence in Primary Care: 
+      A Randomized Controlled Trial.
+LID - 7703205040 [pii]
+LID - 10.5014/ajot.2023.050109 [doi]
+AB  - IMPORTANCE: The Integrative Medication Self-Management Intervention (IMedS) is a 
+      manualized occupational therapy intervention designed to improve adherence to 
+      medications. The intervention influences medication adherence and facilitates new 
+      medication habits and routines; however, it has not been tested in a community 
+      clinical setting. OBJECTIVE: To test the efficacy of the IMedS to address 
+      medication adherence rates among community-dwelling adults with hypertension 
+      (HTN), Type 2 diabetes mellitus (T2DM), or both. DESIGN: Randomized controlled 
+      trial using a pretest-posttest control group design. SETTING: Primary care clinic 
+      in a large federally qualified health center. PARTICIPANTS: Adults with 
+      uncontrolled HTN, T2DM, or both. INTERVENTION: Participants were divided into two 
+      groups: The control group received treatment as usual (TAU) per the primary care 
+      protocol, and the intervention IMedS group received TAU and the IMedS 
+      intervention. OUTCOMES AND MEASURES: Primary outcome: seven-item version of the 
+      Adherence to Refills and Medication Scale (ARMS-7), pill count, blood pressure, 
+      hemoglobin A1c, or all of these. RESULTS: The proportion of adherent participants 
+      increased in both groups, but between groups, changes were not statistically 
+      significant. Post hoc comparisons of the results of a mixed analysis of variance 
+      for ARMS-7 measurements indicated that the occupational therapy intervention had 
+      a unique effect, compared with that for the TAU control group (dc = 0.65). Effect 
+      scores for pill count (d = 0.55) also suggested that the occupational therapy 
+      intervention positively affected adherence. CONCLUSIONS AND RELEVANCE: 
+      Occupational therapists can provide assessment and intervention to positively 
+      influence medication adherence in a primary care setting. What This Article Adds: 
+      This article provides a better understanding of the occupational therapist's role 
+      in addressing medication management and adherence on the interdisciplinary 
+      primary care medical team.
+CI  - Copyright © 2023 by the American Occupational Therapy Association, Inc.
+FAU - Garrison, Traci A
+AU  - Garrison TA
+AD  - Traci A. Garrison, DHSc, OTR/L, is Clinical Associate Professor, Department of 
+      Occupational Therapy, Missouri State University, Springfield; 
+      TraciGarrison@missouristate.edu.
+FAU - Schwartz, Jaclyn K
+AU  - Schwartz JK
+AD  - Jaclyn K. Schwartz, PhD, OTR/L, is Assistant Professor, Program in Occupational 
+      Therapy, Washington University in St. Louis, St. Louis, MO.
+FAU - Moore, Elizabeth S
+AU  - Moore ES
+AD  - Elizabeth S. Moore, PhD, is Associate Professor, Department of Interprofessional 
+      Health and Aging Studies, University of Indianapolis, Indianapolis, IN.
+LA  - eng
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PL  - United States
+TA  - Am J Occup Ther
+JT  - The American journal of occupational therapy : official publication of the 
+      American Occupational Therapy Association
+JID - 7705978
+SB  - IM
+MH  - Adult
+MH  - Humans
+MH  - *Occupational Therapy
+MH  - *Diabetes Mellitus, Type 2/drug therapy
+MH  - Occupational Therapists
+MH  - Medication Adherence
+MH  - Primary Health Care
+EDAT- 2023/06/13 13:12
+MHDA- 2023/06/15 06:42
+CRDT- 2023/06/13 11:43
+PHST- 2023/06/15 06:42 [medline]
+PHST- 2023/06/13 13:12 [pubmed]
+PHST- 2023/06/13 11:43 [entrez]
+AID - 24129 [pii]
+AID - 10.5014/ajot.2023.050109 [doi]
+PST - ppublish
+SO  - Am J Occup Ther. 2023 May 1;77(3):7703205040. doi: 10.5014/ajot.2023.050109.
+
+PMID- 37305429
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230613
+LR  - 20230613
+IS  - 2314-6753 (Electronic)
+IS  - 2314-6745 (Print)
+VI  - 2023
+DP  - 2023
+TI  - Effect and Safety of Pioglitazone-Metformin Tablets in the Treatment of Newly 
+      Diagnosed Type 2 Diabetes Patients with Nonalcoholic Fatty Liver Disease in 
+      Shaanxi Province: A Randomized, Double-Blinded, Double-Simulated Multicenter 
+      Study.
+PG  - 2044090
+LID - 10.1155/2023/2044090 [doi]
+LID - 2044090
+AB  - OBJECTIVE: The aim of study was to evaluate the effect and safety of 
+      pioglitazone-metformin combined treatment in the newly diagnosed type 2 diabetes 
+      patients with nonalcoholic fatty liver disease. METHODS: A total of 120 newly 
+      diagnosed type 2 diabetes patients with nonalcoholic fatty liver disease from 8 
+      centers were randomly divided into the control group (metformin hydrochloride) 
+      and the test group (pioglitazone hydrochloride and metformin hydrochloride). 
+      RESULTS: Compared to the control group, after treatment, the proportion of people 
+      with mild and moderate fatty liver increased, and the proportion of people with 
+      severe fatty liver decreased, and this change was more obvious in the population 
+      with moderate and severe fatty liver. The level of γ-GT decreased in both groups 
+      before and after treatment, which was statistically significant, and there was 
+      also a statistically significant difference in the level of γ-GT between the two 
+      groups after 24 weeks. There were no significant statistically differences in 
+      blood lipid, body weight, and waist circumference between the test group and the 
+      control group. Logistic regression analysis found that BMI is one of the risk 
+      factors for fatty liver. There was also no significant difference in the 
+      incidence of serious adverse events between the two groups (control group: 10.00% 
+      and test group: 6.67%, P = 0.74). CONCLUSION: Combined treatment with 
+      pioglitazone-metformin can effectively reduce liver fat content and gamma-GT 
+      level in newly diagnosed diabetic patients with nonalcoholic fatty liver disease, 
+      and adverse events do not increase compared with the control group, showing good 
+      safety and tolerance. This trial is registered with ClinicalTrials.gov 
+      NCT03796975.
+CI  - Copyright © 2023 Fu Jianfang et al.
+FAU - Jianfang, Fu
+AU  - Jianfang F
+AD  - Air Force Medical University Xijing Hospital, Xi'an, Shaanxi, China.
+FAU - Wanxia, Xiao
+AU  - Wanxia X
+AD  - Genertec Universal Xian Aero-Engine Hospital, Xi'an, Shaanxi, China.
+FAU - Xiling, Gao
+AU  - Xiling G
+AD  - Yan'an People's Hospital, Yan'an, Shaanxi, China.
+FAU - Jing, Xu
+AU  - Jing X
+AD  - Xi'an Jiaotong University Second Affiliated Hospital, Xi'an, Shaanxi, China.
+FAU - Wenjuan, Yang
+AU  - Wenjuan Y
+AD  - Shaanxi Aerospace Hospital, Xi'an Da'xin Hospital, Xi'an, Shaanxi, China.
+FAU - Jianrong, Liu
+AU  - Jianrong L
+AD  - Chang'an Hospital, Xi'an, Shaanxi, China.
+FAU - Qingzhen, He
+AU  - Qingzhen H
+AD  - Gaoxin Hospital, Xi'an, Shaanxi, China.
+FAU - Kaiyan, Ma
+AU  - Kaiyan M
+AD  - Shangluo Central Hospital, Shangluo, Shaanxi, China.
+FAU - Jingxuan, Lian
+AU  - Jingxuan L
+AD  - Air Force Medical University Xijing Hospital, Xi'an, Shaanxi, China.
+FAU - Taixiong, Chen
+AU  - Taixiong C
+AD  - Air Force Medical University Xijing Hospital, Xi'an, Shaanxi, China.
+FAU - Qian, Xu
+AU  - Qian X
+AUID- ORCID: 0000-0003-4587-6279
+AD  - Air Force Medical University Xijing Hospital, Xi'an, Shaanxi, China.
+FAU - Mengying, Li
+AU  - Mengying L
+AD  - Air Force Medical University Xijing Hospital, Xi'an, Shaanxi, China.
+FAU - Jie, Ming
+AU  - Jie M
+AD  - Air Force Medical University Xijing Hospital, Xi'an, Shaanxi, China.
+FAU - Qiuhe, Ji
+AU  - Qiuhe J
+AUID- ORCID: 0000-0002-3010-5837
+AD  - Air Force Medical University Xijing Hospital, Xi'an, Shaanxi, China.
+LA  - eng
+SI  - ClinicalTrials.gov/NCT03796975
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+DEP - 20230601
+PL  - England
+TA  - J Diabetes Res
+JT  - Journal of diabetes research
+JID - 101605237
+RN  - X4OV71U42S (Pioglitazone)
+RN  - 9100L32L2N (Metformin)
+RN  - 0 (Tablets)
+SB  - IM
+MH  - Humans
+MH  - *Non-alcoholic Fatty Liver Disease/complications/drug therapy
+MH  - Pioglitazone/therapeutic use
+MH  - *Metformin/adverse effects
+MH  - *Diabetes Mellitus, Type 2/complications/drug therapy
+MH  - Tablets
+PMC - PMC10250100
+COIS- All authors participating in this study reported no conflicts of interest.
+EDAT- 2023/06/12 06:42
+MHDA- 2023/06/13 06:42
+CRDT- 2023/06/12 04:23
+PHST- 2023/02/16 00:00 [received]
+PHST- 2023/05/03 00:00 [revised]
+PHST- 2023/05/08 00:00 [accepted]
+PHST- 2023/06/13 06:42 [medline]
+PHST- 2023/06/12 06:42 [pubmed]
+PHST- 2023/06/12 04:23 [entrez]
+AID - 10.1155/2023/2044090 [doi]
+PST - epublish
+SO  - J Diabetes Res. 2023 Jun 1;2023:2044090. doi: 10.1155/2023/2044090. eCollection 
+      2023.
+
+PMID- 37305056
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230613
+LR  - 20230614
+IS  - 1664-2392 (Print)
+IS  - 1664-2392 (Electronic)
+IS  - 1664-2392 (Linking)
+VI  - 14
+DP  - 2023
+TI  - Jinlida granules combined with metformin improved the standard-reaching rate of 
+      blood glucose and clinical symptoms of patients with type 2 diabetes: secondary 
+      analysis of a randomized controlled trial.
+PG  - 1142327
+LID - 10.3389/fendo.2023.1142327 [doi]
+LID - 1142327
+AB  - BACKGROUND: Previous studies found that Jinlida granules could significantly 
+      reduce blood glucose levels and enhance the low-glucose action of metformin. 
+      However, the role of Jinlida in the standard-reaching rate of blood glucose and 
+      improving clinical symptoms has yet to be studied. We aimed to elaborate on the 
+      efficacy of Jinlida in type 2 diabetes (T2D) patients who experience clinical 
+      symptoms based on secondary analysis of a randomized controlled trial. METHODS: 
+      Data were analyzed from a 12-week, randomized, placebo-controlled study of 
+      Jinlida. The standard-reaching rate of blood glucose, the symptom disappearance 
+      rate, the symptom improvement rate, the efficacy of single symptoms, and the 
+      total symptom score were evaluated. The correlation between HbA1c and the 
+      improvement of clinical symptoms was analyzed. RESULTS: For 12 weeks straight, 
+      192 T2D patients were randomly assigned to receive either Jinlida or a placebo. 
+      The treatment group showed statistically significant differences in the 
+      standard-reaching rate of HbA1c < 6.5% (p = 0.046) and 2hPG (< 10 mmol/L, 11.1 
+      mmol/L) (p < 0.001), compared with the control group. The standard-reaching rate 
+      of HbA1c < 7% (p = 0.06) and FBG < 7.0 mmol/L (p = 0.079) were not significantly 
+      different between the treatment and control groups. Five symptoms exhibited a 
+      statistical difference in symptom disappearance rate (p < 0.05). All the symptoms 
+      exhibited a significant difference in symptom improvement rate (p < 0.05). The 
+      mean change in total symptom score from baseline to week 12 was -5.45 ± 3.98 in 
+      the treatment group and -2.38 ± 3.11 in the control group, with statistically 
+      significant differences (p < 0.001). No significant correlations were noted 
+      between symptom improvement and HbA1c after 12 weeks of continuous intervention 
+      with Jinlida granules or placebo. CONCLUSION: Jinlida granules can effectively 
+      improve the standard-reaching rate of blood glucose and clinical symptoms of T2D 
+      patients, including thirst, fatigue, increased eating with rapid hungering, 
+      polyuria, dry mouth, spontaneous sweating, night sweat, vexing heat in the chest, 
+      palms, and soles, and constipation. Jinlida granules can be used as an effective 
+      adjuvant treatment for T2D patients who experience those symptoms.
+CI  - Copyright © 2023 Kang, Sun, Duan, Zhang, An, Jin, Lian and Tong.
+FAU - Kang, Xiaomin
+AU  - Kang X
+AD  - Guang'anmen Hospital, China Academy of Chinese Medical Sciences, Beijing, China.
+AD  - Graduate School, Beijing University of Chinese Medicine, Beijing, China.
+FAU - Sun, Yuting
+AU  - Sun Y
+AD  - Guang'anmen Hospital, China Academy of Chinese Medical Sciences, Beijing, China.
+FAU - Duan, Yingying
+AU  - Duan Y
+AD  - Guang'anmen Hospital, China Academy of Chinese Medical Sciences, Beijing, China.
+AD  - Graduate School, Beijing University of Chinese Medicine, Beijing, China.
+FAU - Zhang, Yuqing
+AU  - Zhang Y
+AD  - Guang'anmen Hospital, China Academy of Chinese Medical Sciences, Beijing, China.
+FAU - An, Xudong
+AU  - An X
+AD  - Guang'anmen Hospital, China Academy of Chinese Medical Sciences, Beijing, China.
+FAU - Jin, De
+AU  - Jin D
+AD  - Department of Nephrology, Hangzhou Hospital of Traditional Chinese Medicine, 
+      Hangzhou, China.
+FAU - Lian, Fengmei
+AU  - Lian F
+AD  - Guang'anmen Hospital, China Academy of Chinese Medical Sciences, Beijing, China.
+FAU - Tong, Xiaolin
+AU  - Tong X
+AD  - Guang'anmen Hospital, China Academy of Chinese Medical Sciences, Beijing, China.
+LA  - eng
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20230525
+PL  - Switzerland
+TA  - Front Endocrinol (Lausanne)
+JT  - Frontiers in endocrinology
+JID - 101555782
+RN  - 9100L32L2N (Metformin)
+RN  - 0 (Blood Glucose)
+RN  - 0 (jinlida)
+RN  - 0 (Glycated Hemoglobin)
+SB  - IM
+MH  - Humans
+MH  - *Diabetes Mellitus, Type 2/drug therapy
+MH  - *Metformin/therapeutic use
+MH  - Blood Glucose
+MH  - Glycated Hemoglobin
+PMC - PMC10248397
+OTO - NOTNLM
+OT  - Chinese medicine
+OT  - Jinlida
+OT  - clinical symptom
+OT  - secondary analysis
+OT  - type 2 diabetes
+COIS- The authors declare that the research was conducted in the absence of any 
+      commercial or financial relationships that could be construed as a potential 
+      conflict of interest.
+EDAT- 2023/06/12 06:42
+MHDA- 2023/06/13 06:42
+CRDT- 2023/06/12 04:18
+PHST- 2023/01/11 00:00 [received]
+PHST- 2023/05/08 00:00 [accepted]
+PHST- 2023/06/13 06:42 [medline]
+PHST- 2023/06/12 06:42 [pubmed]
+PHST- 2023/06/12 04:18 [entrez]
+AID - 10.3389/fendo.2023.1142327 [doi]
+PST - epublish
+SO  - Front Endocrinol (Lausanne). 2023 May 25;14:1142327. doi: 
+      10.3389/fendo.2023.1142327. eCollection 2023.
+
+PMID- 37304293
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230613
+LR  - 20230614
+IS  - 1664-3224 (Electronic)
+IS  - 1664-3224 (Linking)
+VI  - 14
+DP  - 2023
+TI  - Prediction of mortality in pneumonia patients with connective tissue disease 
+      treated with glucocorticoids or/and immunosuppressants by machine learning.
+PG  - 1192369
+LID - 10.3389/fimmu.2023.1192369 [doi]
+LID - 1192369
+AB  - OBJECTIVES: The assessment of accurate mortality risk is essential for managing 
+      pneumonia patients with connective tissue disease (CTD) treated with 
+      glucocorticoids or/and immunosuppressants. This study aimed to construct a 
+      nomogram for predicting 90-day mortality in pneumonia patients using machine 
+      learning. METHODS: Data were obtained from the DRYAD database. Pneumonia patients 
+      with CTD were screened. The samples were randomly divided into a training cohort 
+      (70%) and a validation cohort (30%). A univariate Cox regression analysis was 
+      used to screen for prognostic variables in the training cohort. Prognostic 
+      variables were entered into the least absolute shrinkage and selection operator 
+      (Lasso) and a random survival forest (RSF) analysis was used to screen important 
+      prognostic variables. The overlapping prognostic variables of the two algorithms 
+      were entered into the stepwise Cox regression analysis to screen the main 
+      prognostic variables and construct a model. Model predictive power was assessed 
+      using the C-index, the calibration curve, and the clinical subgroup analysis 
+      (age, gender, interstitial lung disease, diabetes mellitus). The clinical 
+      benefits of the model were assessed using a decision curve analysis (DCA). 
+      Similarly, the C-index was calculated and the calibration curve was plotted to 
+      verify the model stability in the validation cohort. RESULTS: A total of 368 
+      pneumonia patients with CTD (training cohort: 247; validation cohort: 121) 
+      treated with glucocorticoids or/and immunosuppressants were included. The 
+      univariate Cox regression analysis obtained 19 prognostic variables. Lasso and 
+      RSF algorithms obtained eight overlapping variables. The overlapping variables 
+      were entered into a stepwise Cox regression to obtain five variables (fever, 
+      cyanosis, blood urea nitrogen, ganciclovir treatment, and anti-pseudomonas 
+      treatment), and a prognostic model was constructed based on the five variables. 
+      The C-index of the construction nomogram of the training cohort was 0.808. The 
+      calibration curve, DCA results, and clinical subgroup analysis showed that the 
+      model also had good predictive power. Similarly, the C-index of the model in the 
+      validation cohort was 0.762 and the calibration curve had good predictive value. 
+      CONCLUSION: In this study, the nomogram developed performed well in predicting 
+      the 90-day risk of death in pneumonia patients with CTD treated with 
+      glucocorticoids or/and immunosuppressants.
+CI  - Copyright © 2023 Li, Ding, Luo and Li.
+FAU - Li, Dongdong
+AU  - Li D
+AD  - Medical College of Nanchang University, Nanchang, Jiangxi, China.
+AD  - Department of Pulmonary and Critical Care Medicine, Jiangxi Provincial People's 
+      Hospital, The First Affiliated Hospital of Nanchang Medical College, Nanchang, 
+      Jiangxi, China.
+FAU - Ding, Liting
+AU  - Ding L
+AD  - Department of Rheumatology and Clinical Immunology, Jiangxi Provincial People's 
+      Hospital, The First Affiliated Hospital of Nanchang Medical College, Nanchang, 
+      Jiangxi, China.
+AD  - JXHC Key Laboratory of Rheumatology and Immunology, Jiangxi Provincial People's 
+      Hospital, The First Affiliated Hospital of Nanchang Medical College, Nanchang, 
+      Jiangxi, China.
+FAU - Luo, Jiao
+AU  - Luo J
+AD  - Department of Rheumatology and Clinical Immunology, Jiangxi Provincial People's 
+      Hospital, The First Affiliated Hospital of Nanchang Medical College, Nanchang, 
+      Jiangxi, China.
+FAU - Li, Qiu-Gen
+AU  - Li QG
+AD  - Medical College of Nanchang University, Nanchang, Jiangxi, China.
+AD  - Department of Pulmonary and Critical Care Medicine, Jiangxi Provincial People's 
+      Hospital, The First Affiliated Hospital of Nanchang Medical College, Nanchang, 
+      Jiangxi, China.
+LA  - eng
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+DEP - 20230525
+PL  - Switzerland
+TA  - Front Immunol
+JT  - Frontiers in immunology
+JID - 101560960
+RN  - 0 (Glucocorticoids)
+RN  - 0 (Immunosuppressive Agents)
+SB  - IM
+MH  - Humans
+MH  - *Connective Tissue Diseases/complications/drug therapy
+MH  - *Glucocorticoids/therapeutic use
+MH  - Immunosuppressive Agents/therapeutic use
+MH  - Machine Learning
+MH  - Nomograms
+PMC - PMC10248221
+OTO - NOTNLM
+OT  - connective tissue disease
+OT  - glucocorticoids
+OT  - machine learning
+OT  - pneumonia
+OT  - prognosis
+COIS- The authors declare that the research was conducted in the absence of any 
+      commercial or financial relationships that could be construed as a potential 
+      conflict of interest.
+EDAT- 2023/06/12 06:42
+MHDA- 2023/06/13 06:42
+CRDT- 2023/06/12 04:06
+PHST- 2023/03/23 00:00 [received]
+PHST- 2023/05/04 00:00 [accepted]
+PHST- 2023/06/13 06:42 [medline]
+PHST- 2023/06/12 06:42 [pubmed]
+PHST- 2023/06/12 04:06 [entrez]
+AID - 10.3389/fimmu.2023.1192369 [doi]
+PST - epublish
+SO  - Front Immunol. 2023 May 25;14:1192369. doi: 10.3389/fimmu.2023.1192369. 
+      eCollection 2023.
+
+PMID- 37299435
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230612
+LR  - 20230612
+IS  - 2072-6643 (Electronic)
+IS  - 2072-6643 (Linking)
+VI  - 15
+IP  - 11
+DP  - 2023 May 25
+TI  - Non-Nutritive Sweetened Beverages Impair Therapeutic Benefits of Metformin in 
+      Prediabetic Diet-Induced Obese Mice.
+LID - 10.3390/nu15112472 [doi]
+LID - 2472
+AB  - Metformin, a frontline therapy for type 2 diabetes and related metabolic 
+      diseases, results in variable outcomes. This study aimed to investigate whether 
+      sweetened beverages (caloric or non-caloric) affect the therapeutic benefits of 
+      metformin on glucose, food intake, and weight loss in diet-induced obesity. Mice 
+      were given a high-fat diet and sweetened water for 8 weeks to induce obesity and 
+      glucose intolerance. Then, mice were randomized to receive metformin in either 
+      water, high-fructose corn syrup (HFCS), or the non-nutritive sweetener saccharin 
+      for 6 weeks. After 6 weeks of metformin treatment, all groups had improved 
+      glucose tolerance compared to pretreatment. However, saccharin resulted in worse 
+      glucose tolerance and weight gain outcomes than the water or HFCS groups and 
+      correlated with lower plasma growth differentiation factor 15 levels. In 
+      conclusion, reducing non-nutritive sweetener consumption during metformin therapy 
+      is recommended to avoid impairing the therapeutic effects of metformin on body 
+      weight and glucose homeostasis.
+FAU - Singh, Arashdeep
+AU  - Singh A
+AUID- ORCID: 0000-0002-2477-1438
+AD  - Department of Pharmacodynamics, College of Pharmacy, University of Florida, 
+      Gainesville, FL 32610, USA.
+AD  - Monell Chemical Senses Center, Philadelphia, PA 19104, USA.
+AD  - Department of Neuroscience, Perelman School of Medicine, University of 
+      Pennsylvania, Philadelphia, PA 19019, USA.
+FAU - Rourk, Katelyn
+AU  - Rourk K
+AUID- ORCID: 0009-0006-4329-5429
+AD  - Department of Pharmacodynamics, College of Pharmacy, University of Florida, 
+      Gainesville, FL 32610, USA.
+AD  - Mayo Clinic Alix School of Medicine, College of Medicine and Science, Rochester, 
+      MN 55905, USA.
+FAU - Bernier, Angelina
+AU  - Bernier A
+AUID- ORCID: 0000-0003-1300-8151
+AD  - Department of Pediatrics, College of Medicine, University of Florida, 
+      Gainesville, FL 32610, USA.
+FAU - de Lartigue, Guillaume
+AU  - de Lartigue G
+AD  - Department of Pharmacodynamics, College of Pharmacy, University of Florida, 
+      Gainesville, FL 32610, USA.
+AD  - Monell Chemical Senses Center, Philadelphia, PA 19104, USA.
+AD  - Department of Neuroscience, Perelman School of Medicine, University of 
+      Pennsylvania, Philadelphia, PA 19019, USA.
+LA  - eng
+GR  - R01DK116004/DK/NIDDK NIH HHS/United States
+GR  - R01DK125890/DK/NIDDK NIH HHS/United States
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+DEP - 20230525
+PL  - Switzerland
+TA  - Nutrients
+JT  - Nutrients
+JID - 101521595
+RN  - 0 (Non-Nutritive Sweeteners)
+RN  - FST467XS7D (Saccharin)
+RN  - 9100L32L2N (Metformin)
+RN  - 0 (Sweetening Agents)
+RN  - IY9XDZ35W2 (Glucose)
+RN  - 0 (High Fructose Corn Syrup)
+SB  - IM
+MH  - Mice
+MH  - Animals
+MH  - Mice, Obese
+MH  - *Non-Nutritive Sweeteners/adverse effects
+MH  - *Sugar-Sweetened Beverages
+MH  - *Prediabetic State
+MH  - Saccharin
+MH  - *Metformin/pharmacology/therapeutic use
+MH  - *Diabetes Mellitus, Type 2/drug therapy
+MH  - Sweetening Agents
+MH  - Glucose/pharmacology
+MH  - Obesity/drug therapy/etiology
+MH  - *High Fructose Corn Syrup/adverse effects
+MH  - Diet, High-Fat/adverse effects
+MH  - Beverages
+PMC - PMC10254927
+OTO - NOTNLM
+OT  - artificial sweeteners
+OT  - diabetes
+OT  - high-fat diet
+OT  - obesity
+OT  - sugar
+COIS- The authors declare no conflict of interest. The funders had no role in the 
+      design of the study; in the collection, analyses, or interpretation of data; in 
+      the writing of the manuscript; or in the decision to publish the results.
+EDAT- 2023/06/10 15:13
+MHDA- 2023/06/12 06:43
+CRDT- 2023/06/10 01:18
+PHST- 2023/05/08 00:00 [received]
+PHST- 2023/05/22 00:00 [revised]
+PHST- 2023/05/23 00:00 [accepted]
+PHST- 2023/06/12 06:43 [medline]
+PHST- 2023/06/10 15:13 [pubmed]
+PHST- 2023/06/10 01:18 [entrez]
+AID - nu15112472 [pii]
+AID - nutrients-15-02472 [pii]
+AID - 10.3390/nu15112472 [doi]
+PST - epublish
+SO  - Nutrients. 2023 May 25;15(11):2472. doi: 10.3390/nu15112472.
+
+PMID- 37299403
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230612
+LR  - 20230612
+IS  - 2072-6643 (Electronic)
+IS  - 2072-6643 (Linking)
+VI  - 15
+IP  - 11
+DP  - 2023 May 24
+TI  - Inflammatory Mediators and Type 2 Diabetes Risk Factors before and in Response to 
+      Lifestyle Intervention among Latino Adolescents with Obesity.
+LID - 10.3390/nu15112442 [doi]
+LID - 2442
+AB  - Obesity is associated with chronic inflammation that may contribute to T2D among 
+      youth. We examined the association between inflammatory biomarkers and insulin 
+      sensitivity and β-cell function and response to lifestyle intervention among 
+      Latino youth with obesity. Latino youth (n = 64) were randomized to six months of 
+      lifestyle intervention (INT, n = 40) or usual care (UC, n = 24). INT included 
+      nutrition education and physical activity. UC involved meeting with a pediatric 
+      endocrinologist and registered dietitian to discuss healthy lifestyles. At 
+      baseline, multiple linear regression assessed fasting serum interleukin-6 (IL-6), 
+      tumor necrosis factor-alpha (TNF-α), monocyte chemoattractant protein-1 (MCP-1), 
+      high-molecular weight adiponectin (HMW Adpn), IL-10, IL-1 receptor antagonist 
+      (IL-1ra) as predictors of insulin sensitivity (whole-body insulin sensitivity 
+      index, WBISI) and β-cell function (oral disposition index, oDI). Changes in 
+      outcomes between groups were assessed using covariance pattern models. At 
+      baseline, MCP-1 (β ± SE, -0.12 ± 0.05, p = 0.027) and IL-1ra (-0.03 ± 0.01, p = 
+      0.005) were negatively associated with WBISI. Treatment effects were not observed 
+      for inflammatory markers. WBISI was significantly increased among both INT (from 
+      1.8 ± 0.2 to 2.6 ± 0.4, p = 0.005) and UC (from 1.6 ± 0.2 to 2.8 ± 0.5, p = 
+      0.002) with no significant differences between the groups. Obesity-related 
+      inflammatory mediators were associated with T2D risk factors but were unaffected 
+      by lifestyle intervention among Latino youth.
+FAU - Peña, Armando
+AU  - Peña A
+AUID- ORCID: 0000-0002-8219-9433
+AD  - Department of Health and Wellness Design, School of Public Health-Bloomington, 
+      Indiana University, Bloomington, IN 47405, USA.
+AD  - College of Health Solutions, Arizona State University, Phoenix, AZ 85004, USA.
+AD  - Center for Health Promotion and Disease Prevention, Arizona State University, 
+      Phoenix, AZ 85004, USA.
+FAU - Olson, Micah L
+AU  - Olson ML
+AD  - Center for Health Promotion and Disease Prevention, Arizona State University, 
+      Phoenix, AZ 85004, USA.
+AD  - Division of Pediatric Endocrinology and Diabetes, Phoenix Children's Hospital, 
+      Phoenix, AZ 85016, USA.
+FAU - Ayers, Stephanie L
+AU  - Ayers SL
+AD  - Southwestern Interdisciplinary Research Center, Arizona State University, 
+      Phoenix, AZ 85004, USA.
+FAU - Sears, Dorothy D
+AU  - Sears DD
+AUID- ORCID: 0000-0002-9260-3540
+AD  - College of Health Solutions, Arizona State University, Phoenix, AZ 85004, USA.
+FAU - Vega-López, Sonia
+AU  - Vega-López S
+AUID- ORCID: 0000-0001-8089-0725
+AD  - College of Health Solutions, Arizona State University, Phoenix, AZ 85004, USA.
+AD  - Southwestern Interdisciplinary Research Center, Arizona State University, 
+      Phoenix, AZ 85004, USA.
+FAU - Colburn, Abigail T
+AU  - Colburn AT
+AUID- ORCID: 0000-0002-9086-1730
+AD  - Obstetrics, Gynecology and Reproductive Sciences, Yale School of Medicine, New 
+      Haven, CT 06510, USA.
+AD  - John B. Pierce Laboratory, Yale School of Medicine, New Haven, CT 06519, USA.
+FAU - Shaibi, Gabriel Q
+AU  - Shaibi GQ
+AD  - Center for Health Promotion and Disease Prevention, Arizona State University, 
+      Phoenix, AZ 85004, USA.
+AD  - Division of Pediatric Endocrinology and Diabetes, Phoenix Children's Hospital, 
+      Phoenix, AZ 85016, USA.
+AD  - Southwestern Interdisciplinary Research Center, Arizona State University, 
+      Phoenix, AZ 85004, USA.
+LA  - eng
+GR  - R01DK107579/DK/NIDDK NIH HHS/United States
+GR  - R01DK107579-03S1/DK/NIDDK NIH HHS/United States
+GR  - F31DK125037/DK/NIDDK NIH HHS/United States
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+DEP - 20230524
+PL  - Switzerland
+TA  - Nutrients
+JT  - Nutrients
+JID - 101521595
+RN  - 0 (Interleukin 1 Receptor Antagonist Protein)
+RN  - 0 (Inflammation Mediators)
+SB  - IM
+MH  - Adolescent
+MH  - Child
+MH  - Humans
+MH  - *Insulin Resistance
+MH  - Interleukin 1 Receptor Antagonist Protein
+MH  - Inflammation Mediators
+MH  - *Diabetes Mellitus, Type 2/complications
+MH  - Obesity/complications
+MH  - Life Style
+MH  - Risk Factors
+MH  - Hispanic or Latino
+PMC - PMC10255740
+OTO - NOTNLM
+OT  - adipokine
+OT  - diabetes prevention
+OT  - exercise
+OT  - inflammation
+OT  - nutrition
+OT  - pediatric obesity
+COIS- The authors declare no conflict of interest.
+EDAT- 2023/06/10 15:14
+MHDA- 2023/06/12 06:43
+CRDT- 2023/06/10 01:18
+PHST- 2023/04/11 00:00 [received]
+PHST- 2023/05/15 00:00 [revised]
+PHST- 2023/05/23 00:00 [accepted]
+PHST- 2023/06/12 06:43 [medline]
+PHST- 2023/06/10 15:14 [pubmed]
+PHST- 2023/06/10 01:18 [entrez]
+AID - nu15112442 [pii]
+AID - nutrients-15-02442 [pii]
+AID - 10.3390/nu15112442 [doi]
+PST - epublish
+SO  - Nutrients. 2023 May 24;15(11):2442. doi: 10.3390/nu15112442.

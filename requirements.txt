@@ -1,0 +1,5 @@
+html2text~=2020.1.16
+beautifulsoup4~=4.12.2
+cleantext~=1.1.4
+pandas~=2.0.2
+openai~=0.27.8

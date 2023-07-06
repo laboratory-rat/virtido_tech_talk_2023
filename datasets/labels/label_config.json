@@ -1,0 +1,26 @@
+[
+  {
+    "id": 44,
+    "text": "disease",
+    "prefixKey": null,
+    "suffixKey": "d",
+    "backgroundColor": "#D33115",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 45,
+    "text": "subject",
+    "prefixKey": null,
+    "suffixKey": "s",
+    "backgroundColor": "#FCDC00",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 46,
+    "text": "drug",
+    "prefixKey": null,
+    "suffixKey": "r",
+    "backgroundColor": "#68BC00",
+    "textColor": "#ffffff"
+  }
+]
