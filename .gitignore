@@ -1,4 +1,8 @@
 .ipynb_checkpoints/
 env.py
+.env
 venv/
 .idea/
+
+# pycache
+__pycache__/
